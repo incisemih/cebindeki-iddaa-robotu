@@ -1,9 +1,9 @@
 """
-🦅 Süper Lig AI Analizör (V15) - Streamlit App
+🦅 İddaa Analizör (v1.0)
 ----------------------------------------------
 Author: Antigravity Agent
 Description: Mobile-friendly web application for football match prediction using XGBoost.
-             Reads pre-fetched data from local CSV files (Offline Mode).
+             Fetches data from GitHub Raw URLs (Cloud Compatible).
 """
 
 import streamlit as st
@@ -24,9 +24,15 @@ except ImportError:
 # Suppress warnings
 warnings.filterwarnings('ignore')
 
+# --- GITHUB CONFIGURATION ---
+# Lütfen kendi GitHub kullanıcı adınızı ve repo isminizi buraya yazın
+GITHUB_USER = "incisemih" # Örn: "semih"
+GITHUB_REPO = "cebindeki-iddaa-robotu" # Örn: "football-ai"
+BRANCH_NAME = "main" # Genelde "main" veya "master"
+
 # --- CONFIGURATION ---
 st.set_page_config(
-    page_title="Süper Lig AI V15",
+    page_title="İddaa Analizör - Semih İNCİ",
     page_icon="🦅",
     layout="centered",
     initial_sidebar_state="expanded"
@@ -72,36 +78,43 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- LEAGUE MAPPING ---
-# Maps Display Name -> File Prefix (e.g. TUR_fikstur.csv)
 LEAGUES = {
-    "🇹🇷 Süper Lig": "TUR",
-    "🇬🇧 Premier League": "ENG",
-    "🇪🇸 La Liga": "ESP",
-    "🇮🇹 Serie A": "ITA",
-    "🇩🇪 Bundesliga": "GER",
-    "🇫🇷 Ligue 1": "FRA"
+    "🇹🇷 Süper Lig (TUR)": "TUR",
+    "🇬🇧 Premier League (ENG)": "ENG",
+    "🇪🇸 La Liga (ESP)": "ESP",
+    "🇮🇹 Serie A (ITA)": "ITA",
+    "🇩🇪 Bundesliga (GER)": "GER",
+    "🇫🇷 Ligue 1 (FRA)": "FRA"
 }
 
 # --- CLASSES ---
 
-class LocalDataFetcher:
+class GitHubDataFetcher:
     def __init__(self, league_prefix):
         self.league_prefix = league_prefix
-        self.data_dir = 'data'
+        self.base_url = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{BRANCH_NAME}/data"
+        
+    def get_file_url(self, file_type):
+        return f"{self.base_url}/{self.league_prefix}_{file_type}.csv"
         
     def fetch_data(self):
-        # Construct file path
-        file_path = os.path.join(self.data_dir, f"{self.league_prefix}_fikstur.csv")
+        # Construct file URL
+        file_url = self.get_file_url("fikstur")
         
-        if not os.path.exists(file_path):
-            return None
-            
+        # Debug info for sidebar
+        st.sidebar.markdown("### 📡 Bağlantı Durumu")
+        st.sidebar.code(file_url, language="text")
+        
         try:
-            # Read CSV
-            df = pd.read_csv(file_path)
+            # Read CSV directly from URL
+            # storage_options={'User-Agent': 'Mozilla/5.0'} sometimes helps with GitHub
+            df = pd.read_csv(file_url, storage_options={'User-Agent': 'Mozilla/5.0'})
             return df
         except Exception as e:
-            st.error(f"Dosya okuma hatası: {e}")
+            st.error(f"❌ Veri çekilemedi!")
+            st.error(f"🔗 Denenen Adres: {file_url}")
+            st.warning("Lütfen kodun başındaki 'GITHUB_USER' ve 'GITHUB_REPO' ayarlarını kontrol edin.")
+            st.caption(f"Hata Detayı: {e}")
             return None
 
 class DataProcessor:
@@ -114,14 +127,9 @@ class DataProcessor:
         return name
 
     def clean_schedule(self, df):
-        # CSV might have 'Unnamed: 0' index column, drop it
         if 'Unnamed: 0' in df.columns:
             df = df.drop(columns=['Unnamed: 0'])
             
-        # Rename columns to match V15 engine expectations
-        # Expected: Date, Home, Away, HG, AG, xG_Home, xG_Away
-        # CSV columns (from soccerdata): date, home_team, away_team, home_score, away_score, home_xg, away_xg
-        
         cols_map = {
             'date': 'Date',
             'home_team': 'Home',
@@ -134,21 +142,18 @@ class DataProcessor:
         
         df = df.rename(columns=cols_map)
         
-        # Ensure numeric
         for col in ['HG', 'AG', 'xG_Home', 'xG_Away']:
             if col in df.columns:
                 df[col] = pd.to_numeric(df[col], errors='coerce')
         
-        # Create Result
         conditions = [
             (df['HG'] > df['AG']),
             (df['HG'] < df['AG']),
             (df['HG'] == df['AG'])
         ]
-        choices = [1, 2, 0] # 1: Home, 2: Away, 0: Draw
+        choices = [1, 2, 0]
         df['Result'] = np.select(conditions, choices, default=np.nan)
         
-        # Fill missing xG with Goals (Synthetic xG)
         if 'xG_Home' in df.columns:
             df['xG_Home'] = df['xG_Home'].fillna(df['HG'])
         else:
@@ -177,13 +182,11 @@ class FeatureEngineering:
         long_df = pd.concat([h_df, a_df]).sort_values(['Team', 'Date'])
         grouped = long_df.groupby('Team')
         
-        # Rolling Stats
         long_df['Roll_xG_3'] = grouped['xG'].transform(lambda x: x.shift(1).rolling(3, min_periods=1).mean())
         long_df['Roll_Goals_5'] = grouped['Goals'].transform(lambda x: x.shift(1).rolling(5, min_periods=1).mean())
         long_df['Prev_Date'] = grouped['Date'].shift(1)
         long_df['Fatigue'] = (long_df['Date'] - long_df['Prev_Date']).dt.days.fillna(7)
         
-        # Home Advantage
         home_stats = long_df[long_df['Is_Home'] == 1]
         league_home_avg = home_stats['Points'].mean()
         team_home_avg = home_stats.groupby('Team')['Points'].transform(lambda x: x.expanding().mean().shift(1))
@@ -192,7 +195,6 @@ class FeatureEngineering:
         long_df.loc[long_df['Is_Home'] == 1, 'Home_Adv_Factor'] = team_home_avg - league_home_avg
         long_df['Home_Adv_Factor'] = long_df['Home_Adv_Factor'].fillna(0)
         
-        # Merge back
         df = df.merge(long_df[['Date', 'Team', 'Roll_xG_3', 'Roll_Goals_5', 'Fatigue', 'Home_Adv_Factor']], 
                       left_on=['Date', 'Home'], right_on=['Date', 'Team'], how='left')
         df = df.rename(columns={'Roll_xG_3': 'H_Roll_xG', 'Roll_Goals_5': 'H_Roll_Goals', 'Fatigue': 'H_Fatigue', 'Home_Adv_Factor': 'H_Adv'}).drop('Team', axis=1)
@@ -225,7 +227,6 @@ class XGBoostEngine:
         
     def predict(self, df):
         now = datetime.now()
-        # Filter upcoming matches (Next 3 days)
         unplayed = df[df['Date'] >= now].sort_values('Date')
         
         if unplayed.empty: return pd.DataFrame()
@@ -248,7 +249,7 @@ class XGBoostEngine:
 
 @st.cache_data(ttl=3600)
 def fetch_and_process_data(league_prefix):
-    fetcher = LocalDataFetcher(league_prefix)
+    fetcher = GitHubDataFetcher(league_prefix)
     raw_schedule = fetcher.fetch_data()
     
     if raw_schedule is None:
@@ -274,7 +275,7 @@ def run_analysis(df):
 
 def main():
     st.title("🦅 Süper Lig AI Analizör")
-    st.caption(f"Powered by {MODEL_TYPE} V15.0 | Offline Mode")
+    st.caption(f"Powered by {MODEL_TYPE} V15.0 | Cloud Mode")
     
     # Sidebar
     st.sidebar.header("⚙️ Ayarlar")
@@ -288,14 +289,12 @@ def main():
     show_banko = st.sidebar.checkbox("Sadece Banko Maçları Göster", value=False)
     
     if st.sidebar.button("Analizi Başlat", type="primary"):
-        with st.spinner(f"{selected_league_name} verileri yükleniyor..."):
+        with st.spinner(f"{selected_league_name} verileri GitHub'dan çekiliyor..."):
             try:
                 # 1. Fetch
                 df = fetch_and_process_data(league_prefix)
                 
                 if df is None:
-                    st.warning(f"⚠️ '{selected_league_name}' için veri dosyası bulunamadı.")
-                    st.info("Veriler GitHub Actions tarafından hazırlanıyor olabilir. Lütfen daha sonra tekrar deneyin.")
                     st.stop()
                     
                 if df.empty:
@@ -363,7 +362,6 @@ def main():
                         
             except Exception as e:
                 st.error(f"Bir hata oluştu: {e}")
-                # st.exception(e) # Debugging
 
     else:
         st.info("👈 Analizi başlatmak için butona tıklayın.")
