@@ -1,15 +1,14 @@
 """
-🦅 Cebindeki İddaa Robotu (V1.0)
+🦅 Süper Lig AI Analizör (V15) - Streamlit App
 ----------------------------------------------
 Author: Antigravity Agent
 Description: Mobile-friendly web application for football match prediction using XGBoost.
-             Powered by soccerdata for real-time FBref data.
+             Reads pre-fetched data from local CSV files (Offline Mode).
 """
 
 import streamlit as st
 import pandas as pd
 import numpy as np
-import soccerdata as sd
 from datetime import datetime, timedelta
 import warnings
 import os
@@ -27,7 +26,7 @@ warnings.filterwarnings('ignore')
 
 # --- CONFIGURATION ---
 st.set_page_config(
-    page_title="Süper Lig AI V1.0",
+    page_title="Süper Lig AI V15",
     page_icon="🦅",
     layout="centered",
     initial_sidebar_state="expanded"
@@ -73,37 +72,37 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- LEAGUE MAPPING ---
+# Maps Display Name -> File Prefix (e.g. TUR_fikstur.csv)
 LEAGUES = {
-    "🇹🇷 Süper Lig": "TUR-Super Lig",
-    "🇬🇧 Premier League": "ENG-Premier League",
-    "🇪🇸 La Liga": "ESP-La Liga",
-    "🇮🇹 Serie A": "ITA-Serie A",
-    "🇩🇪 Bundesliga": "GER-Bundesliga",
-    "🇫🇷 Ligue 1": "FRA-Ligue 1"
+    "🇹🇷 Süper Lig": "TUR",
+    "🇬🇧 Premier League": "ENG",
+    "🇪🇸 La Liga": "ESP",
+    "🇮🇹 Serie A": "ITA",
+    "🇩🇪 Bundesliga": "GER",
+    "🇫🇷 Ligue 1": "FRA"
 }
 
 # --- CLASSES ---
 
-class SoccerDataFetcher:
-    def __init__(self, league_code):
-        self.league_code = league_code
-        # Fetch current and previous season for training
-        self.seasons = ['2023', '2024'] 
+class LocalDataFetcher:
+    def __init__(self, league_prefix):
+        self.league_prefix = league_prefix
+        self.data_dir = 'data'
         
     def fetch_data(self):
-        # Initialize FBref reader
-        # no_cache=False to use local cache if available (soccerdata handles this)
-        # no_store=False to save data locally
-        reader = sd.FBref(leagues=self.league_code, seasons=self.seasons)
+        # Construct file path
+        file_path = os.path.join(self.data_dir, f"{self.league_prefix}_fikstur.csv")
         
-        # 1. Schedule (Fixtures & Results)
-        schedule = reader.read_schedule()
-        
-        # Flatten MultiIndex columns if present
-        if isinstance(schedule.columns, pd.MultiIndex):
-             schedule.columns = ['_'.join(col).strip() for col in schedule.columns.values]
-             
-        return schedule
+        if not os.path.exists(file_path):
+            return None
+            
+        try:
+            # Read CSV
+            df = pd.read_csv(file_path)
+            return df
+        except Exception as e:
+            st.error(f"Dosya okuma hatası: {e}")
+            return None
 
 class DataProcessor:
     @staticmethod
@@ -115,14 +114,13 @@ class DataProcessor:
         return name
 
     def clean_schedule(self, df):
-        # Reset index to get League, Season, Game as columns if needed, or just drop them
-        df = df.reset_index()
-        
-        # Identify columns
-        # soccerdata columns: date, home_team, away_team, home_score, away_score, home_xg, away_xg
-        
-        # Rename to match our V15 engine expectations
+        # CSV might have 'Unnamed: 0' index column, drop it
+        if 'Unnamed: 0' in df.columns:
+            df = df.drop(columns=['Unnamed: 0'])
+            
+        # Rename columns to match V15 engine expectations
         # Expected: Date, Home, Away, HG, AG, xG_Home, xG_Away
+        # CSV columns (from soccerdata): date, home_team, away_team, home_score, away_score, home_xg, away_xg
         
         cols_map = {
             'date': 'Date',
@@ -133,9 +131,6 @@ class DataProcessor:
             'home_xg': 'xG_Home',
             'away_xg': 'xG_Away'
         }
-        
-        # Handle potential MultiIndex flattening results like 'home_score' vs 'score_home'
-        # soccerdata usually returns 'home_score'
         
         df = df.rename(columns=cols_map)
         
@@ -170,9 +165,6 @@ class FeatureEngineering:
     def process(self, df):
         df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
         df = df.sort_values('Date')
-        
-        # Filter valid rows for calculation
-        # We need played matches for stats
         
         h_df = df[['Date', 'Home', 'Result', 'xG_Home', 'HG']].rename(columns={'Home': 'Team', 'xG_Home': 'xG', 'HG': 'Goals'})
         h_df['Points'] = h_df['Result'].apply(lambda x: 3 if x==1 else (1 if x==0 else 0))
@@ -221,12 +213,8 @@ class XGBoostEngine:
         self.features = ['H_Roll_xG', 'H_Roll_Goals', 'H_Fatigue', 'H_Adv', 'A_Roll_xG', 'A_Roll_Goals', 'A_Fatigue']
         
     def train(self, df):
-        # Train on played matches (Result is not NaN)
-        # Note: In clean_schedule, we calculated Result based on HG/AG. 
-        # Unplayed matches will have NaN HG/AG (or 0 if filled, but we should check Date)
-        
         train_df = df[df['Date'] < datetime.now()]
-        train_df = train_df[train_df['Result'].notnull()] # Ensure we have a result
+        train_df = train_df[train_df['Result'].notnull()] 
         
         if train_df.empty: return 0
         
@@ -258,10 +246,13 @@ class XGBoostEngine:
 
 # --- CACHED FUNCTIONS ---
 
-@st.cache_data(ttl=3600) # Cache for 1 hour
-def fetch_and_process_data(league_code):
-    fetcher = SoccerDataFetcher(league_code)
+@st.cache_data(ttl=3600)
+def fetch_and_process_data(league_prefix):
+    fetcher = LocalDataFetcher(league_prefix)
     raw_schedule = fetcher.fetch_data()
+    
+    if raw_schedule is None:
+        return None
     
     processor = DataProcessor()
     clean_df = processor.clean_schedule(raw_schedule)
@@ -283,7 +274,7 @@ def run_analysis(df):
 
 def main():
     st.title("🦅 Süper Lig AI Analizör")
-    st.caption(f"Powered by {MODEL_TYPE} V15.0 | soccerdata Integration")
+    st.caption(f"Powered by {MODEL_TYPE} V15.0 | Offline Mode")
     
     # Sidebar
     st.sidebar.header("⚙️ Ayarlar")
@@ -292,25 +283,29 @@ def main():
         "Lig Seçiniz",
         list(LEAGUES.keys())
     )
-    league_code = LEAGUES[selected_league_name]
+    league_prefix = LEAGUES[selected_league_name]
     
     show_banko = st.sidebar.checkbox("Sadece Banko Maçları Göster", value=False)
     
     if st.sidebar.button("Analizi Başlat", type="primary"):
-        with st.spinner(f"{selected_league_name} verileri FBref üzerinden çekiliyor..."):
+        with st.spinner(f"{selected_league_name} verileri yükleniyor..."):
             try:
                 # 1. Fetch
-                df = fetch_and_process_data(league_code)
+                df = fetch_and_process_data(league_prefix)
                 
+                if df is None:
+                    st.warning(f"⚠️ '{selected_league_name}' için veri dosyası bulunamadı.")
+                    st.info("Veriler GitHub Actions tarafından hazırlanıyor olabilir. Lütfen daha sonra tekrar deneyin.")
+                    st.stop()
+                    
                 if df.empty:
-                    st.error("Veri çekilemedi. Lütfen bağlantınızı kontrol edin.")
+                    st.error("Veri dosyası boş.")
                     st.stop()
                     
                 # 2. Analyze
                 train_size, preds = run_analysis(df)
                 
-                st.success(f"Veriler güncellendi! {train_size} maç ile model eğitildi.")
-                st.caption(f"Son Güncelleme: {datetime.now().strftime('%H:%M:%S')}")
+                st.success(f"Veriler yüklendi! {train_size} maç ile model eğitildi.")
                 
                 # 3. Display
                 st.divider()
