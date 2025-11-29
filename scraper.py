@@ -1,8 +1,8 @@
 """
-Football Data Scraper for GitHub Actions
-----------------------------------------
+Football Data Scraper for GitHub Actions (Debug Mode)
+-----------------------------------------------------
 Fetches latest data from FBref using soccerdata and saves as CSV.
-Leagues: TUR, ENG, ESP, ITA, GER, FRA
+Includes logic to list available leagues for debugging names.
 """
 
 import soccerdata as sd
@@ -15,7 +15,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Configuration
-LEAGUES = {
+# We will try these codes. If TUR-Super Lig is wrong, the debug print will help us find the right one.
+LEAGUES_TO_TRY = {
     "TUR-Super Lig": "TUR",
     "ENG-Premier League": "ENG",
     "ESP-La Liga": "ESP",
@@ -24,31 +25,52 @@ LEAGUES = {
     "FRA-Ligue 1": "FRA"
 }
 
-# Fetch current and previous season to ensure we have enough history for models
 SEASONS = ['2023', '2024']
 DATA_DIR = 'data'
 
 def main():
-    print("🚀 Starting Football Data Scraper...")
+    print("🚀 Starting Football Data Scraper (Debug Mode)...")
     
-    # Create data directory if not exists
+    # --- 1. DETECTIVE BLOCK ---
+    print("\n🔍 Searching for correct League Names...")
+    try:
+        # FBref available leagues
+        available = sd.FBref.available_leagues() 
+        
+        print(f"   Found {len(available)} leagues in total.")
+        print("   Filtering for 'TUR', 'Turkey', 'Super':")
+        
+        found_any = False
+        for league in available:
+            if any(x in league for x in ['TUR', 'Turkey', 'Super']):
+                print(f"   -> FOUND: {league}")
+                found_any = True
+                
+        if not found_any:
+            print("   -> No matching leagues found with those keywords.")
+            
+    except Exception as e:
+        print(f"   ⚠️ Could not list available leagues: {e}")
+        print("   (Proceeding with hardcoded list...)")
+
+    # --- 2. SAFE DOWNLOAD LOOP ---
+    print("\n⬇️ Starting Download Loop...")
+    
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
         print(f"   Created directory: {DATA_DIR}")
-        
-    for league_code, prefix in LEAGUES.items():
+
+    for league_code, prefix in LEAGUES_TO_TRY.items():
         print(f"\n⚽ Processing: {league_code} ({prefix})")
         
         try:
             # Initialize FBref scraper
-            # no_cache=True forces fresh download (important for GitHub Actions)
-            # no_store=False saves raw htmls locally (optional, maybe disable to save space)
             fb = sd.FBref(leagues=league_code, seasons=SEASONS)
             
             # 1. Fixture & Results
-            print("   > Downloading Schedule...")
+            print(f"   > Downloading Schedule for {league_code}...")
             schedule = fb.read_schedule()
-            # Flatten MultiIndex if present
+            
             if isinstance(schedule.columns, pd.MultiIndex):
                 schedule.columns = ['_'.join(col).strip() for col in schedule.columns.values]
             
@@ -57,7 +79,7 @@ def main():
             print(f"     Saved: {csv_path}")
             
             # 2. Standard Stats
-            print("   > Downloading Standard Stats...")
+            print(f"   > Downloading Standard Stats for {league_code}...")
             stats = fb.read_team_season_stats(stat_type="standard")
             if isinstance(stats.columns, pd.MultiIndex):
                 stats.columns = ['_'.join(col).strip() for col in stats.columns.values]
@@ -67,7 +89,7 @@ def main():
             print(f"     Saved: {csv_path}")
             
             # 3. Shooting Stats
-            print("   > Downloading Shooting Stats...")
+            print(f"   > Downloading Shooting Stats for {league_code}...")
             shooting = fb.read_team_season_stats(stat_type="shooting")
             if isinstance(shooting.columns, pd.MultiIndex):
                 shooting.columns = ['_'.join(col).strip() for col in shooting.columns.values]
@@ -77,11 +99,12 @@ def main():
             print(f"     Saved: {csv_path}")
             
         except Exception as e:
-            print(f"❌ Error processing {league_code}: {e}")
-            # Don't stop the script, try next league
+            print(f"❌ ERROR: Could not process {league_code}.")
+            print(f"   Reason: {e}")
+            print("   (Skipping to next league...)")
             continue
             
-    print("\n✅ Scraping Completed!")
+    print("\n✅ Scraping Session Completed!")
 
 if __name__ == "__main__":
     main()
