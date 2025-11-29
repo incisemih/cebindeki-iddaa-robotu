@@ -1,0 +1,41 @@
+league,season,team,players_used_,90s_,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,url_
+ESP-La Liga,2324,Alavés,30,38,33,458,136,29.7,12.05,3.58,0.07,0.22,17.7,15,3,7,46.2,40.7,0.09,-13.2,-10.7,/en/squads/8d6fd021/2023-2024/Alaves-Stats
+ESP-La Liga,2324,Almería,35,38,42,478,163,34.1,12.58,4.29,0.08,0.25,18.8,18,2,2,48.7,47.1,0.1,-6.7,-7.1,/en/squads/78ecf4bb/2023-2024/Almeria-Stats
+ESP-La Liga,2324,Athletic Club,27,38,59,458,163,35.6,12.05,4.29,0.12,0.34,15.9,7,3,5,52.7,48.7,0.11,6.3,7.3,/en/squads/2b390eca/2023-2024/Athletic-Club-Stats
+ESP-La Liga,2324,Atlético Madrid,27,38,68,475,197,41.5,12.5,5.18,0.13,0.32,16.2,9,5,6,62.4,57.9,0.12,5.6,5.1,/en/squads/db3b9613/2023-2024/Atletico-Madrid-Stats
+ESP-La Liga,2324,Barcelona,29,38,76,588,219,37.2,15.47,5.76,0.12,0.32,16.5,21,6,7,77.6,72.1,0.13,-1.6,-2.1,/en/squads/206d90db/2023-2024/Barcelona-Stats
+ESP-La Liga,2324,Betis,35,38,46,489,150,30.7,12.87,3.95,0.09,0.29,17.2,15,2,3,43.9,41.7,0.09,2.1,2.3,/en/squads/fc536746/2023-2024/Real-Betis-Stats
+ESP-La Liga,2324,Celta Vigo,31,38,45,467,151,32.3,12.29,3.97,0.09,0.28,17.5,14,3,5,50.7,46.9,0.1,-5.7,-4.9,/en/squads/f25da7fb/2023-2024/Celta-Vigo-Stats
+ESP-La Liga,2324,Cádiz,34,38,25,395,120,30.4,10.39,3.16,0.06,0.18,18.4,21,3,3,36.0,33.6,0.09,-11.0,-11.6,/en/squads/ee7c297c/2023-2024/Cadiz-Stats
+ESP-La Liga,2324,Getafe,33,38,42,446,150,33.6,11.74,3.95,0.08,0.24,18.6,14,6,7,45.7,40.2,0.09,-3.7,-4.2,/en/squads/7848bd64/2023-2024/Getafe-Stats
+ESP-La Liga,2324,Girona,25,38,84,476,178,37.4,12.53,4.68,0.16,0.43,16.4,13,7,8,70.8,64.6,0.14,13.2,12.4,/en/squads/9024a00a/2023-2024/Girona-Stats
+ESP-La Liga,2324,Granada,40,38,35,394,123,31.2,10.37,3.24,0.08,0.24,17.8,15,5,8,42.6,36.4,0.09,-7.6,-6.4,/en/squads/a0435291/2023-2024/Granada-Stats
+ESP-La Liga,2324,Las Palmas,29,38,33,386,120,31.1,10.16,3.16,0.08,0.25,20.1,21,3,5,33.2,29.2,0.08,-0.2,0.8,/en/squads/0049d422/2023-2024/Las-Palmas-Stats
+ESP-La Liga,2324,Mallorca,25,38,33,415,131,31.6,10.92,3.45,0.08,0.24,16.8,4,1,3,40.5,38.2,0.09,-7.5,-6.2,/en/squads/2aa12281/2023-2024/Mallorca-Stats
+ESP-La Liga,2324,Osasuna,29,38,45,421,124,29.5,11.08,3.26,0.1,0.33,17.9,14,4,5,40.5,36.6,0.09,4.5,4.4,/en/squads/03c57e2b/2023-2024/Osasuna-Stats
+ESP-La Liga,2324,Rayo Vallecano,26,38,29,487,160,32.9,12.82,4.21,0.05,0.14,20.8,47,6,6,42.3,37.7,0.08,-13.3,-14.7,/en/squads/98e8af82/2023-2024/Rayo-Vallecano-Stats
+ESP-La Liga,2324,Real Madrid,27,38,85,593,242,40.8,15.61,6.37,0.14,0.34,17.5,24,2,5,68.8,65.2,0.11,16.2,17.8,/en/squads/53a2f082/2023-2024/Real-Madrid-Stats
+ESP-La Liga,2324,Real Sociedad,31,38,48,457,147,32.2,12.03,3.87,0.1,0.3,17.8,24,4,4,44.9,41.8,0.09,3.1,2.2,/en/squads/e31d1cd9/2023-2024/Real-Sociedad-Stats
+ESP-La Liga,2324,Sevilla,35,38,46,487,160,32.9,12.82,4.21,0.09,0.28,17.5,15,2,2,44.9,43.3,0.09,1.1,0.7,/en/squads/ad2be733/2023-2024/Sevilla-Stats
+ESP-La Liga,2324,Valencia,29,38,39,368,123,33.4,9.68,3.24,0.08,0.25,18.7,16,8,9,43.1,36.2,0.1,-4.1,-5.2,/en/squads/dcc91a7b/2023-2024/Valencia-Stats
+ESP-La Liga,2324,Villarreal,32,38,64,462,163,35.3,12.16,4.29,0.13,0.36,16.2,8,5,7,55.6,50.1,0.11,8.4,8.9,/en/squads/2a8183b3/2023-2024/Villarreal-Stats
+ESP-La Liga,2425,Alavés,29,38,38,393,123,31.3,10.34,3.24,0.07,0.24,17.8,10,9,11,42.8,34.1,0.09,-4.8,-5.1,/en/squads/8d6fd021/2024-2025/Alaves-Stats
+ESP-La Liga,2425,Athletic Club,31,38,53,462,148,32.0,12.16,3.89,0.11,0.34,17.4,8,3,6,53.0,48.2,0.11,0.0,1.8,/en/squads/2b390eca/2024-2025/Athletic-Club-Stats
+ESP-La Liga,2425,Atlético Madrid,24,38,68,463,174,37.6,12.18,4.58,0.13,0.36,17.0,13,6,7,64.6,59.3,0.13,3.4,2.7,/en/squads/db3b9613/2024-2025/Atletico-Madrid-Stats
+ESP-La Liga,2425,Barcelona,28,38,99,670,240,35.8,17.63,6.32,0.14,0.38,17.1,27,7,8,91.5,85.2,0.13,7.5,6.8,/en/squads/206d90db/2024-2025/Barcelona-Stats
+ESP-La Liga,2425,Betis,36,38,55,518,176,34.0,13.63,4.63,0.09,0.27,18.1,14,7,10,54.7,46.9,0.09,0.3,1.1,/en/squads/fc536746/2024-2025/Real-Betis-Stats
+ESP-La Liga,2425,Celta Vigo,30,38,58,442,167,37.8,11.63,4.39,0.11,0.3,17.9,19,8,9,54.2,47.3,0.11,3.8,2.7,/en/squads/f25da7fb/2024-2025/Celta-Vigo-Stats
+ESP-La Liga,2425,Espanyol,27,38,38,351,98,27.9,9.24,2.58,0.09,0.34,18.4,15,5,5,34.4,30.5,0.09,3.6,2.5,/en/squads/a8661628/2024-2025/Espanyol-Stats
+ESP-La Liga,2425,Getafe,30,38,34,430,122,28.4,11.32,3.21,0.07,0.24,19.4,17,5,5,36.8,33.0,0.08,-2.8,-4.0,/en/squads/7848bd64/2024-2025/Getafe-Stats
+ESP-La Liga,2425,Girona,30,38,43,397,134,33.8,10.45,3.53,0.1,0.29,17.7,13,4,5,42.5,38.6,0.1,0.5,0.4,/en/squads/9024a00a/2024-2025/Girona-Stats
+ESP-La Liga,2425,Las Palmas,34,38,38,409,134,32.8,10.76,3.53,0.09,0.26,19.2,21,3,4,36.3,33.2,0.08,1.7,1.8,/en/squads/0049d422/2024-2025/Las-Palmas-Stats
+ESP-La Liga,2425,Leganés,26,38,38,345,110,31.9,9.08,2.89,0.1,0.3,20.1,19,5,7,36.0,30.6,0.09,2.0,2.4,/en/squads/7c6f2c78/2024-2025/Leganes-Stats
+ESP-La Liga,2425,Mallorca,28,38,34,382,107,28.0,10.05,2.82,0.08,0.28,16.3,7,4,5,38.8,34.9,0.09,-4.8,-4.9,/en/squads/2aa12281/2024-2025/Mallorca-Stats
+ESP-La Liga,2425,Osasuna,25,38,46,409,123,30.1,10.76,3.24,0.09,0.3,16.7,9,9,9,44.0,37.8,0.09,2.0,-0.8,/en/squads/03c57e2b/2024-2025/Osasuna-Stats
+ESP-La Liga,2425,Rayo Vallecano,26,38,38,514,162,31.5,13.53,4.26,0.07,0.23,19.3,25,0,1,45.4,44.6,0.09,-7.4,-6.6,/en/squads/98e8af82/2024-2025/Rayo-Vallecano-Stats
+ESP-La Liga,2425,Real Madrid,30,38,78,621,229,36.9,16.34,6.03,0.11,0.3,18.1,15,10,14,75.3,64.5,0.11,2.7,3.5,/en/squads/53a2f082/2024-2025/Real-Madrid-Stats
+ESP-La Liga,2425,Real Sociedad,31,38,34,385,122,31.7,10.13,3.21,0.08,0.25,17.5,10,4,4,42.5,39.3,0.1,-8.5,-9.3,/en/squads/e31d1cd9/2024-2025/Real-Sociedad-Stats
+ESP-La Liga,2425,Sevilla,35,38,39,472,148,31.4,12.42,3.89,0.08,0.25,18.8,14,2,3,42.7,40.3,0.09,-3.7,-3.3,/en/squads/ad2be733/2024-2025/Sevilla-Stats
+ESP-La Liga,2425,Valencia,32,38,43,383,116,30.3,10.08,3.05,0.1,0.33,17.2,6,5,5,43.3,39.3,0.11,-0.3,-1.3,/en/squads/dcc91a7b/2024-2025/Valencia-Stats
+ESP-La Liga,2425,Valladolid,38,38,26,331,97,29.3,8.71,2.55,0.06,0.22,18.0,11,5,5,34.6,30.7,0.09,-8.6,-9.7,/en/squads/17859612/2024-2025/Valladolid-Stats
+ESP-La Liga,2425,Villarreal,31,38,69,530,171,32.3,13.95,4.5,0.12,0.37,16.0,9,5,7,64.8,59.1,0.12,4.2,4.9,/en/squads/2a8183b3/2024-2025/Villarreal-Stats
