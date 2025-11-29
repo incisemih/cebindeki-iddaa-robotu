@@ -7,3 +7,5 @@ lxml
 fuzzywuzzy
 python-Levenshtein
 soccerdata
+html5lib
+lxml
