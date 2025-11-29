@@ -6,3 +6,4 @@ xgboost
 lxml
 fuzzywuzzy
 python-Levenshtein
+soccerdata
