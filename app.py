@@ -8,7 +8,7 @@ st.set_page_config(page_title="İddaa Analizör Pro - Semih İNCİ", page_icon="
 
 # KENDİ BİLGİLERİNİ GİR
 GITHUB_USER = "incisemih"
-GITHUB_REPO = "repo"
+GITHUB_REPO = "cebindeki-iddaa-robotu"
 BRANCH_NAME = "main"
 
 BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{BRANCH_NAME}/data"
@@ -149,3 +149,4 @@ if df_fikstur is not None:
         st.warning("Veri Yetersiz.")
 else:
     st.error("GitHub verisi okunamadı.")
+
