@@ -1,617 +1,307 @@
-league,season,game,round,week,day,date,time,home_team,home_xg,score,away_xg,away_team,attendance,venue,referee,match_report,notes,game_id
-FRA-Ligue 1,2324,2023-08-11 Nice-Lille,Ligue 1,1,Fri,2023-08-11,21:00,Nice,1.2,1–1,1.3,Lille,29436,Stade de Nice,Benoît Bastien,/en/matches/ff59d311/Nice-Lille-August-11-2023-Ligue-1,,ff59d311
-FRA-Ligue 1,2324,2023-08-12 Marseille-Reims,Ligue 1,1,Sat,2023-08-12,17:00,Marseille,1.0,2–1,0.8,Reims,63787,Orange Vélodrome,Eric Wattellier,/en/matches/fdbcc9e3/Marseille-Reims-August-12-2023-Ligue-1,,fdbcc9e3
-FRA-Ligue 1,2324,2023-08-12 Paris S-G-Lorient,Ligue 1,1,Sat,2023-08-12,21:00,Paris S-G,1.2,0–0,0.1,Lorient,47000,Parc des Princes,Bastien Dechepy,/en/matches/2e85b460/Paris-Saint-Germain-Lorient-August-12-2023-Ligue-1,,2e85b460
-FRA-Ligue 1,2324,2023-08-13 Brest-Lens,Ligue 1,1,Sun,2023-08-13,13:00,Brest,2.5,3–2,0.7,Lens,15085,Stade Francis-Le Blé,Jérémie Pignard,/en/matches/6e29d5a3/Brest-Lens-August-13-2023-Ligue-1,,6e29d5a3
-FRA-Ligue 1,2324,2023-08-13 Clermont Foot-Monaco,Ligue 1,1,Sun,2023-08-13,15:00,Clermont Foot,1.8,2–4,2.5,Monaco,10453,Stade Gabriel Montpied,François Letexier,/en/matches/68752280/Clermont-Foot-Monaco-August-13-2023-Ligue-1,,68752280
-FRA-Ligue 1,2324,2023-08-13 Montpellier-Le Havre,Ligue 1,1,Sun,2023-08-13,15:00,Montpellier,1.6,2–2,1.0,Le Havre,15852,Stade de la Mosson,Clément Turpin,/en/matches/ca893ead/Montpellier-Le-Havre-August-13-2023-Ligue-1,,ca893ead
-FRA-Ligue 1,2324,2023-08-13 Nantes-Toulouse,Ligue 1,1,Sun,2023-08-13,15:00,Nantes,1.1,1–2,1.1,Toulouse,30578,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,/en/matches/1e12937d/Nantes-Toulouse-August-13-2023-Ligue-1,,1e12937d
-FRA-Ligue 1,2324,2023-08-13 Rennes-Metz,Ligue 1,1,Sun,2023-08-13,17:05,Rennes,4.0,5–1,0.4,Metz,26065,Roazhon Park,Jeremy Stinat,/en/matches/e0073aaf/Rennes-Metz-August-13-2023-Ligue-1,,e0073aaf
-FRA-Ligue 1,2324,2023-08-13 Strasbourg-Lyon,Ligue 1,1,Sun,2023-08-13,20:45,Strasbourg,1.3,2–1,1.7,Lyon,25410,Stade de la Meinau,Jérôme Brisard,/en/matches/9f7c605e/Strasbourg-Lyon-August-13-2023-Ligue-1,,9f7c605e
-FRA-Ligue 1,2324,2023-08-18 Metz-Marseille,Ligue 1,2,Fri,2023-08-18,21:00,Metz,0.5,2–2,1.9,Marseille,26661,Stade Saint-Symphorien,Jérôme Brisard,/en/matches/02c81085/Metz-Marseille-August-18-2023-Ligue-1,,02c81085
-FRA-Ligue 1,2324,2023-08-19 Lyon-Montpellier,Ligue 1,2,Sat,2023-08-19,19:00,Lyon,0.4,1–4,2.9,Montpellier,42576,Groupama Stadium,Mathieu Vernice,/en/matches/39ad4054/Lyon-Montpellier-August-19-2023-Ligue-1,,39ad4054
-FRA-Ligue 1,2324,2023-08-19 Toulouse-Paris S-G,Ligue 1,2,Sat,2023-08-19,21:00,Toulouse,1.2,1–1,2.1,Paris S-G,27332,Stadium Municipal,Thomas Léonard,/en/matches/fad8e14d/Toulouse-Paris-Saint-Germain-August-19-2023-Ligue-1,,fad8e14d
-FRA-Ligue 1,2324,2023-08-20 Le Havre-Brest,Ligue 1,2,Sun,2023-08-20,15:00,Le Havre,1.2,1–2,1.1,Brest,19574,Stade Océane,Florent Batta,/en/matches/680c6c1d/Le-Havre-Brest-August-20-2023-Ligue-1,,680c6c1d
-FRA-Ligue 1,2324,2023-08-20 Lens-Rennes,Ligue 1,2,Sun,2023-08-20,20:45,Lens,1.0,1–1,1.4,Rennes,37233,Stade Bollaert-Delelis,Benoît Millot,/en/matches/283d8d62/Lens-Rennes-August-20-2023-Ligue-1,,283d8d62
-FRA-Ligue 1,2324,2023-08-20 Lille-Nantes,Ligue 1,2,Sun,2023-08-20,13:00,Lille,2.2,2–0,1.1,Nantes,34356,Decathlon Arena - Stade Pierre-Mauroy,Pierre Gaillouste,/en/matches/31fe99c8/Lille-Nantes-August-20-2023-Ligue-1,,31fe99c8
-FRA-Ligue 1,2324,2023-08-20 Lorient-Nice,Ligue 1,2,Sun,2023-08-20,15:00,Lorient,0.8,1–1,1.7,Nice,15848,Stade du Moustoir,Hakim Ben El Hadj Salem,/en/matches/f6d67175/Lorient-Nice-August-20-2023-Ligue-1,,f6d67175
-FRA-Ligue 1,2324,2023-08-20 Monaco-Strasbourg,Ligue 1,2,Sun,2023-08-20,19:00,Monaco,0.9,3–0,0.5,Strasbourg,10100,Stade Louis II,Ruddy Buquet,/en/matches/f06d0bce/Monaco-Strasbourg-August-20-2023-Ligue-1,,f06d0bce
-FRA-Ligue 1,2324,2023-08-20 Reims-Clermont Foot,Ligue 1,2,Sun,2023-08-20,15:00,Reims,2.4,2–0,0.4,Clermont Foot,12887,Stade Auguste-Delaune,Romain Lissorgue,/en/matches/4b9f0040/Reims-Clermont-Foot-August-20-2023-Ligue-1,,4b9f0040
-FRA-Ligue 1,2324,2023-08-25 Nantes-Monaco,Ligue 1,3,Fri,2023-08-25,21:00,Nantes,1.0,3–3,3.3,Monaco,28429,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,/en/matches/ea724bc0/Nantes-Monaco-August-25-2023-Ligue-1,,ea724bc0
-FRA-Ligue 1,2324,2023-08-26 Marseille-Brest,Ligue 1,3,Sat,2023-08-26,19:00,Marseille,2.9,2–0,1.5,Brest,63592,Orange Vélodrome,Jeremy Stinat,/en/matches/b9c29ee4/Marseille-Brest-August-26-2023-Ligue-1,,b9c29ee4
-FRA-Ligue 1,2324,2023-08-26 Paris S-G-Lens,Ligue 1,3,Sat,2023-08-26,21:00,Paris S-G,1.5,3–1,0.5,Lens,47864,Parc des Princes,François Letexier,/en/matches/d3db871d/Paris-Saint-Germain-Lens-August-26-2023-Ligue-1,,d3db871d
-FRA-Ligue 1,2324,2023-08-27 Clermont Foot-Metz,Ligue 1,3,Sun,2023-08-27,15:00,Clermont Foot,0.7,0–1,1.1,Metz,9146,Stade Gabriel Montpied,Gaël Angoula,/en/matches/344b05de/Clermont-Foot-Metz-August-27-2023-Ligue-1,,344b05de
-FRA-Ligue 1,2324,2023-08-27 Lorient-Lille,Ligue 1,3,Sun,2023-08-27,17:05,Lorient,1.6,4–1,1.1,Lille,15101,Stade du Moustoir,Willy Delajod,/en/matches/eb2c366f/Lorient-Lille-August-27-2023-Ligue-1,,eb2c366f
-FRA-Ligue 1,2324,2023-08-27 Montpellier-Reims,Ligue 1,3,Sun,2023-08-27,15:00,Montpellier,0.9,1–3,1.4,Reims,14476,Stade de la Mosson,Marc Bollengier,/en/matches/4d6e6c68/Montpellier-Reims-August-27-2023-Ligue-1,,4d6e6c68
-FRA-Ligue 1,2324,2023-08-27 Nice-Lyon,Ligue 1,3,Sun,2023-08-27,20:45,Nice,1.9,0–0,0.2,Lyon,28033,Stade de Nice,Bastien Dechepy,/en/matches/067a73e7/Nice-Lyon-August-27-2023-Ligue-1,,067a73e7
-FRA-Ligue 1,2324,2023-08-27 Rennes-Le Havre,Ligue 1,3,Sun,2023-08-27,13:00,Rennes,3.2,2–2,0.4,Le Havre,28311,Roazhon Park,Eric Wattellier,/en/matches/505ba995/Rennes-Le-Havre-August-27-2023-Ligue-1,,505ba995
-FRA-Ligue 1,2324,2023-08-27 Strasbourg-Toulouse,Ligue 1,3,Sun,2023-08-27,15:00,Strasbourg,3.4,2–0,0.3,Toulouse,25090,Stade de la Meinau,Benoît Bastien,/en/matches/0b508695/Strasbourg-Toulouse-August-27-2023-Ligue-1,,0b508695
-FRA-Ligue 1,2324,2023-09-01 Nantes-Marseille,Ligue 1,4,Fri,2023-09-01,21:00,Nantes,0.9,1–1,2.6,Marseille,34600,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet,/en/matches/6eca98c7/Nantes-Marseille-September-1-2023-Ligue-1,,6eca98c7
-FRA-Ligue 1,2324,2023-09-02 Brest-Rennes,Ligue 1,4,Sat,2023-09-02,17:00,Brest,1.4,0–0,0.3,Rennes,15021,Stade Francis-Le Blé,Hakim Ben El Hadj Salem,/en/matches/38572486/Brest-Rennes-September-2-2023-Ligue-1,,38572486
-FRA-Ligue 1,2324,2023-09-02 Monaco-Lens,Ligue 1,4,Sat,2023-09-02,21:00,Monaco,0.9,3–0,0.6,Lens,9600,Stade Louis II,Willy Delajod,/en/matches/7a2f8122/Monaco-Lens-September-2-2023-Ligue-1,,7a2f8122
-FRA-Ligue 1,2324,2023-09-03 Le Havre-Lorient,Ligue 1,4,Sun,2023-09-03,15:00,Le Havre,2.0,3–0,0.7,Lorient,18707,Stade Océane,Romain Lissorgue,/en/matches/4519a333/Le-Havre-Lorient-September-3-2023-Ligue-1,,4519a333
-FRA-Ligue 1,2324,2023-09-03 Lille-Montpellier,Ligue 1,4,Sun,2023-09-03,15:00,Lille,1.2,1–0,0.3,Montpellier,35298,Decathlon Arena - Stade Pierre-Mauroy,Benoît Millot,/en/matches/26cacbb5/Lille-Montpellier-September-3-2023-Ligue-1,,26cacbb5
-FRA-Ligue 1,2324,2023-09-03 Lyon-Paris S-G,Ligue 1,4,Sun,2023-09-03,20:45,Lyon,2.1,1–4,4.5,Paris S-G,51657,Groupama Stadium,Eric Wattellier,/en/matches/cd3d8319/Lyon-Paris-Saint-Germain-September-3-2023-Ligue-1,,cd3d8319
-FRA-Ligue 1,2324,2023-09-03 Metz-Reims,Ligue 1,4,Sun,2023-09-03,15:00,Metz,1.1,2–2,0.7,Reims,24272,Stade Saint-Symphorien,Mathieu Vernice,/en/matches/678bad42/Metz-Reims-September-3-2023-Ligue-1,,678bad42
-FRA-Ligue 1,2324,2023-09-03 Nice-Strasbourg,Ligue 1,4,Sun,2023-09-03,17:05,Nice,2.2,2–0,0.2,Strasbourg,20215,Stade de Nice,Jeremy Stinat,/en/matches/17e9722e/Nice-Strasbourg-September-3-2023-Ligue-1,,17e9722e
-FRA-Ligue 1,2324,2023-09-03 Toulouse-Clermont Foot,Ligue 1,4,Sun,2023-09-03,13:00,Toulouse,0.6,2–2,1.8,Clermont Foot,28285,Stadium Municipal,Florent Batta,/en/matches/12bf8242/Toulouse-Clermont-Foot-September-3-2023-Ligue-1,,12bf8242
-FRA-Ligue 1,2324,2023-09-15 Paris S-G-Nice,Ligue 1,5,Fri,2023-09-15,21:00,Paris S-G,1.0,2–3,1.3,Nice,47874,Parc des Princes,Clément Turpin,/en/matches/f0478368/Paris-Saint-Germain-Nice-September-15-2023-Ligue-1,,f0478368
-FRA-Ligue 1,2324,2023-09-16 Lens-Metz,Ligue 1,5,Sat,2023-09-16,21:00,Lens,2.0,0–1,0.3,Metz,37988,Stade Bollaert-Delelis,Stéphanie Frappart,/en/matches/40754c32/Lens-Metz-September-16-2023-Ligue-1,,40754c32
-FRA-Ligue 1,2324,2023-09-16 Rennes-Lille,Ligue 1,5,Sat,2023-09-16,17:00,Rennes,0.5,2–2,1.0,Lille,28178,Roazhon Park,Jérôme Brisard,/en/matches/d419c313/Rennes-Lille-September-16-2023-Ligue-1,,d419c313
-FRA-Ligue 1,2324,2023-09-17 Clermont Foot-Nantes,Ligue 1,5,Sun,2023-09-17,15:00,Clermont Foot,1.3,0–1,0.6,Nantes,9775,Stade Gabriel Montpied,Thomas Léonard,/en/matches/6a2c2932/Clermont-Foot-Nantes-September-17-2023-Ligue-1,,6a2c2932
-FRA-Ligue 1,2324,2023-09-17 Lorient-Monaco,Ligue 1,5,Sun,2023-09-17,13:00,Lorient,0.9,2–2,1.7,Monaco,15247,Stade du Moustoir,Marc Bollengier,/en/matches/2cbf9481/Lorient-Monaco-September-17-2023-Ligue-1,,2cbf9481
-FRA-Ligue 1,2324,2023-09-17 Lyon-Le Havre,Ligue 1,5,Sun,2023-09-17,20:45,Lyon,1.5,0–0,0.8,Le Havre,35507,Groupama Stadium,Benoît Bastien,/en/matches/18b82351/Lyon-Le-Havre-September-17-2023-Ligue-1,,18b82351
-FRA-Ligue 1,2324,2023-09-17 Marseille-Toulouse,Ligue 1,5,Sun,2023-09-17,17:05,Marseille,1.5,0–0,0.7,Toulouse,63477,Orange Vélodrome,François Letexier,/en/matches/195b7636/Marseille-Toulouse-September-17-2023-Ligue-1,,195b7636
-FRA-Ligue 1,2324,2023-09-17 Reims-Brest,Ligue 1,5,Sun,2023-09-17,15:00,Reims,1.7,1–2,1.5,Brest,12948,Stade Auguste-Delaune,Gaël Angoula,/en/matches/f12c7a9a/Reims-Brest-September-17-2023-Ligue-1,,f12c7a9a
-FRA-Ligue 1,2324,2023-09-17 Strasbourg-Montpellier,Ligue 1,5,Sun,2023-09-17,15:00,Strasbourg,2.3,2–2,1.1,Montpellier,25128,Stade de la Meinau,Pierre Gaillouste,/en/matches/b04003c3/Strasbourg-Montpellier-September-17-2023-Ligue-1,,b04003c3
-FRA-Ligue 1,2324,2023-09-22 Monaco-Nice,Ligue 1,6,Fri,2023-09-22,21:00,Monaco,1.8,0–1,0.9,Nice,10075,Stade Louis II,Benoît Millot,/en/matches/74e4b97c/Monaco-Nice-September-22-2023-Ligue-1,,74e4b97c
-FRA-Ligue 1,2324,2023-09-23 Brest-Lyon,Ligue 1,6,Sat,2023-09-23,21:00,Brest,2.4,1–0,0.4,Lyon,14636,Stade Francis-Le Blé,Thomas Léonard,/en/matches/7ae5c7ed/Brest-Lyon-September-23-2023-Ligue-1,,7ae5c7ed
-FRA-Ligue 1,2324,2023-09-23 Nantes-Lorient,Ligue 1,6,Sat,2023-09-23,17:00,Nantes,2.1,5–3,1.7,Lorient,30704,Stade de la Beaujoire - Louis Fonteneau,Florent Batta,/en/matches/4f5c9313/Nantes-Lorient-September-23-2023-Ligue-1,,4f5c9313
-FRA-Ligue 1,2324,2023-09-24 Le Havre-Clermont Foot,Ligue 1,6,Sun,2023-09-24,15:00,Le Havre,1.3,2–1,0.9,Clermont Foot,18500,Stade Océane,Mathieu Vernice,/en/matches/941106cf/Le-Havre-Clermont-Foot-September-24-2023-Ligue-1,,941106cf
-FRA-Ligue 1,2324,2023-09-24 Lens-Toulouse,Ligue 1,6,Sun,2023-09-24,15:00,Lens,2.5,2–1,0.4,Toulouse,37506,Stade Bollaert-Delelis,Hakim Ben El Hadj Salem,/en/matches/2e47fd82/Lens-Toulouse-September-24-2023-Ligue-1,,2e47fd82
-FRA-Ligue 1,2324,2023-09-24 Metz-Strasbourg,Ligue 1,6,Sun,2023-09-24,13:00,Metz,1.1,0–1,0.4,Strasbourg,26661,Stade Saint-Symphorien,Clément Turpin,/en/matches/a5037d9e/Metz-Strasbourg-September-24-2023-Ligue-1,,a5037d9e
-FRA-Ligue 1,2324,2023-09-24 Montpellier-Rennes,Ligue 1,6,Sun,2023-09-24,17:05,Montpellier,1.5,0–0,0.9,Rennes,15430,Stade de la Mosson,Stéphanie Frappart,/en/matches/fd6b554c/Montpellier-Rennes-September-24-2023-Ligue-1,,fd6b554c
-FRA-Ligue 1,2324,2023-09-24 Paris S-G-Marseille,Ligue 1,6,Sun,2023-09-24,20:45,Paris S-G,1.9,4–0,0.7,Marseille,47000,Parc des Princes,Willy Delajod,/en/matches/405fa974/Paris-Saint-Germain-Marseille-September-24-2023-Ligue-1,,405fa974
-FRA-Ligue 1,2324,2023-09-26 Lille-Reims,Ligue 1,6,Tue,2023-09-26,21:00,Lille,1.2,1–2,0.5,Reims,33075,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,/en/matches/b1ae9dc3/Lille-Reims-September-26-2023-Ligue-1,,b1ae9dc3
-FRA-Ligue 1,2324,2023-09-29 Strasbourg-Lens,Ligue 1,7,Fri,2023-09-29,21:00,Strasbourg,0.3,0–1,0.8,Lens,26001,Stade de la Meinau,Jérôme Brisard,/en/matches/0730708e/Strasbourg-Lens-September-29-2023-Ligue-1,,0730708e
-FRA-Ligue 1,2324,2023-09-30 Clermont Foot-Paris S-G,Ligue 1,7,Sat,2023-09-30,17:00,Clermont Foot,1.0,0–0,3.0,Paris S-G,10757,Stade Gabriel Montpied,Marc Bollengier,/en/matches/f443185b/Clermont-Foot-Paris-Saint-Germain-September-30-2023-Ligue-1,,f443185b
-FRA-Ligue 1,2324,2023-09-30 Monaco-Marseille,Ligue 1,7,Sat,2023-09-30,21:00,Monaco,1.0,3–2,1.0,Marseille,10200,Stade Louis II,Benoît Bastien,/en/matches/680c833b/Monaco-Marseille-September-30-2023-Ligue-1,,680c833b
-FRA-Ligue 1,2324,2023-10-01 Le Havre-Lille,Ligue 1,7,Sun,2023-10-01,15:00,Le Havre,0.8,0–2,1.2,Lille,21919,Stade Océane,Bastien Dechepy,/en/matches/f2fb61f7/Le-Havre-Lille-October-1-2023-Ligue-1,,f2fb61f7
-FRA-Ligue 1,2324,2023-10-01 Lorient-Montpellier,Ligue 1,7,Sun,2023-10-01,17:05,Lorient,1.0,0–3,2.8,Montpellier,13492,Stade du Moustoir,Jeremy Stinat,/en/matches/fd60231d/Lorient-Montpellier-October-1-2023-Ligue-1,,fd60231d
-FRA-Ligue 1,2324,2023-10-01 Nice-Brest,Ligue 1,7,Sun,2023-10-01,15:00,Nice,1.1,0–0,0.2,Brest,32044,Stade de Nice,Romain Lissorgue,/en/matches/49bbb3f4/Nice-Brest-October-1-2023-Ligue-1,,49bbb3f4
-FRA-Ligue 1,2324,2023-10-01 Reims-Lyon,Ligue 1,7,Sun,2023-10-01,13:00,Reims,2.0,2–0,0.7,Lyon,16477,Stade Auguste-Delaune,François Letexier,/en/matches/cfb7f6ea/Reims-Lyon-October-1-2023-Ligue-1,,cfb7f6ea
-FRA-Ligue 1,2324,2023-10-01 Rennes-Nantes,Ligue 1,7,Sun,2023-10-01,20:45,Rennes,2.7,3–1,1.0,Nantes,27313,Roazhon Park,Ruddy Buquet,/en/matches/94204a39/Rennes-Nantes-October-1-2023-Ligue-1,,94204a39
-FRA-Ligue 1,2324,2023-10-01 Toulouse-Metz,Ligue 1,7,Sun,2023-10-01,15:00,Toulouse,1.3,3–0,0.7,Metz,24770,Stadium Municipal,Gaël Angoula,/en/matches/9baac3cb/Toulouse-Metz-October-1-2023-Ligue-1,,9baac3cb
-FRA-Ligue 1,2324,2023-10-06 Strasbourg-Nantes,Ligue 1,8,Fri,2023-10-06,21:00,Strasbourg,0.7,1–2,1.9,Nantes,25274,Stade de la Meinau,Stéphanie Frappart,/en/matches/ac3cd65a/Strasbourg-Nantes-October-6-2023-Ligue-1,,ac3cd65a
-FRA-Ligue 1,2324,2023-10-07 Metz-Nice,Ligue 1,8,Sat,2023-10-07,17:00,Metz,0.4,0–1,1.4,Nice,23160,Stade Saint-Symphorien,Jérôme Brisard,/en/matches/a77842d5/Metz-Nice-October-7-2023-Ligue-1,,a77842d5
-FRA-Ligue 1,2324,2023-10-07 Reims-Monaco,Ligue 1,8,Sat,2023-10-07,21:00,Reims,1.5,1–3,1.2,Monaco,19000,Stade Auguste-Delaune,Hakim Ben El Hadj Salem,/en/matches/8abe55a4/Reims-Monaco-October-7-2023-Ligue-1,,8abe55a4
-FRA-Ligue 1,2324,2023-10-08 Brest-Toulouse,Ligue 1,8,Sun,2023-10-08,15:00,Brest,1.5,1–1,1.2,Toulouse,13549,Stade Francis-Le Blé,Pierre Gaillouste,/en/matches/f41980c3/Brest-Toulouse-October-8-2023-Ligue-1,,f41980c3
-FRA-Ligue 1,2324,2023-10-08 Lens-Lille,Ligue 1,8,Sun,2023-10-08,17:05,Lens,2.0,1–1,1.7,Lille,37223,Stade Bollaert-Delelis,Benoît Millot,/en/matches/b044385d/Lens-Lille-October-8-2023-Ligue-1,,b044385d
-FRA-Ligue 1,2324,2023-10-08 Lyon-Lorient,Ligue 1,8,Sun,2023-10-08,15:00,Lyon,1.4,3–3,1.1,Lorient,43100,Groupama Stadium,Clément Turpin,/en/matches/43cc2649/Lyon-Lorient-October-8-2023-Ligue-1,,43cc2649
-FRA-Ligue 1,2324,2023-10-08 Marseille-Le Havre,Ligue 1,8,Sun,2023-10-08,13:00,Marseille,2.8,3–0,0.2,Le Havre,63576,Orange Vélodrome,Thomas Léonard,/en/matches/4df09039/Marseille-Le-Havre-October-8-2023-Ligue-1,,4df09039
-FRA-Ligue 1,2324,2023-10-08 Rennes-Paris S-G,Ligue 1,8,Sun,2023-10-08,20:45,Rennes,1.1,1–3,3.5,Paris S-G,27734,Roazhon Park,Benoît Bastien,/en/matches/484e237a/Rennes-Paris-Saint-Germain-October-8-2023-Ligue-1,,484e237a
-FRA-Ligue 1,2324,2023-10-20 Le Havre-Lens,Ligue 1,9,Fri,2023-10-20,21:00,Le Havre,1.6,0–0,1.6,Lens,23590,Stade Océane,François Letexier,/en/matches/437ba0cb/Le-Havre-Lens-October-20-2023-Ligue-1,,437ba0cb
-FRA-Ligue 1,2324,2023-10-21 Nice-Marseille,Ligue 1,9,Sat,2023-10-21,21:00,Nice,0.6,1–0,1.1,Marseille,31423,Stade de Nice,Ruddy Buquet,/en/matches/494deaba/Nice-Marseille-October-21-2023-Ligue-1,,494deaba
-FRA-Ligue 1,2324,2023-10-21 Paris S-G-Strasbourg,Ligue 1,9,Sat,2023-10-21,17:00,Paris S-G,2.0,3–0,0.4,Strasbourg,41261,Parc des Princes,Bastien Dechepy,/en/matches/28f09198/Paris-Saint-Germain-Strasbourg-October-21-2023-Ligue-1,,28f09198
-FRA-Ligue 1,2324,2023-10-22 Lille-Brest,Ligue 1,9,Sun,2023-10-22,15:00,Lille,1.6,1–0,0.8,Brest,34358,Decathlon Arena - Stade Pierre-Mauroy,Hakim Ben El Hadj Salem,/en/matches/de708e26/Lille-Brest-October-22-2023-Ligue-1,,de708e26
-FRA-Ligue 1,2324,2023-10-22 Lorient-Rennes,Ligue 1,9,Sun,2023-10-22,13:00,Lorient,0.6,2–1,0.9,Rennes,16711,Stade du Moustoir,Gaël Angoula,/en/matches/08e896d5/Lorient-Rennes-October-22-2023-Ligue-1,,08e896d5
-FRA-Ligue 1,2324,2023-10-22 Lyon-Clermont Foot,Ligue 1,9,Sun,2023-10-22,20:45,Lyon,1.7,1–2,1.0,Clermont Foot,43000,Groupama Stadium,Willy Delajod,/en/matches/847c54fa/Lyon-Clermont-Foot-October-22-2023-Ligue-1,,847c54fa
-FRA-Ligue 1,2324,2023-10-22 Monaco-Metz,Ligue 1,9,Sun,2023-10-22,17:05,Monaco,2.0,2–1,1.0,Metz,6200,Stade Louis II,Romain Lissorgue,/en/matches/b33c484a/Monaco-Metz-October-22-2023-Ligue-1,,b33c484a
-FRA-Ligue 1,2324,2023-10-22 Nantes-Montpellier,Ligue 1,9,Sun,2023-10-22,15:00,Nantes,1.5,2–0,0.5,Montpellier,26864,Stade de la Beaujoire - Louis Fonteneau,Marc Bollengier,/en/matches/398e7ed6/Nantes-Montpellier-October-22-2023-Ligue-1,,398e7ed6
-FRA-Ligue 1,2324,2023-10-22 Toulouse-Reims,Ligue 1,9,Sun,2023-10-22,15:00,Toulouse,0.8,1–1,1.3,Reims,23895,Stadium Municipal,Jeremy Stinat,/en/matches/f0a8c67d/Toulouse-Reims-October-22-2023-Ligue-1,,f0a8c67d
-FRA-Ligue 1,2324,2023-10-27 Clermont Foot-Nice,Ligue 1,10,Fri,2023-10-27,21:00,Clermont Foot,0.5,0–1,2.2,Nice,10800,Stade Gabriel Montpied,Jérémie Pignard,/en/matches/1c297781/Clermont-Foot-Nice-October-27-2023-Ligue-1,,1c297781
-FRA-Ligue 1,2324,2023-10-28 Lens-Nantes,Ligue 1,10,Sat,2023-10-28,21:00,Lens,3.7,4–0,1.0,Nantes,38223,Stade Bollaert-Delelis,Pierre Gaillouste,/en/matches/271f272f/Lens-Nantes-October-28-2023-Ligue-1,,271f272f
-FRA-Ligue 1,2324,2023-10-28 Reims-Lorient,Ligue 1,10,Sat,2023-10-28,17:00,Reims,0.8,1–0,0.4,Lorient,14033,Stade Auguste-Delaune,Benoît Bastien,/en/matches/5c8bc6ef/Reims-Lorient-October-28-2023-Ligue-1,,5c8bc6ef
-FRA-Ligue 1,2324,2023-10-29 Brest-Paris S-G,Ligue 1,10,Sun,2023-10-29,13:00,Brest,1.8,2–3,2.1,Paris S-G,15183,Stade Francis-Le Blé,Jérôme Brisard,/en/matches/3fc4e3ce/Brest-Paris-Saint-Germain-October-29-2023-Ligue-1,,3fc4e3ce
-FRA-Ligue 1,2324,2023-10-29 Lille-Monaco,Ligue 1,10,Sun,2023-10-29,15:00,Lille,0.5,2–0,0.6,Monaco,40046,Decathlon Arena - Stade Pierre-Mauroy,Clément Turpin,/en/matches/e4ed3318/Lille-Monaco-October-29-2023-Ligue-1,,e4ed3318
-FRA-Ligue 1,2324,2023-10-29 Metz-Le Havre,Ligue 1,10,Sun,2023-10-29,15:00,Metz,0.5,0–0,0.7,Le Havre,20718,Stade Saint-Symphorien,Hakim Ben El Hadj Salem,/en/matches/6d743853/Metz-Le-Havre-October-29-2023-Ligue-1,,6d743853
-FRA-Ligue 1,2324,2023-10-29 Montpellier-Toulouse,Ligue 1,10,Sun,2023-10-29,15:00,Montpellier,3.0,3–0,1.2,Toulouse,13209,Stade de la Mosson,Thomas Léonard,/en/matches/c7788081/Montpellier-Toulouse-October-29-2023-Ligue-1,,c7788081
-FRA-Ligue 1,2324,2023-10-29 Rennes-Strasbourg,Ligue 1,10,Sun,2023-10-29,17:05,Rennes,1.1,1–1,1.0,Strasbourg,28100,Roazhon Park,Florent Batta,/en/matches/b35db4c8/Rennes-Strasbourg-October-29-2023-Ligue-1,,b35db4c8
-FRA-Ligue 1,2324,2023-11-03 Paris S-G-Montpellier,Ligue 1,11,Fri,2023-11-03,21:00,Paris S-G,1.1,3–0,0.5,Montpellier,47647,Parc des Princes,Ruddy Buquet,/en/matches/4f44d7fc/Paris-Saint-Germain-Montpellier-November-3-2023-Ligue-1,,4f44d7fc
-FRA-Ligue 1,2324,2023-11-04 Lorient-Lens,Ligue 1,11,Sat,2023-11-04,17:00,Lorient,0.5,0–0,0.6,Lens,16599,Stade du Moustoir,Bastien Dechepy,/en/matches/001326cc/Lorient-Lens-November-4-2023-Ligue-1,,001326cc
-FRA-Ligue 1,2324,2023-11-04 Marseille-Lille,Ligue 1,11,Sat,2023-11-04,21:00,Marseille,0.8,0–0,0.3,Lille,63674,Orange Vélodrome,Stéphanie Frappart,/en/matches/d8243ab9/Marseille-Lille-November-4-2023-Ligue-1,,d8243ab9
-FRA-Ligue 1,2324,2023-11-05 Lyon-Metz,Ligue 1,11,Sun,2023-11-05,13:00,Lyon,1.9,1–1,0.7,Metz,42040,Groupama Stadium,Benoît Millot,/en/matches/eadb1375/Lyon-Metz-November-5-2023-Ligue-1,,eadb1375
-FRA-Ligue 1,2324,2023-11-05 Monaco-Brest,Ligue 1,11,Sun,2023-11-05,17:05,Monaco,0.8,2–0,0.8,Brest,9244,Stade Louis II,Eric Wattellier,/en/matches/ef59a003/Monaco-Brest-November-5-2023-Ligue-1,,ef59a003
-FRA-Ligue 1,2324,2023-11-05 Nantes-Reims,Ligue 1,11,Sun,2023-11-05,15:00,Nantes,1.8,0–1,1.1,Reims,33621,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,/en/matches/96b3374a/Nantes-Reims-November-5-2023-Ligue-1,,96b3374a
-FRA-Ligue 1,2324,2023-11-05 Nice-Rennes,Ligue 1,11,Sun,2023-11-05,20:45,Nice,1.6,2–0,0.8,Rennes,22430,Stade de Nice,Clément Turpin,/en/matches/fad89d7b/Nice-Rennes-November-5-2023-Ligue-1,,fad89d7b
-FRA-Ligue 1,2324,2023-11-05 Strasbourg-Clermont Foot,Ligue 1,11,Sun,2023-11-05,15:00,Strasbourg,1.0,0–0,0.9,Clermont Foot,25039,Stade de la Meinau,Jeremy Stinat,/en/matches/957c6924/Strasbourg-Clermont-Foot-November-5-2023-Ligue-1,,957c6924
-FRA-Ligue 1,2324,2023-11-05 Toulouse-Le Havre,Ligue 1,11,Sun,2023-11-05,15:00,Toulouse,2.6,1–2,1.1,Le Havre,23060,Stadium Municipal,Marc Bollengier,/en/matches/f7d3c634/Toulouse-Le-Havre-November-5-2023-Ligue-1,,f7d3c634
-FRA-Ligue 1,2324,2023-11-10 Montpellier-Nice,Ligue 1,12,Fri,2023-11-10,21:00,Montpellier,0.5,0–0,0.7,Nice,13452,Stade de la Mosson,Hakim Ben El Hadj Salem,/en/matches/5bdc7c32/Montpellier-Nice-November-10-2023-Ligue-1,,5bdc7c32
-FRA-Ligue 1,2324,2023-11-11 Le Havre-Monaco,Ligue 1,12,Sat,2023-11-11,21:00,Le Havre,1.4,0–0,0.6,Monaco,23008,Stade Océane,Thomas Léonard,/en/matches/8bb49483/Le-Havre-Monaco-November-11-2023-Ligue-1,,8bb49483
-FRA-Ligue 1,2324,2023-11-11 Reims-Paris S-G,Ligue 1,12,Sat,2023-11-11,17:00,Reims,1.3,0–3,2.3,Paris S-G,20500,Stade Auguste-Delaune,Willy Delajod,/en/matches/61d9e0d0/Reims-Paris-Saint-Germain-November-11-2023-Ligue-1,,61d9e0d0
-FRA-Ligue 1,2324,2023-11-12 Clermont Foot-Lorient,Ligue 1,12,Sun,2023-11-12,15:00,Clermont Foot,1.5,1–0,0.5,Lorient,9798,Stade Gabriel Montpied,Romain Lissorgue,/en/matches/e0aea3a9/Clermont-Foot-Lorient-November-12-2023-Ligue-1,,e0aea3a9
-FRA-Ligue 1,2324,2023-11-12 Lens-Marseille,Ligue 1,12,Sun,2023-11-12,20:45,Lens,1.1,1–0,1.0,Marseille,38223,Stade Bollaert-Delelis,Benoît Bastien,/en/matches/fe8096da/Lens-Marseille-November-12-2023-Ligue-1,,fe8096da
-FRA-Ligue 1,2324,2023-11-12 Lille-Toulouse,Ligue 1,12,Sun,2023-11-12,15:00,Lille,2.5,1–1,0.1,Toulouse,34959,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,/en/matches/f0f7d5b7/Lille-Toulouse-November-12-2023-Ligue-1,,f0f7d5b7
-FRA-Ligue 1,2324,2023-11-12 Metz-Nantes,Ligue 1,12,Sun,2023-11-12,15:00,Metz,1.1,3–1,1.3,Nantes,21674,Stade Saint-Symphorien,Florent Batta,/en/matches/594dba4e/Metz-Nantes-November-12-2023-Ligue-1,,594dba4e
-FRA-Ligue 1,2324,2023-11-12 Rennes-Lyon,Ligue 1,12,Sun,2023-11-12,17:05,Rennes,0.9,0–1,1.5,Lyon,28441,Roazhon Park,Stéphanie Frappart,/en/matches/16251ab0/Rennes-Lyon-November-12-2023-Ligue-1,,16251ab0
-FRA-Ligue 1,2324,2023-11-24 Paris S-G-Monaco,Ligue 1,13,Fri,2023-11-24,21:00,Paris S-G,2.6,5–2,1.6,Monaco,47896,Parc des Princes,Benoît Bastien,/en/matches/6f11a93d/Paris-Saint-Germain-Monaco-November-24-2023-Ligue-1,,6f11a93d
-FRA-Ligue 1,2324,2023-11-25 Clermont Foot-Lens,Ligue 1,13,Sat,2023-11-25,17:00,Clermont Foot,1.9,0–3,2.2,Lens,10455,Stade Gabriel Montpied,Benoît Millot,/en/matches/4cf8ae40/Clermont-Foot-Lens-November-25-2023-Ligue-1,,4cf8ae40
-FRA-Ligue 1,2324,2023-11-25 Strasbourg-Marseille,Ligue 1,13,Sat,2023-11-25,21:00,Strasbourg,1.1,1–1,1.4,Marseille,25443,Stade de la Meinau,Jérôme Brisard,/en/matches/3d1a3c81/Strasbourg-Marseille-November-25-2023-Ligue-1,,3d1a3c81
-FRA-Ligue 1,2324,2023-11-26 Lorient-Metz,Ligue 1,13,Sun,2023-11-26,15:00,Lorient,1.2,2–3,1.9,Metz,14469,Stade du Moustoir,Jérémie Pignard,/en/matches/685f0592/Lorient-Metz-November-26-2023-Ligue-1,,685f0592
-FRA-Ligue 1,2324,2023-11-26 Lyon-Lille,Ligue 1,13,Sun,2023-11-26,20:45,Lyon,1.9,0–2,1.5,Lille,40029,Groupama Stadium,Eric Wattellier,/en/matches/3835384c/Lyon-Lille-November-26-2023-Ligue-1,,3835384c
-FRA-Ligue 1,2324,2023-11-26 Montpellier-Brest,Ligue 1,13,Sun,2023-11-26,15:00,Montpellier,1.7,1–3,1.7,Brest,12311,Stade de la Mosson,Pierre Gaillouste,/en/matches/e4cca984/Montpellier-Brest-November-26-2023-Ligue-1,,e4cca984
-FRA-Ligue 1,2324,2023-11-26 Nantes-Le Havre,Ligue 1,13,Sun,2023-11-26,15:00,Nantes,1.3,0–0,0.2,Le Havre,29346,Stade de la Beaujoire - Louis Fonteneau,Miguel Nogueira,/en/matches/ec8cdc57/Nantes-Le-Havre-November-26-2023-Ligue-1,,ec8cdc57
-FRA-Ligue 1,2324,2023-11-26 Nice-Toulouse,Ligue 1,13,Sun,2023-11-26,13:00,Nice,1.0,1–0,1.3,Toulouse,21849,Stade de Nice,François Letexier,/en/matches/69ee1012/Nice-Toulouse-November-26-2023-Ligue-1,,69ee1012
-FRA-Ligue 1,2324,2023-11-26 Rennes-Reims,Ligue 1,13,Sun,2023-11-26,17:05,Rennes,1.8,3–1,1.6,Reims,27718,Roazhon Park,Ruddy Buquet,/en/matches/068718ca/Rennes-Reims-November-26-2023-Ligue-1,,068718ca
-FRA-Ligue 1,2324,2023-11-29 Montpellier-Clermont Foot,Ligue 1,8,Wed,2023-11-29,19:00,Montpellier,2.4,1–1,0.4,Clermont Foot,,Stade de la Mosson,Mathieu Vernice,/en/matches/341877cf/Montpellier-Clermont-Foot-November-29-2023-Ligue-1,,341877cf
-FRA-Ligue 1,2324,2023-12-01 Reims-Strasbourg,Ligue 1,14,Fri,2023-12-01,21:00,Reims,1.3,2–1,1.7,Strasbourg,14500,Stade Auguste-Delaune,Hakim Ben El Hadj Salem,/en/matches/ad372452/Reims-Strasbourg-December-1-2023-Ligue-1,,ad372452
-FRA-Ligue 1,2324,2023-12-02 Lens-Lyon,Ligue 1,14,Sat,2023-12-02,17:00,Lens,2.1,3–2,2.5,Lyon,38130,Stade Bollaert-Delelis,Clément Turpin,/en/matches/66f5f256/Lens-Lyon-December-2-2023-Ligue-1,,66f5f256
-FRA-Ligue 1,2324,2023-12-02 Nantes-Nice,Ligue 1,14,Sat,2023-12-02,21:00,Nantes,1.4,1–0,1.3,Nice,26560,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet,/en/matches/b0ae3622/Nantes-Nice-December-2-2023-Ligue-1,,b0ae3622
-FRA-Ligue 1,2324,2023-12-03 Brest-Clermont Foot,Ligue 1,14,Sun,2023-12-03,15:00,Brest,1.4,3–0,0.8,Clermont Foot,14324,Stade Francis-Le Blé,Marc Bollengier,/en/matches/9f17a676/Brest-Clermont-Foot-December-3-2023-Ligue-1,,9f17a676
-FRA-Ligue 1,2324,2023-12-03 Le Havre-Paris S-G,Ligue 1,14,Sun,2023-12-03,13:00,Le Havre,2.0,0–2,1.2,Paris S-G,23718,Stade Océane,Bastien Dechepy,/en/matches/b6e6fdfe/Le-Havre-Paris-Saint-Germain-December-3-2023-Ligue-1,,b6e6fdfe
-FRA-Ligue 1,2324,2023-12-03 Lille-Metz,Ligue 1,14,Sun,2023-12-03,17:05,Lille,2.9,2–0,1.9,Metz,38065,Decathlon Arena - Stade Pierre-Mauroy,Gaël Angoula,/en/matches/1edcab1f/Lille-Metz-December-3-2023-Ligue-1,,1edcab1f
-FRA-Ligue 1,2324,2023-12-03 Marseille-Rennes,Ligue 1,14,Sun,2023-12-03,20:45,Marseille,0.9,2–0,0.6,Rennes,54162,Orange Vélodrome,Willy Delajod,/en/matches/caadf3f7/Marseille-Rennes-December-3-2023-Ligue-1,,caadf3f7
-FRA-Ligue 1,2324,2023-12-03 Monaco-Montpellier,Ligue 1,14,Sun,2023-12-03,15:00,Monaco,2.2,2–0,0.9,Montpellier,4599,Stade Louis II,Jeremy Stinat,/en/matches/0d5e1575/Monaco-Montpellier-December-3-2023-Ligue-1,,0d5e1575
-FRA-Ligue 1,2324,2023-12-03 Toulouse-Lorient,Ligue 1,14,Sun,2023-12-03,15:00,Toulouse,1.0,1–1,0.8,Lorient,22799,Stadium Municipal,Thomas Léonard,/en/matches/50bf0584/Toulouse-Lorient-December-3-2023-Ligue-1,,50bf0584
-FRA-Ligue 1,2324,2023-12-06 Marseille-Lyon,Ligue 1,10,Wed,2023-12-06,21:00,Marseille,2.2,3–0,0.2,Lyon,54238,Orange Vélodrome,François Letexier,/en/matches/dfac144f/Choc-des-Olympiques-Marseille-Lyon-December-6-2023-Ligue-1,,dfac144f
-FRA-Ligue 1,2324,2023-12-07 Brest-Strasbourg,Ligue 1,12,Thu,2023-12-07,20:30,Brest,1.1,1–1,1.5,Strasbourg,14569,Stade Francis-Le Blé,Jérémie Pignard,/en/matches/52a1fcfd/Brest-Strasbourg-December-7-2023-Ligue-1,,52a1fcfd
-FRA-Ligue 1,2324,2023-12-08 Montpellier-Lens,Ligue 1,15,Fri,2023-12-08,21:00,Montpellier,1.3,0–0,1.1,Lens,14169,Stade de la Mosson,Stéphanie Frappart,/en/matches/ad238285/Montpellier-Lens-December-8-2023-Ligue-1,,ad238285
-FRA-Ligue 1,2324,2023-12-09 Paris S-G-Nantes,Ligue 1,15,Sat,2023-12-09,21:00,Paris S-G,2.0,2–1,0.5,Nantes,47926,Parc des Princes,Jérôme Brisard,/en/matches/2582af0c/Paris-Saint-Germain-Nantes-December-9-2023-Ligue-1,,2582af0c
-FRA-Ligue 1,2324,2023-12-09 Rennes-Monaco,Ligue 1,15,Sat,2023-12-09,17:00,Rennes,1.7,1–2,0.9,Monaco,26856,Roazhon Park,Clément Turpin,/en/matches/fdd2c923/Rennes-Monaco-December-9-2023-Ligue-1,,fdd2c923
-FRA-Ligue 1,2324,2023-12-10 Clermont Foot-Lille,Ligue 1,15,Sun,2023-12-10,15:00,Clermont Foot,1.3,0–0,1.0,Lille,8789,Stade Gabriel Montpied,Florent Batta,/en/matches/b6281098/Clermont-Foot-Lille-December-10-2023-Ligue-1,,b6281098
-FRA-Ligue 1,2324,2023-12-10 Lorient-Marseille,Ligue 1,15,Sun,2023-12-10,20:45,Lorient,2.2,2–4,2.3,Marseille,15848,Stade du Moustoir,Eric Wattellier,/en/matches/5443d1b1/Lorient-Marseille-December-10-2023-Ligue-1,,5443d1b1
-FRA-Ligue 1,2324,2023-12-10 Lyon-Toulouse,Ligue 1,15,Sun,2023-12-10,17:05,Lyon,1.7,3–0,1.5,Toulouse,36677,Groupama Stadium,Pierre Gaillouste,/en/matches/015e7632/Lyon-Toulouse-December-10-2023-Ligue-1,,015e7632
-FRA-Ligue 1,2324,2023-12-10 Metz-Brest,Ligue 1,15,Sun,2023-12-10,15:00,Metz,0.2,0–1,0.3,Brest,20157,Stade Saint-Symphorien,Romain Lissorgue,/en/matches/e1a3d53e/Metz-Brest-December-10-2023-Ligue-1,,e1a3d53e
-FRA-Ligue 1,2324,2023-12-10 Nice-Reims,Ligue 1,15,Sun,2023-12-10,13:00,Nice,0.9,2–1,1.3,Reims,24325,Stade de Nice,Benoît Bastien,/en/matches/22646ca5/Nice-Reims-December-10-2023-Ligue-1,,22646ca5
-FRA-Ligue 1,2324,2023-12-10 Strasbourg-Le Havre,Ligue 1,15,Sun,2023-12-10,15:00,Strasbourg,1.6,2–1,1.3,Le Havre,25173,Stade de la Meinau,Benoît Millot,/en/matches/d15b44c5/Strasbourg-Le-Havre-December-10-2023-Ligue-1,,d15b44c5
-FRA-Ligue 1,2324,2023-12-15 Monaco-Lyon,Ligue 1,16,Fri,2023-12-15,21:00,Monaco,1.3,0–1,0.7,Lyon,6000,Stade Louis II,Ruddy Buquet,/en/matches/f66124b8/Monaco-Lyon-December-15-2023-Ligue-1,,f66124b8
-FRA-Ligue 1,2324,2023-12-16 Le Havre-Nice,Ligue 1,16,Sat,2023-12-16,17:00,Le Havre,2.1,3–1,1.9,Nice,21971,Stade Océane,Jérémie Pignard,/en/matches/8fd0b0fe/Le-Havre-Nice-December-16-2023-Ligue-1,,8fd0b0fe
-FRA-Ligue 1,2324,2023-12-16 Lens-Reims,Ligue 1,16,Sat,2023-12-16,21:00,Lens,1.3,2–0,1.1,Reims,38055,Stade Bollaert-Delelis,François Letexier,/en/matches/331c82fc/Lens-Reims-December-16-2023-Ligue-1,,331c82fc
-FRA-Ligue 1,2324,2023-12-17 Lille-Paris S-G,Ligue 1,16,Sun,2023-12-17,20:45,Lille,1.4,1–1,1.4,Paris S-G,47993,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,/en/matches/204a77b5/Lille-Paris-Saint-Germain-December-17-2023-Ligue-1,,204a77b5
-FRA-Ligue 1,2324,2023-12-17 Lorient-Strasbourg,Ligue 1,16,Sun,2023-12-17,15:00,Lorient,0.8,1–2,0.9,Strasbourg,14580,Stade du Moustoir,Bastien Dechepy,/en/matches/f3cfe34d/Lorient-Strasbourg-December-17-2023-Ligue-1,,f3cfe34d
-FRA-Ligue 1,2324,2023-12-17 Marseille-Clermont Foot,Ligue 1,16,Sun,2023-12-17,17:05,Marseille,2.4,2–1,0.2,Clermont Foot,63753,Orange Vélodrome,Gaël Angoula,/en/matches/a92291bc/Marseille-Clermont-Foot-December-17-2023-Ligue-1,,a92291bc
-FRA-Ligue 1,2324,2023-12-17 Metz-Montpellier,Ligue 1,16,Sun,2023-12-17,15:00,Metz,0.8,0–1,0.5,Montpellier,23473,Stade Saint-Symphorien,Marc Bollengier,/en/matches/eb4084eb/Metz-Montpellier-December-17-2023-Ligue-1,,eb4084eb
-FRA-Ligue 1,2324,2023-12-17 Nantes-Brest,Ligue 1,16,Sun,2023-12-17,13:00,Nantes,1.0,0–2,1.9,Brest,30075,Stade de la Beaujoire - Louis Fonteneau,Benoît Millot,/en/matches/17503b00/Nantes-Brest-December-17-2023-Ligue-1,,17503b00
-FRA-Ligue 1,2324,2023-12-17 Toulouse-Rennes,Ligue 1,16,Sun,2023-12-17,15:00,Toulouse,0.9,0–0,0.7,Rennes,23310,Stadium Municipal,Jeremy Stinat,/en/matches/8197fd69/Toulouse-Rennes-December-17-2023-Ligue-1,,8197fd69
-FRA-Ligue 1,2324,2023-12-20 Brest-Lorient,Ligue 1,17,Wed,2023-12-20,21:00,Brest,2.0,4–0,0.5,Lorient,14544,Stade Francis-Le Blé,Mathieu Vernice,/en/matches/0f7c086f/Brest-Lorient-December-20-2023-Ligue-1,,0f7c086f
-FRA-Ligue 1,2324,2023-12-20 Clermont Foot-Rennes,Ligue 1,17,Wed,2023-12-20,21:00,Clermont Foot,0.6,1–3,2.5,Rennes,8840,Stade Gabriel Montpied,Eric Wattellier,/en/matches/16bc4ea4/Clermont-Foot-Rennes-December-20-2023-Ligue-1,,16bc4ea4
-FRA-Ligue 1,2324,2023-12-20 Lyon-Nantes,Ligue 1,17,Wed,2023-12-20,21:00,Lyon,1.7,1–0,0.5,Nantes,40028,Groupama Stadium,Benoît Bastien,/en/matches/1b327b86/Lyon-Nantes-December-20-2023-Ligue-1,,1b327b86
-FRA-Ligue 1,2324,2023-12-20 Montpellier-Marseille,Ligue 1,17,Wed,2023-12-20,21:00,Montpellier,0.9,1–1,1.3,Marseille,18565,Stade de la Mosson,Thomas Léonard,/en/matches/b8e581d1/Montpellier-Marseille-December-20-2023-Ligue-1,,b8e581d1
-FRA-Ligue 1,2324,2023-12-20 Nice-Lens,Ligue 1,17,Wed,2023-12-20,21:00,Nice,2.5,2–0,0.5,Lens,25041,Stade de Nice,Hakim Ben El Hadj Salem,/en/matches/267500aa/Nice-Lens-December-20-2023-Ligue-1,,267500aa
-FRA-Ligue 1,2324,2023-12-20 Paris S-G-Metz,Ligue 1,17,Wed,2023-12-20,21:00,Paris S-G,2.4,3–1,0.1,Metz,48229,Parc des Princes,Ruddy Buquet,/en/matches/fb56b3c2/Paris-Saint-Germain-Metz-December-20-2023-Ligue-1,,fb56b3c2
-FRA-Ligue 1,2324,2023-12-20 Reims-Le Havre,Ligue 1,17,Wed,2023-12-20,21:00,Reims,1.2,1–0,0.2,Le Havre,14835,Stade Auguste-Delaune,Stéphanie Frappart,/en/matches/4e667758/Reims-Le-Havre-December-20-2023-Ligue-1,,4e667758
-FRA-Ligue 1,2324,2023-12-20 Strasbourg-Lille,Ligue 1,17,Wed,2023-12-20,21:00,Strasbourg,0.8,2–1,0.5,Lille,25373,Stade de la Meinau,Clément Turpin,/en/matches/df32fbe8/Strasbourg-Lille-December-20-2023-Ligue-1,,df32fbe8
-FRA-Ligue 1,2324,2023-12-20 Toulouse-Monaco,Ligue 1,17,Wed,2023-12-20,21:00,Toulouse,1.4,1–2,1.9,Monaco,23881,Stadium Municipal,Jérôme Brisard,/en/matches/81c83fe9/Toulouse-Monaco-December-20-2023-Ligue-1,,81c83fe9
-FRA-Ligue 1,2324,2024-01-12 Marseille-Strasbourg,Ligue 1,18,Fri,2024-01-12,21:00,Marseille,1.4,1–1,1.2,Strasbourg,53616,Orange Vélodrome,Marc Bollengier,/en/matches/2a8b7749/Marseille-Strasbourg-January-12-2024-Ligue-1,,2a8b7749
-FRA-Ligue 1,2324,2024-01-13 Monaco-Reims,Ligue 1,18,Sat,2024-01-13,17:00,Monaco,1.2,1–3,1.5,Reims,4231,Stade Louis II,François Letexier,/en/matches/7f2cdeb6/Monaco-Reims-January-13-2024-Ligue-1,,7f2cdeb6
-FRA-Ligue 1,2324,2024-01-13 Rennes-Nice,Ligue 1,18,Sat,2024-01-13,21:00,Rennes,2.0,2–0,0.7,Nice,26689,Roazhon Park,Bastien Dechepy,/en/matches/6cc45497/Rennes-Nice-January-13-2024-Ligue-1,,6cc45497
-FRA-Ligue 1,2324,2024-01-14 Brest-Montpellier,Ligue 1,18,Sun,2024-01-14,15:00,Brest,3.4,2–0,0.4,Montpellier,12712,Stade Francis-Le Blé,Jérémie Pignard,/en/matches/82c3efb7/Brest-Montpellier-January-14-2024-Ligue-1,,82c3efb7
-FRA-Ligue 1,2324,2024-01-14 Le Havre-Lyon,Ligue 1,18,Sun,2024-01-14,17:05,Le Havre,1.2,3–1,0.8,Lyon,23146,Stade Océane,Gaël Angoula,/en/matches/a8be717d/Le-Havre-Lyon-January-14-2024-Ligue-1,,a8be717d
-FRA-Ligue 1,2324,2024-01-14 Lens-Paris S-G,Ligue 1,18,Sun,2024-01-14,20:45,Lens,2.1,0–2,1.8,Paris S-G,38200,Stade Bollaert-Delelis,Jérôme Brisard,/en/matches/0682fa55/Lens-Paris-Saint-Germain-January-14-2024-Ligue-1,,0682fa55
-FRA-Ligue 1,2324,2024-01-14 Lille-Lorient,Ligue 1,18,Sun,2024-01-14,13:00,Lille,2.3,3–0,0.1,Lorient,35204,Decathlon Arena - Stade Pierre-Mauroy,Pierre Gaillouste,/en/matches/24f7d86b/Lille-Lorient-January-14-2024-Ligue-1,,24f7d86b
-FRA-Ligue 1,2324,2024-01-14 Metz-Toulouse,Ligue 1,18,Sun,2024-01-14,15:00,Metz,0.7,0–1,1.0,Toulouse,21065,Stade Saint-Symphorien,Florent Batta,/en/matches/926b0a14/Metz-Toulouse-January-14-2024-Ligue-1,,926b0a14
-FRA-Ligue 1,2324,2024-01-14 Nantes-Clermont Foot,Ligue 1,18,Sun,2024-01-14,15:00,Nantes,1.9,1–2,1.0,Clermont Foot,20866,Stade de la Beaujoire - Louis Fonteneau,Romain Lissorgue,/en/matches/d2738fb8/Nantes-Clermont-Foot-January-14-2024-Ligue-1,,d2738fb8
-FRA-Ligue 1,2324,2024-01-26 Lyon-Rennes,Ligue 1,19,Fri,2024-01-26,21:00,Lyon,0.9,2–3,0.8,Rennes,40516,Groupama Stadium,Thomas Léonard,/en/matches/952686b7/Lyon-Rennes-January-26-2024-Ligue-1,,952686b7
-FRA-Ligue 1,2324,2024-01-27 Marseille-Monaco,Ligue 1,19,Sat,2024-01-27,21:00,Marseille,2.4,2–2,0.5,Monaco,63029,Orange Vélodrome,Willy Delajod,/en/matches/039fae0f/Marseille-Monaco-January-27-2024-Ligue-1,,039fae0f
-FRA-Ligue 1,2324,2024-01-27 Nice-Metz,Ligue 1,19,Sat,2024-01-27,17:00,Nice,2.2,1–0,0.1,Metz,20137,Stade de Nice,Stéphanie Frappart,/en/matches/69267ef1/Nice-Metz-January-27-2024-Ligue-1,,69267ef1
-FRA-Ligue 1,2324,2024-01-28 Clermont Foot-Strasbourg,Ligue 1,19,Sun,2024-01-28,15:00,Clermont Foot,1.5,1–1,1.0,Strasbourg,9047,Stade Gabriel Montpied,Benoît Millot,/en/matches/21b6f226/Clermont-Foot-Strasbourg-January-28-2024-Ligue-1,,21b6f226
-FRA-Ligue 1,2324,2024-01-28 Lorient-Le Havre,Ligue 1,19,Sun,2024-01-28,15:00,Lorient,1.0,3–3,1.7,Le Havre,14500,Stade du Moustoir,Jeremy Stinat,/en/matches/9bdf343f/Lorient-Le-Havre-January-28-2024-Ligue-1,,9bdf343f
-FRA-Ligue 1,2324,2024-01-28 Montpellier-Lille,Ligue 1,19,Sun,2024-01-28,13:00,Montpellier,0.7,0–0,0.5,Lille,12575,Stade de la Mosson,Hakim Ben El Hadj Salem,/en/matches/8308b478/Montpellier-Lille-January-28-2024-Ligue-1,,8308b478
-FRA-Ligue 1,2324,2024-01-28 Paris S-G-Brest,Ligue 1,19,Sun,2024-01-28,20:45,Paris S-G,2.1,2–2,0.7,Brest,47000,Parc des Princes,Clément Turpin,/en/matches/8e2d796d/Paris-Saint-Germain-Brest-January-28-2024-Ligue-1,,8e2d796d
-FRA-Ligue 1,2324,2024-01-28 Reims-Nantes,Ligue 1,19,Sun,2024-01-28,15:00,Reims,0.9,0–0,1.2,Nantes,14388,Stade Auguste-Delaune,Jérémie Pignard,/en/matches/f3522f33/Reims-Nantes-January-28-2024-Ligue-1,,f3522f33
-FRA-Ligue 1,2324,2024-01-28 Toulouse-Lens,Ligue 1,19,Sun,2024-01-28,17:05,Toulouse,1.7,0–2,0.8,Lens,27310,Stadium Municipal,Mathieu Vernice,/en/matches/678c2976/Toulouse-Lens-January-28-2024-Ligue-1,,678c2976
-FRA-Ligue 1,2324,2024-02-02 Strasbourg-Paris S-G,Ligue 1,20,Fri,2024-02-02,21:00,Strasbourg,2.7,1–2,2.0,Paris S-G,25834,Stade de la Meinau,Ruddy Buquet,/en/matches/c0fbd8fa/Strasbourg-Paris-Saint-Germain-February-2-2024-Ligue-1,,c0fbd8fa
-FRA-Ligue 1,2324,2024-02-03 Nantes-Lens,Ligue 1,20,Sat,2024-02-03,21:00,Nantes,0.6,0–1,1.6,Lens,34167,Stade de la Beaujoire - Louis Fonteneau,Florent Batta,/en/matches/f7e99caf/Nantes-Lens-February-3-2024-Ligue-1,,f7e99caf
-FRA-Ligue 1,2324,2024-02-03 Rennes-Montpellier,Ligue 1,20,Sat,2024-02-03,17:00,Rennes,2.0,2–1,1.2,Montpellier,24898,Roazhon Park,Mathieu Vernice,/en/matches/f3ce3488/Rennes-Montpellier-February-3-2024-Ligue-1,,f3ce3488
-FRA-Ligue 1,2324,2024-02-04 Brest-Nice,Ligue 1,20,Sun,2024-02-04,17:05,Brest,1.0,0–0,0.7,Nice,14500,Stade Francis-Le Blé,Jeremy Stinat,/en/matches/19dfaa21/Brest-Nice-February-4-2024-Ligue-1,,19dfaa21
-FRA-Ligue 1,2324,2024-02-04 Lille-Clermont Foot,Ligue 1,20,Sun,2024-02-04,15:00,Lille,2.9,4–0,0.4,Clermont Foot,38597,Decathlon Arena - Stade Pierre-Mauroy,Bastien Dechepy,/en/matches/90c40e1c/Lille-Clermont-Foot-February-4-2024-Ligue-1,,90c40e1c
-FRA-Ligue 1,2324,2024-02-04 Lyon-Marseille,Ligue 1,20,Sun,2024-02-04,20:45,Lyon,1.4,1–0,0.3,Marseille,46380,Groupama Stadium,Benoît Bastien,/en/matches/2e98ccf9/Choc-des-Olympiques-Lyon-Marseille-February-4-2024-Ligue-1,,2e98ccf9
-FRA-Ligue 1,2324,2024-02-04 Metz-Lorient,Ligue 1,20,Sun,2024-02-04,15:00,Metz,1.1,1–2,1.4,Lorient,21044,Stade Saint-Symphorien,Romain Lissorgue,/en/matches/2e802ba3/Metz-Lorient-February-4-2024-Ligue-1,,2e802ba3
-FRA-Ligue 1,2324,2024-02-04 Monaco-Le Havre,Ligue 1,20,Sun,2024-02-04,13:00,Monaco,1.4,1–1,0.1,Le Havre,9047,Stade Louis II,Jérôme Brisard,/en/matches/6b4f65e7/Monaco-Le-Havre-February-4-2024-Ligue-1,,6b4f65e7
-FRA-Ligue 1,2324,2024-02-04 Reims-Toulouse,Ligue 1,20,Sun,2024-02-04,15:00,Reims,2.8,2–3,1.5,Toulouse,12817,Stade Auguste-Delaune,Pierre Gaillouste,/en/matches/25718ab1/Reims-Toulouse-February-4-2024-Ligue-1,,25718ab1
-FRA-Ligue 1,2324,2024-02-09 Marseille-Metz,Ligue 1,21,Fri,2024-02-09,21:00,Marseille,1.8,1–1,0.8,Metz,62686,Orange Vélodrome,Hakim Ben El Hadj Salem,/en/matches/70c7d433/Marseille-Metz-February-9-2024-Ligue-1,,70c7d433
-FRA-Ligue 1,2324,2024-02-10 Lens-Strasbourg,Ligue 1,21,Sat,2024-02-10,17:00,Lens,1.6,3–1,1.8,Strasbourg,38161,Stade Bollaert-Delelis,Willy Delajod,/en/matches/9635699e/Lens-Strasbourg-February-10-2024-Ligue-1,,9635699e
-FRA-Ligue 1,2324,2024-02-10 Paris S-G-Lille,Ligue 1,21,Sat,2024-02-10,21:00,Paris S-G,2.8,3–1,1.2,Lille,47000,Parc des Princes,François Letexier,/en/matches/fb49d66d/Paris-Saint-Germain-Lille-February-10-2024-Ligue-1,,fb49d66d
-FRA-Ligue 1,2324,2024-02-11 Clermont Foot-Brest,Ligue 1,21,Sun,2024-02-11,15:00,Clermont Foot,1.2,1–1,1.5,Brest,8893,Stade Gabriel Montpied,Stéphanie Frappart,/en/matches/33d0b78a/Clermont-Foot-Brest-February-11-2024-Ligue-1,,33d0b78a
-FRA-Ligue 1,2324,2024-02-11 Le Havre-Rennes,Ligue 1,21,Sun,2024-02-11,13:00,Le Havre,1.1,0–1,0.9,Rennes,22702,Stade Océane,Benoît Millot,/en/matches/4472d29d/Le-Havre-Rennes-February-11-2024-Ligue-1,,4472d29d
-FRA-Ligue 1,2324,2024-02-11 Lorient-Reims,Ligue 1,21,Sun,2024-02-11,15:00,Lorient,1.9,2–0,1.2,Reims,15096,Stade du Moustoir,Marc Bollengier,/en/matches/99f9cba1/Lorient-Reims-February-11-2024-Ligue-1,,99f9cba1
-FRA-Ligue 1,2324,2024-02-11 Montpellier-Lyon,Ligue 1,21,Sun,2024-02-11,17:05,Montpellier,1.5,1–2,1.2,Lyon,15519,Stade de la Mosson,Pierre Gaillouste,/en/matches/014cd5b7/Montpellier-Lyon-February-11-2024-Ligue-1,,014cd5b7
-FRA-Ligue 1,2324,2024-02-11 Nice-Monaco,Ligue 1,21,Sun,2024-02-11,20:45,Nice,2.1,2–3,1.7,Monaco,24788,Stade de Nice,Eric Wattellier,/en/matches/a2cab916/Nice-Monaco-February-11-2024-Ligue-1,,a2cab916
-FRA-Ligue 1,2324,2024-02-11 Toulouse-Nantes,Ligue 1,21,Sun,2024-02-11,15:00,Toulouse,1.0,1–2,0.4,Nantes,28933,Stadium Municipal,Gaël Angoula,/en/matches/e6caf939/Toulouse-Nantes-February-11-2024-Ligue-1,,e6caf939
-FRA-Ligue 1,2324,2024-02-16 Lyon-Nice,Ligue 1,22,Fri,2024-02-16,21:00,Lyon,1.1,1–0,0.8,Nice,48033,Groupama Stadium,Clément Turpin,/en/matches/205468df/Lyon-Nice-February-16-2024-Ligue-1,,205468df
-FRA-Ligue 1,2324,2024-02-17 Lille-Le Havre,Ligue 1,22,Sat,2024-02-17,17:00,Lille,3.8,3–0,0.6,Le Havre,40317,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,/en/matches/9e482487/Lille-Le-Havre-February-17-2024-Ligue-1,,9e482487
-FRA-Ligue 1,2324,2024-02-17 Nantes-Paris S-G,Ligue 1,22,Sat,2024-02-17,21:00,Nantes,1.3,0–2,1.5,Paris S-G,34038,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,/en/matches/56629c17/Nantes-Paris-Saint-Germain-February-17-2024-Ligue-1,,56629c17
-FRA-Ligue 1,2324,2024-02-18 Brest-Marseille,Ligue 1,22,Sun,2024-02-18,20:45,Brest,1.7,1–0,0.6,Marseille,13800,Stade Francis-Le Blé,Ruddy Buquet,/en/matches/56d7c531/Brest-Marseille-February-18-2024-Ligue-1,,56d7c531
-FRA-Ligue 1,2324,2024-02-18 Monaco-Toulouse,Ligue 1,22,Sun,2024-02-18,15:00,Monaco,1.7,1–2,1.4,Toulouse,4702,Stade Louis II,Benoît Bastien,/en/matches/57c599f6/Monaco-Toulouse-February-18-2024-Ligue-1,,57c599f6
-FRA-Ligue 1,2324,2024-02-18 Montpellier-Metz,Ligue 1,22,Sun,2024-02-18,15:00,Montpellier,3.0,3–0,1.3,Metz,12532,Stade de la Mosson,Jeremy Stinat,/en/matches/4e939d4c/Montpellier-Metz-February-18-2024-Ligue-1,,4e939d4c
-FRA-Ligue 1,2324,2024-02-18 Reims-Lens,Ligue 1,22,Sun,2024-02-18,17:05,Reims,1.1,1–1,1.2,Lens,20116,Stade Auguste-Delaune,Benoît Millot,/en/matches/825ef1ef/Reims-Lens-February-18-2024-Ligue-1,,825ef1ef
-FRA-Ligue 1,2324,2024-02-18 Rennes-Clermont Foot,Ligue 1,22,Sun,2024-02-18,15:00,Rennes,3.7,3–1,0.8,Clermont Foot,27501,Roazhon Park,Romain Lissorgue,/en/matches/93f25522/Rennes-Clermont-Foot-February-18-2024-Ligue-1,,93f25522
-FRA-Ligue 1,2324,2024-02-18 Strasbourg-Lorient,Ligue 1,22,Sun,2024-02-18,13:00,Strasbourg,1.6,1–3,2.0,Lorient,25103,Stade de la Meinau,Thomas Léonard,/en/matches/ec531c24/Strasbourg-Lorient-February-18-2024-Ligue-1,,ec531c24
-FRA-Ligue 1,2324,2024-02-23 Metz-Lyon,Ligue 1,23,Fri,2024-02-23,21:00,Metz,1.6,1–2,1.6,Lyon,27560,Stade Saint-Symphorien,Marc Bollengier,/en/matches/f2778def/Metz-Lyon-February-23-2024-Ligue-1,,f2778def
-FRA-Ligue 1,2324,2024-02-24 Lorient-Nantes,Ligue 1,23,Sat,2024-02-24,17:00,Lorient,0.5,0–1,0.4,Nantes,16787,Stade du Moustoir,Willy Delajod,/en/matches/53742b6f/Lorient-Nantes-February-24-2024-Ligue-1,,53742b6f
-FRA-Ligue 1,2324,2024-02-24 Strasbourg-Brest,Ligue 1,23,Sat,2024-02-24,21:00,Strasbourg,0.2,0–3,1.8,Brest,25140,Stade de la Meinau,Jérôme Brisard,/en/matches/9c2847ab/Strasbourg-Brest-February-24-2024-Ligue-1,,9c2847ab
-FRA-Ligue 1,2324,2024-02-25 Le Havre-Reims,Ligue 1,23,Sun,2024-02-25,15:00,Le Havre,1.7,1–2,3.2,Reims,22046,Stade Océane,Florent Batta,/en/matches/f2b72da5/Le-Havre-Reims-February-25-2024-Ligue-1,,f2b72da5
-FRA-Ligue 1,2324,2024-02-25 Lens-Monaco,Ligue 1,23,Sun,2024-02-25,13:00,Lens,2.9,2–3,2.3,Monaco,37992,Stade Bollaert-Delelis,François Letexier,/en/matches/7b54b025/Lens-Monaco-February-25-2024-Ligue-1,,7b54b025
-FRA-Ligue 1,2324,2024-02-25 Marseille-Montpellier,Ligue 1,23,Sun,2024-02-25,20:45,Marseille,2.7,4–1,0.6,Montpellier,61263,Orange Vélodrome,Jérémie Pignard,/en/matches/7b5136c2/Marseille-Montpellier-February-25-2024-Ligue-1,,7b5136c2
-FRA-Ligue 1,2324,2024-02-25 Nice-Clermont Foot,Ligue 1,23,Sun,2024-02-25,15:00,Nice,1.6,0–0,2.0,Clermont Foot,22081,Stade de Nice,Hakim Ben El Hadj Salem,/en/matches/d4ce6789/Nice-Clermont-Foot-February-25-2024-Ligue-1,,d4ce6789
-FRA-Ligue 1,2324,2024-02-25 Paris S-G-Rennes,Ligue 1,23,Sun,2024-02-25,17:05,Paris S-G,1.9,1–1,0.8,Rennes,47874,Parc des Princes,Bastien Dechepy,/en/matches/6b8934e3/Paris-Saint-Germain-Rennes-February-25-2024-Ligue-1,,6b8934e3
-FRA-Ligue 1,2324,2024-02-25 Toulouse-Lille,Ligue 1,23,Sun,2024-02-25,15:00,Toulouse,2.1,3–1,0.6,Lille,24124,Stadium Municipal,Mathieu Vernice,/en/matches/a07309bd/Toulouse-Lille-February-25-2024-Ligue-1,,a07309bd
-FRA-Ligue 1,2324,2024-03-01 Monaco-Paris S-G,Ligue 1,24,Fri,2024-03-01,21:00,Monaco,1.6,0–0,1.5,Paris S-G,14700,Stade Louis II,Ruddy Buquet,/en/matches/4be6a76c/Monaco-Paris-Saint-Germain-March-1-2024-Ligue-1,,4be6a76c
-FRA-Ligue 1,2324,2024-03-02 Clermont Foot-Marseille,Ligue 1,24,Sat,2024-03-02,21:00,Clermont Foot,0.7,1–5,2.4,Marseille,10583,Stade Gabriel Montpied,Thomas Léonard,/en/matches/c2c8e29e/Clermont-Foot-Marseille-March-2-2024-Ligue-1,,c2c8e29e
-FRA-Ligue 1,2324,2024-03-02 Reims-Lille,Ligue 1,24,Sat,2024-03-02,17:00,Reims,0.6,0–1,1.1,Lille,16452,Stade Auguste-Delaune,Jeremy Stinat,/en/matches/92da3973/Reims-Lille-March-2-2024-Ligue-1,,92da3973
-FRA-Ligue 1,2324,2024-03-03 Brest-Le Havre,Ligue 1,24,Sun,2024-03-03,15:00,Brest,1.0,1–0,0.6,Le Havre,14718,Stade Francis-Le Blé,Pierre Gaillouste,/en/matches/51912b7d/Brest-Le-Havre-March-3-2024-Ligue-1,,51912b7d
-FRA-Ligue 1,2324,2024-03-03 Lyon-Lens,Ligue 1,24,Sun,2024-03-03,20:45,Lyon,2.0,0–3,3.4,Lens,48242,Groupama Stadium,Jérôme Brisard,/en/matches/736f94f0/Lyon-Lens-March-3-2024-Ligue-1,,736f94f0
-FRA-Ligue 1,2324,2024-03-03 Montpellier-Strasbourg,Ligue 1,24,Sun,2024-03-03,15:00,Montpellier,1.7,2–2,1.7,Strasbourg,11635,Stade de la Mosson,Stéphanie Frappart,/en/matches/e020afbf/Montpellier-Strasbourg-March-3-2024-Ligue-1,,e020afbf
-FRA-Ligue 1,2324,2024-03-03 Nantes-Metz,Ligue 1,24,Sun,2024-03-03,15:00,Nantes,0.9,0–2,2.0,Metz,27132,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,/en/matches/9cd454f2/Nantes-Metz-March-3-2024-Ligue-1,,9cd454f2
-FRA-Ligue 1,2324,2024-03-03 Rennes-Lorient,Ligue 1,24,Sun,2024-03-03,17:05,Rennes,1.4,1–2,2.0,Lorient,28615,Roazhon Park,Benoît Bastien,/en/matches/a3ae2f49/Rennes-Lorient-March-3-2024-Ligue-1,,a3ae2f49
-FRA-Ligue 1,2324,2024-03-03 Toulouse-Nice,Ligue 1,24,Sun,2024-03-03,13:00,Toulouse,1.8,2–1,1.4,Nice,25507,Stadium Municipal,Jérémie Pignard,/en/matches/2269add3/Toulouse-Nice-March-3-2024-Ligue-1,,2269add3
-FRA-Ligue 1,2324,2024-03-08 Nice-Montpellier,Ligue 1,25,Fri,2024-03-08,21:00,Nice,1.1,1–2,1.2,Montpellier,21819,Stade de Nice,Ruddy Buquet,/en/matches/d631a829/Nice-Montpellier-March-8-2024-Ligue-1,,d631a829
-FRA-Ligue 1,2324,2024-03-09 Lens-Brest,Ligue 1,25,Sat,2024-03-09,21:00,Lens,0.9,1–0,0.7,Brest,38016,Stade Bollaert-Delelis,Stéphanie Frappart,/en/matches/54c25242/Lens-Brest-March-9-2024-Ligue-1,,54c25242
-FRA-Ligue 1,2324,2024-03-09 Lorient-Lyon,Ligue 1,25,Sat,2024-03-09,17:00,Lorient,0.5,0–2,1.9,Lyon,16426,Stade du Moustoir,Mathieu Vernice,/en/matches/5ea578e0/Lorient-Lyon-March-9-2024-Ligue-1,,5ea578e0
-FRA-Ligue 1,2324,2024-03-10 Le Havre-Toulouse,Ligue 1,25,Sun,2024-03-10,15:00,Le Havre,1.0,1–0,0.3,Toulouse,21462,Stade Océane,Romain Lissorgue,/en/matches/3957eebd/Le-Havre-Toulouse-March-10-2024-Ligue-1,,3957eebd
-FRA-Ligue 1,2324,2024-03-10 Lille-Rennes,Ligue 1,25,Sun,2024-03-10,17:05,Lille,2.4,2–2,1.1,Rennes,40383,Decathlon Arena - Stade Pierre-Mauroy,Benoît Millot,/en/matches/67041fa5/Lille-Rennes-March-10-2024-Ligue-1,,67041fa5
-FRA-Ligue 1,2324,2024-03-10 Marseille-Nantes,Ligue 1,25,Sun,2024-03-10,20:45,Marseille,1.5,2–0,1.0,Nantes,56958,Orange Vélodrome,François Letexier,/en/matches/b696acad/Marseille-Nantes-March-10-2024-Ligue-1,,b696acad
-FRA-Ligue 1,2324,2024-03-10 Metz-Clermont Foot,Ligue 1,25,Sun,2024-03-10,15:00,Metz,1.7,1–0,0.8,Clermont Foot,22673,Stade Saint-Symphorien,Gaël Angoula,/en/matches/f7db6990/Metz-Clermont-Foot-March-10-2024-Ligue-1,,f7db6990
-FRA-Ligue 1,2324,2024-03-10 Paris S-G-Reims,Ligue 1,25,Sun,2024-03-10,13:00,Paris S-G,1.2,2–2,1.3,Reims,46000,Parc des Princes,Willy Delajod,/en/matches/d1422003/Paris-Saint-Germain-Reims-March-10-2024-Ligue-1,,d1422003
-FRA-Ligue 1,2324,2024-03-10 Strasbourg-Monaco,Ligue 1,25,Sun,2024-03-10,15:00,Strasbourg,0.4,0–1,1.3,Monaco,25391,Stade de la Meinau,Clément Turpin,/en/matches/9a8c884c/Strasbourg-Monaco-March-10-2024-Ligue-1,,9a8c884c
-FRA-Ligue 1,2324,2024-03-15 Toulouse-Lyon,Ligue 1,26,Fri,2024-03-15,21:00,Toulouse,2.4,2–3,1.4,Lyon,28434,Stadium Municipal,Jeremy Stinat,/en/matches/863ee181/Toulouse-Lyon-March-15-2024-Ligue-1,,863ee181
-FRA-Ligue 1,2324,2024-03-16 Lens-Nice,Ligue 1,26,Sat,2024-03-16,21:00,Lens,1.3,1–3,2.2,Nice,37346,Stade Bollaert-Delelis,Benoît Bastien,/en/matches/7b5edccd/Lens-Nice-March-16-2024-Ligue-1,,7b5edccd
-FRA-Ligue 1,2324,2024-03-16 Nantes-Strasbourg,Ligue 1,26,Sat,2024-03-16,17:00,Nantes,1.1,1–3,1.9,Strasbourg,29487,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,/en/matches/9e18cf79/Nantes-Strasbourg-March-16-2024-Ligue-1,,9e18cf79
-FRA-Ligue 1,2324,2024-03-17 Brest-Lille,Ligue 1,26,Sun,2024-03-17,13:00,Brest,1.0,1–1,0.8,Lille,14774,Stade Francis-Le Blé,Clément Turpin,/en/matches/cdf13a58/Brest-Lille-March-17-2024-Ligue-1,,cdf13a58
-FRA-Ligue 1,2324,2024-03-17 Clermont Foot-Le Havre,Ligue 1,26,Sun,2024-03-17,15:00,Clermont Foot,1.1,2–1,1.2,Le Havre,9638,Stade Gabriel Montpied,Marc Bollengier,/en/matches/f7f8d2b1/Clermont-Foot-Le-Havre-March-17-2024-Ligue-1,,f7f8d2b1
-FRA-Ligue 1,2324,2024-03-17 Monaco-Lorient,Ligue 1,26,Sun,2024-03-17,15:00,Monaco,2.5,2–2,0.8,Lorient,5090,Stade Louis II,Bastien Dechepy,/en/matches/5494c9d6/Monaco-Lorient-March-17-2024-Ligue-1,,5494c9d6
-FRA-Ligue 1,2324,2024-03-17 Montpellier-Paris S-G,Ligue 1,26,Sun,2024-03-17,20:45,Montpellier,2.3,2–6,1.5,Paris S-G,19202,Stade de la Mosson,Florent Batta,/en/matches/f850eea5/Montpellier-Paris-Saint-Germain-March-17-2024-Ligue-1,,f850eea5
-FRA-Ligue 1,2324,2024-03-17 Reims-Metz,Ligue 1,26,Sun,2024-03-17,15:00,Reims,2.2,2–1,0.9,Metz,14335,Stade Auguste-Delaune,Hakim Ben El Hadj Salem,/en/matches/d840de58/Reims-Metz-March-17-2024-Ligue-1,,d840de58
-FRA-Ligue 1,2324,2024-03-17 Rennes-Marseille,Ligue 1,26,Sun,2024-03-17,17:05,Rennes,1.4,2–0,0.7,Marseille,28610,Roazhon Park,Eric Wattellier,/en/matches/8cc36332/Rennes-Marseille-March-17-2024-Ligue-1,,8cc36332
-FRA-Ligue 1,2324,2024-03-29 Lille-Lens,Ligue 1,27,Fri,2024-03-29,21:00,Lille,1.6,2–1,0.6,Lens,48233,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,/en/matches/1488d812/Lille-Lens-March-29-2024-Ligue-1,,1488d812
-FRA-Ligue 1,2324,2024-03-30 Lyon-Reims,Ligue 1,27,Sat,2024-03-30,21:00,Lyon,1.8,1–1,1.4,Reims,46097,Groupama Stadium,Thomas Léonard,/en/matches/6b21872e/Lyon-Reims-March-30-2024-Ligue-1,,6b21872e
-FRA-Ligue 1,2324,2024-03-30 Metz-Monaco,Ligue 1,27,Sat,2024-03-30,17:00,Metz,2.1,2–5,2.4,Monaco,26661,Stade Saint-Symphorien,Eric Wattellier,/en/matches/ec35ab5c/Metz-Monaco-March-30-2024-Ligue-1,,ec35ab5c
-FRA-Ligue 1,2324,2024-03-31 Clermont Foot-Toulouse,Ligue 1,27,Sun,2024-03-31,15:00,Clermont Foot,0.8,0–3,1.8,Toulouse,10499,Stade Gabriel Montpied,Pierre Gaillouste,/en/matches/bfe740ac/Clermont-Foot-Toulouse-March-31-2024-Ligue-1,,bfe740ac
-FRA-Ligue 1,2324,2024-03-31 Le Havre-Montpellier,Ligue 1,27,Sun,2024-03-31,15:00,Le Havre,0.8,0–2,1.6,Montpellier,20556,Stade Océane,Mathieu Vernice,/en/matches/84ed0867/Le-Havre-Montpellier-March-31-2024-Ligue-1,,84ed0867
-FRA-Ligue 1,2324,2024-03-31 Lorient-Brest,Ligue 1,27,Sun,2024-03-31,13:00,Lorient,1.0,0–1,0.5,Brest,16745,Stade du Moustoir,Jérôme Brisard,/en/matches/605ef273/Lorient-Brest-March-31-2024-Ligue-1,,605ef273
-FRA-Ligue 1,2324,2024-03-31 Marseille-Paris S-G,Ligue 1,27,Sun,2024-03-31,20:45,Marseille,1.4,0–2,2.1,Paris S-G,66046,Orange Vélodrome,Benoît Bastien,/en/matches/4b3924f8/Marseille-Paris-Saint-Germain-March-31-2024-Ligue-1,,4b3924f8
-FRA-Ligue 1,2324,2024-03-31 Nice-Nantes,Ligue 1,27,Sun,2024-03-31,15:00,Nice,1.3,1–2,1.7,Nantes,21142,Stade de Nice,Bastien Dechepy,/en/matches/d3388c96/Nice-Nantes-March-31-2024-Ligue-1,,d3388c96
-FRA-Ligue 1,2324,2024-03-31 Strasbourg-Rennes,Ligue 1,27,Sun,2024-03-31,17:05,Strasbourg,2.5,2–0,1.1,Rennes,25407,Stade de la Meinau,Hakim Ben El Hadj Salem,/en/matches/789f3720/Strasbourg-Rennes-March-31-2024-Ligue-1,,789f3720
-FRA-Ligue 1,2324,2024-04-05 Lille-Marseille,Ligue 1,28,Fri,2024-04-05,21:00,Lille,1.8,3–1,1.2,Marseille,46864,Decathlon Arena - Stade Pierre-Mauroy,Bastien Dechepy,/en/matches/b0aa88a4/Lille-Marseille-April-5-2024-Ligue-1,,b0aa88a4
-FRA-Ligue 1,2324,2024-04-06 Lens-Le Havre,Ligue 1,28,Sat,2024-04-06,17:00,Lens,0.9,1–1,1.9,Le Havre,38223,Stade Bollaert-Delelis,François Letexier,/en/matches/a4636c9d/Lens-Le-Havre-April-6-2024-Ligue-1,,a4636c9d
-FRA-Ligue 1,2324,2024-04-06 Paris S-G-Clermont Foot,Ligue 1,28,Sat,2024-04-06,21:00,Paris S-G,2.7,1–1,0.3,Clermont Foot,47607,Parc des Princes,Gaël Angoula,/en/matches/a0e24fef/Paris-Saint-Germain-Clermont-Foot-April-6-2024-Ligue-1,,a0e24fef
-FRA-Ligue 1,2324,2024-04-07 Brest-Metz,Ligue 1,28,Sun,2024-04-07,13:00,Brest,3.2,4–3,2.2,Metz,14656,Stade Francis-Le Blé,Benoît Millot,/en/matches/f6f76317/Brest-Metz-April-7-2024-Ligue-1,,f6f76317
-FRA-Ligue 1,2324,2024-04-07 Monaco-Rennes,Ligue 1,28,Sun,2024-04-07,17:05,Monaco,2.0,1–0,1.3,Rennes,6634,Stade Louis II,Stéphanie Frappart,/en/matches/c0e30df7/Monaco-Rennes-April-7-2024-Ligue-1,,c0e30df7
-FRA-Ligue 1,2324,2024-04-07 Montpellier-Lorient,Ligue 1,28,Sun,2024-04-07,15:00,Montpellier,2.4,2–0,1.4,Lorient,15234,Stade de la Mosson,Romain Lissorgue,/en/matches/95bdd121/Montpellier-Lorient-April-7-2024-Ligue-1,,95bdd121
-FRA-Ligue 1,2324,2024-04-07 Nantes-Lyon,Ligue 1,28,Sun,2024-04-07,20:45,Nantes,1.2,1–3,2.4,Lyon,,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,/en/matches/7457568d/Nantes-Lyon-April-7-2024-Ligue-1,,7457568d
-FRA-Ligue 1,2324,2024-04-07 Reims-Nice,Ligue 1,28,Sun,2024-04-07,15:00,Reims,0.5,0–0,1.9,Nice,14606,Stade Auguste-Delaune,Eric Wattellier,/en/matches/4c072743/Reims-Nice-April-7-2024-Ligue-1,,4c072743
-FRA-Ligue 1,2324,2024-04-07 Toulouse-Strasbourg,Ligue 1,28,Sun,2024-04-07,15:00,Toulouse,1.0,0–0,0.5,Strasbourg,23495,Stadium Municipal,Ruddy Buquet,/en/matches/919e3eb7/Toulouse-Strasbourg-April-7-2024-Ligue-1,,919e3eb7
-FRA-Ligue 1,2324,2024-04-12 Metz-Lens,Ligue 1,29,Fri,2024-04-12,21:00,Metz,0.8,2–1,1.5,Lens,23002,Stade Saint-Symphorien,Romain Lissorgue,/en/matches/eac47cb2/Metz-Lens-April-12-2024-Ligue-1,,eac47cb2
-FRA-Ligue 1,2324,2024-04-13 Rennes-Toulouse,Ligue 1,29,Sat,2024-04-13,21:00,Rennes,1.0,1–2,0.5,Toulouse,28055,Roazhon Park,Florent Batta,/en/matches/6eba535c/Rennes-Toulouse-April-13-2024-Ligue-1,,6eba535c
-FRA-Ligue 1,2324,2024-04-13 Strasbourg-Reims,Ligue 1,29,Sat,2024-04-13,17:00,Strasbourg,2.2,3–1,0.5,Reims,25000,Stade de la Meinau,Willy Delajod,/en/matches/7b92b3c7/Strasbourg-Reims-April-13-2024-Ligue-1,,7b92b3c7
-FRA-Ligue 1,2324,2024-04-14 Clermont Foot-Montpellier,Ligue 1,29,Sun,2024-04-14,15:00,Clermont Foot,1.5,1–1,1.4,Montpellier,10174,Stade Gabriel Montpied,Thomas Léonard,/en/matches/9b9d6335/Clermont-Foot-Montpellier-April-14-2024-Ligue-1,,9b9d6335
-FRA-Ligue 1,2324,2024-04-14 Le Havre-Nantes,Ligue 1,29,Sun,2024-04-14,13:00,Le Havre,1.4,0–1,0.8,Nantes,23021,Stade Océane,Hakim Ben El Hadj Salem,/en/matches/2e9cdf18/Le-Havre-Nantes-April-14-2024-Ligue-1,,2e9cdf18
-FRA-Ligue 1,2324,2024-04-14 Lyon-Brest,Ligue 1,29,Sun,2024-04-14,20:45,Lyon,2.1,4–3,1.7,Brest,53898,Groupama Stadium,Mathieu Vernice,/en/matches/c832a039/Lyon-Brest-April-14-2024-Ligue-1,,c832a039
-FRA-Ligue 1,2324,2024-04-19 Nice-Lorient,Ligue 1,30,Fri,2024-04-19,21:00,Nice,2.5,3–0,0.5,Lorient,21067,Stade de Nice,Jeremy Stinat,/en/matches/05fcaf04/Nice-Lorient-April-19-2024-Ligue-1,,05fcaf04
-FRA-Ligue 1,2324,2024-04-20 Lens-Clermont Foot,Ligue 1,30,Sat,2024-04-20,21:00,Lens,1.9,1–0,0.7,Clermont Foot,37495,Stade Bollaert-Delelis,Benoît Bastien,/en/matches/811884b5/Lens-Clermont-Foot-April-20-2024-Ligue-1,,811884b5
-FRA-Ligue 1,2324,2024-04-20 Nantes-Rennes,Ligue 1,30,Sat,2024-04-20,17:00,Nantes,0.2,0–3,2.4,Rennes,25433,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,/en/matches/69006962/Nantes-Rennes-April-20-2024-Ligue-1,,69006962
-FRA-Ligue 1,2324,2024-04-21 Brest-Monaco,Ligue 1,30,Sun,2024-04-21,17:05,Brest,0.6,0–2,0.9,Monaco,14856,Stade Francis-Le Blé,Ruddy Buquet,/en/matches/8f8b95f8/Brest-Monaco-April-21-2024-Ligue-1,,8f8b95f8
-FRA-Ligue 1,2324,2024-04-21 Le Havre-Metz,Ligue 1,30,Sun,2024-04-21,15:00,Le Havre,0.7,0–1,1.3,Metz,21250,Stade Océane,Marc Bollengier,/en/matches/488e12d3/Le-Havre-Metz-April-21-2024-Ligue-1,,488e12d3
-FRA-Ligue 1,2324,2024-04-21 Lille-Strasbourg,Ligue 1,30,Sun,2024-04-21,15:00,Lille,0.8,1–0,1.3,Strasbourg,40381,Decathlon Arena - Stade Pierre-Mauroy,Benoît Millot,/en/matches/9511f4ab/Lille-Strasbourg-April-21-2024-Ligue-1,,9511f4ab
-FRA-Ligue 1,2324,2024-04-21 Paris S-G-Lyon,Ligue 1,30,Sun,2024-04-21,21:00,Paris S-G,2.3,4–1,1.0,Lyon,45000,Parc des Princes,François Letexier,/en/matches/33d8918a/Paris-Saint-Germain-Lyon-April-21-2024-Ligue-1,,33d8918a
-FRA-Ligue 1,2324,2024-04-21 Reims-Montpellier,Ligue 1,30,Sun,2024-04-21,15:00,Reims,1.5,1–2,1.6,Montpellier,14183,Stade Auguste-Delaune,Pierre Gaillouste,/en/matches/ec3fcd38/Reims-Montpellier-April-21-2024-Ligue-1,,ec3fcd38
-FRA-Ligue 1,2324,2024-04-21 Toulouse-Marseille,Ligue 1,30,Sun,2024-04-21,19:00,Toulouse,0.5,2–2,1.1,Marseille,30119,Stadium Municipal,Clément Turpin,/en/matches/05f7968b/Toulouse-Marseille-April-21-2024-Ligue-1,,05f7968b
-FRA-Ligue 1,2324,2024-04-24 Lorient-Paris S-G,Ligue 1,29,Wed,2024-04-24,19:00,Lorient,0.9,1–4,1.6,Paris S-G,16738,Stade du Moustoir,Marc Bollengier,/en/matches/12fd3a4c/Lorient-Paris-Saint-Germain-April-24-2024-Ligue-1,,12fd3a4c
-FRA-Ligue 1,2324,2024-04-24 Marseille-Nice,Ligue 1,29,Wed,2024-04-24,21:00,Marseille,2.2,2–2,1.4,Nice,53000,Orange Vélodrome,Jérémie Pignard,/en/matches/0727529c/Marseille-Nice-April-24-2024-Ligue-1,,0727529c
-FRA-Ligue 1,2324,2024-04-24 Monaco-Lille,Ligue 1,29,Wed,2024-04-24,21:00,Monaco,1.6,1–0,1.3,Lille,9000,Stade Louis II,Clément Turpin,/en/matches/88182e5f/Monaco-Lille-April-24-2024-Ligue-1,,88182e5f
-FRA-Ligue 1,2324,2024-04-26 Montpellier-Nantes,Ligue 1,31,Fri,2024-04-26,21:00,Montpellier,0.8,1–1,1.3,Nantes,17331,Stade de la Mosson,Jeremy Stinat,/en/matches/b0c1736a/Montpellier-Nantes-April-26-2024-Ligue-1,,b0c1736a
-FRA-Ligue 1,2324,2024-04-27 Paris S-G-Le Havre,Ligue 1,31,Sat,2024-04-27,21:00,Paris S-G,2.6,3–3,1.0,Le Havre,46000,Parc des Princes,Willy Delajod,/en/matches/c28df007/Paris-Saint-Germain-Le-Havre-April-27-2024-Ligue-1,,c28df007
-FRA-Ligue 1,2324,2024-04-28 Clermont Foot-Reims,Ligue 1,31,Sun,2024-04-28,15:00,Clermont Foot,2.9,4–1,0.9,Reims,8713,Stade Gabriel Montpied,Florent Batta,/en/matches/b85a0106/Clermont-Foot-Reims-April-28-2024-Ligue-1,,b85a0106
-FRA-Ligue 1,2324,2024-04-28 Lorient-Toulouse,Ligue 1,31,Sun,2024-04-28,15:00,Lorient,1.4,1–2,1.8,Toulouse,16125,Stade du Moustoir,Gaël Angoula,/en/matches/666bdb51/Lorient-Toulouse-April-28-2024-Ligue-1,,666bdb51
-FRA-Ligue 1,2324,2024-04-28 Lyon-Monaco,Ligue 1,31,Sun,2024-04-28,19:00,Lyon,2.2,3–2,1.7,Monaco,55539,Groupama Stadium,Bastien Dechepy,/en/matches/16e39992/Lyon-Monaco-April-28-2024-Ligue-1,,16e39992
-FRA-Ligue 1,2324,2024-04-28 Marseille-Lens,Ligue 1,31,Sun,2024-04-28,21:00,Marseille,1.7,2–1,1.2,Lens,59490,Orange Vélodrome,Eric Wattellier,/en/matches/13780c18/Marseille-Lens-April-28-2024-Ligue-1,,13780c18
-FRA-Ligue 1,2324,2024-04-28 Metz-Lille,Ligue 1,31,Sun,2024-04-28,13:00,Metz,1.1,1–2,0.8,Lille,24728,Stade Saint-Symphorien,Stéphanie Frappart,/en/matches/316c5fa3/Metz-Lille-April-28-2024-Ligue-1,,316c5fa3
-FRA-Ligue 1,2324,2024-04-28 Rennes-Brest,Ligue 1,31,Sun,2024-04-28,17:05,Rennes,2.6,4–5,2.0,Brest,28527,Roazhon Park,Benoît Bastien,/en/matches/1865787f/Rennes-Brest-April-28-2024-Ligue-1,,1865787f
-FRA-Ligue 1,2324,2024-04-28 Strasbourg-Nice,Ligue 1,31,Sun,2024-04-28,15:00,Strasbourg,0.6,1–3,1.6,Nice,25181,Stade de la Meinau,Thomas Léonard,/en/matches/a7951b3a/Strasbourg-Nice-April-28-2024-Ligue-1,,a7951b3a
-FRA-Ligue 1,2324,2024-05-03 Lens-Lorient,Ligue 1,32,Fri,2024-05-03,21:00,Lens,2.1,2–0,0.6,Lorient,37561,Stade Bollaert-Delelis,Jérémie Pignard,/en/matches/e7684537/Lens-Lorient-May-3-2024-Ligue-1,,e7684537
-FRA-Ligue 1,2324,2024-05-03 Toulouse-Montpellier,Ligue 1,32,Fri,2024-05-03,19:00,Toulouse,1.3,1–2,0.5,Montpellier,24559,Stadium Municipal,Marc Bollengier,/en/matches/33eeaf12/Toulouse-Montpellier-May-3-2024-Ligue-1,,33eeaf12
-FRA-Ligue 1,2324,2024-05-04 Brest-Nantes,Ligue 1,32,Sat,2024-05-04,21:00,Brest,0.5,0–0,1.6,Nantes,15159,Stade Francis-Le Blé,Clément Turpin,/en/matches/8e6a7aaa/Brest-Nantes-May-4-2024-Ligue-1,,8e6a7aaa
-FRA-Ligue 1,2324,2024-05-04 Le Havre-Strasbourg,Ligue 1,32,Sat,2024-05-04,15:00,Le Havre,1.8,3–1,1.0,Strasbourg,22293,Stade Océane,Jérôme Brisard,/en/matches/024a71c6/Le-Havre-Strasbourg-May-4-2024-Ligue-1,,024a71c6
-FRA-Ligue 1,2324,2024-05-04 Metz-Rennes,Ligue 1,32,Sat,2024-05-04,19:00,Metz,0.6,2–3,2.1,Rennes,23290,Stade Saint-Symphorien,Ruddy Buquet,/en/matches/a299adab/Metz-Rennes-May-4-2024-Ligue-1,,a299adab
-FRA-Ligue 1,2324,2024-05-04 Monaco-Clermont Foot,Ligue 1,32,Sat,2024-05-04,17:00,Monaco,3.6,4–1,1.4,Clermont Foot,7256,Stade Louis II,Hakim Ben El Hadj Salem,/en/matches/a7f56ab4/Monaco-Clermont-Foot-May-4-2024-Ligue-1,,a7f56ab4
-FRA-Ligue 1,2324,2024-05-06 Lille-Lyon,Ligue 1,32,Mon,2024-05-06,21:00,Lille,0.9,3–4,2.4,Lyon,45227,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,/en/matches/9a72e466/Lille-Lyon-May-6-2024-Ligue-1,,9a72e466
-FRA-Ligue 1,2324,2024-05-10 Brest-Reims,Ligue 1,33,Fri,2024-05-10,21:00,Brest,1.3,1–1,0.6,Reims,14633,Stade Francis-Le Blé,Jérôme Brisard,/en/matches/87d4c432/Brest-Reims-May-10-2024-Ligue-1,,87d4c432
-FRA-Ligue 1,2324,2024-05-10 Nice-Le Havre,Ligue 1,33,Fri,2024-05-10,21:00,Nice,1.8,1–0,0.5,Le Havre,24529,Stade de Nice,Benoît Bastien,/en/matches/73e73f70/Nice-Le-Havre-May-10-2024-Ligue-1,,73e73f70
-FRA-Ligue 1,2324,2024-05-12 Clermont Foot-Lyon,Ligue 1,33,Sun,2024-05-12,21:00,Clermont Foot,1.1,0–1,0.4,Lyon,10603,Stade Gabriel Montpied,Pierre Gaillouste,/en/matches/e6afe6a2/Clermont-Foot-Lyon-May-12-2024-Ligue-1,,e6afe6a2
-FRA-Ligue 1,2324,2024-05-12 Marseille-Lorient,Ligue 1,33,Sun,2024-05-12,21:00,Marseille,2.5,3–1,1.5,Lorient,62082,Orange Vélodrome,Bastien Dechepy,/en/matches/acbbdff5/Marseille-Lorient-May-12-2024-Ligue-1,,acbbdff5
-FRA-Ligue 1,2324,2024-05-12 Montpellier-Monaco,Ligue 1,33,Sun,2024-05-12,21:00,Montpellier,1.1,0–2,2.3,Monaco,14829,Stade de la Mosson,Stéphanie Frappart,/en/matches/9f62b1ef/Montpellier-Monaco-May-12-2024-Ligue-1,,9f62b1ef
-FRA-Ligue 1,2324,2024-05-12 Nantes-Lille,Ligue 1,33,Sun,2024-05-12,21:00,Nantes,0.7,1–2,1.5,Lille,26529,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,/en/matches/8f8532aa/Nantes-Lille-May-12-2024-Ligue-1,,8f8532aa
-FRA-Ligue 1,2324,2024-05-12 Paris S-G-Toulouse,Ligue 1,33,Sun,2024-05-12,21:00,Paris S-G,2.1,1–3,1.6,Toulouse,47000,Parc des Princes,Florent Batta,/en/matches/e8fcc39b/Paris-Saint-Germain-Toulouse-May-12-2024-Ligue-1,,e8fcc39b
-FRA-Ligue 1,2324,2024-05-12 Rennes-Lens,Ligue 1,33,Sun,2024-05-12,21:00,Rennes,1.9,1–1,0.6,Lens,28660,Roazhon Park,Benoît Millot,/en/matches/c55b179e/Rennes-Lens-May-12-2024-Ligue-1,,c55b179e
-FRA-Ligue 1,2324,2024-05-12 Strasbourg-Metz,Ligue 1,33,Sun,2024-05-12,21:00,Strasbourg,1.3,2–1,1.1,Metz,25686,Stade de la Meinau,François Letexier,/en/matches/2301c78f/Strasbourg-Metz-May-12-2024-Ligue-1,,2301c78f
-FRA-Ligue 1,2324,2024-05-15 Nice-Paris S-G,Ligue 1,32,Wed,2024-05-15,21:00,Nice,1.4,1–2,1.0,Paris S-G,33818,Stade de Nice,Ruddy Buquet,/en/matches/25e694fc/Nice-Paris-Saint-Germain-May-15-2024-Ligue-1,,25e694fc
-FRA-Ligue 1,2324,2024-05-15 Reims-Marseille,Ligue 1,32,Wed,2024-05-15,21:00,Reims,1.1,1–0,1.7,Marseille,19020,Stade Auguste-Delaune,Hakim Ben El Hadj Salem,/en/matches/5a6454f2/Reims-Marseille-May-15-2024-Ligue-1,,5a6454f2
-FRA-Ligue 1,2324,2024-05-19 Le Havre-Marseille,Ligue 1,34,Sun,2024-05-19,21:00,Le Havre,1.8,1–2,1.5,Marseille,24050,Stade Océane,Jeremy Stinat,/en/matches/3fa1da40/Le-Havre-Marseille-May-19-2024-Ligue-1,,3fa1da40
-FRA-Ligue 1,2324,2024-05-19 Lens-Montpellier,Ligue 1,34,Sun,2024-05-19,21:00,Lens,5.2,2–2,0.8,Montpellier,37433,Stade Bollaert-Delelis,Thomas Léonard,/en/matches/ac107595/Lens-Montpellier-May-19-2024-Ligue-1,,ac107595
-FRA-Ligue 1,2324,2024-05-19 Lille-Nice,Ligue 1,34,Sun,2024-05-19,21:00,Lille,1.2,2–2,0.9,Nice,45488,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,/en/matches/df360311/Lille-Nice-May-19-2024-Ligue-1,,df360311
-FRA-Ligue 1,2324,2024-05-19 Lorient-Clermont Foot,Ligue 1,34,Sun,2024-05-19,21:00,Lorient,4.2,5–0,0.8,Clermont Foot,16176,Stade du Moustoir,Clément Turpin,/en/matches/aed44d7a/Lorient-Clermont-Foot-May-19-2024-Ligue-1,,aed44d7a
-FRA-Ligue 1,2324,2024-05-19 Lyon-Strasbourg,Ligue 1,34,Sun,2024-05-19,21:00,Lyon,2.8,2–1,1.1,Strasbourg,57027,Groupama Stadium,Eric Wattellier,/en/matches/9576a537/Lyon-Strasbourg-May-19-2024-Ligue-1,,9576a537
-FRA-Ligue 1,2324,2024-05-19 Metz-Paris S-G,Ligue 1,34,Sun,2024-05-19,21:00,Metz,0.9,0–2,2.0,Paris S-G,28455,Stade Saint-Symphorien,Gaël Angoula,/en/matches/8dac35ed/Metz-Paris-Saint-Germain-May-19-2024-Ligue-1,,8dac35ed
-FRA-Ligue 1,2324,2024-05-19 Monaco-Nantes,Ligue 1,34,Sun,2024-05-19,21:00,Monaco,1.5,4–0,1.0,Nantes,7343,Stade Louis II,Romain Lissorgue,/en/matches/ba001914/Monaco-Nantes-May-19-2024-Ligue-1,,ba001914
-FRA-Ligue 1,2324,2024-05-19 Reims-Rennes,Ligue 1,34,Sun,2024-05-19,21:00,Reims,1.3,2–1,1.5,Rennes,16077,Stade Auguste-Delaune,Mathieu Vernice,/en/matches/94b311ad/Reims-Rennes-May-19-2024-Ligue-1,,94b311ad
-FRA-Ligue 1,2324,2024-05-19 Toulouse-Brest,Ligue 1,34,Sun,2024-05-19,21:00,Toulouse,0.9,0–3,1.6,Brest,28885,Stadium Municipal,Jérémie Pignard,/en/matches/0c59eeac/Toulouse-Brest-May-19-2024-Ligue-1,,0c59eeac
-FRA-Ligue 1,2324,2024-05-30 Saint-Étienne-Metz,French 1/2 Relegation/Promotion play-offs,,Thu,2024-05-30,20:30,Saint-Étienne,,2–1,,Metz,35536,Stade Geoffroy-Guichard,Benoît Millot,/en/matches/febd4e01/Saint-Etienne-Metz-May-30-2024-French-12-RelegationPromotion-play-offs,Leg 1 of 2,febd4e01
-FRA-Ligue 1,2324,2024-06-02 Metz-Saint-Étienne,French 1/2 Relegation/Promotion play-offs,,Sun,2024-06-02,17:00,Metz,,2–2,,Saint-Étienne,28500,Stade Saint-Symphorien,Jérôme Brisard,/en/matches/7f01f697/Metz-Saint-Etienne-June-2-2024-French-12-RelegationPromotion-play-offs,Leg 2 of 2; Saint-Étienne won; Required Extra Time,7f01f697
-FRA-Ligue 1,2425,2024-08-16 Le Havre-Paris S-G,Ligue 1,1,Fri,2024-08-16,20:45,Le Havre,0.2,1–4,2.9,Paris S-G,23167,Stade Océane,Willy Delajod,/en/matches/a6b98e33/Le-Havre-Paris-Saint-Germain-August-16-2024-Ligue-1,,a6b98e33
-FRA-Ligue 1,2425,2024-08-17 Brest-Marseille,Ligue 1,1,Sat,2024-08-17,17:00,Brest,1.3,1–5,2.4,Marseille,14962,Stade Francis-Le Blé,Benoît Bastien,/en/matches/35c1995a/Brest-Marseille-August-17-2024-Ligue-1,,35c1995a
-FRA-Ligue 1,2425,2024-08-17 Monaco-Saint-Étienne,Ligue 1,1,Sat,2024-08-17,21:00,Monaco,2.0,1–0,0.4,Saint-Étienne,14250,Stade Louis II,Clément Turpin,/en/matches/f84bb85e/Monaco-Saint-Etienne-August-17-2024-Ligue-1,,f84bb85e
-FRA-Ligue 1,2425,2024-08-17 Reims-Lille,Ligue 1,1,Sat,2024-08-17,19:00,Reims,0.1,0–2,2.1,Lille,14755,Stade Auguste-Delaune,Eric Wattellier,/en/matches/06aa495e/Reims-Lille-August-17-2024-Ligue-1,,06aa495e
-FRA-Ligue 1,2425,2024-08-18 Angers-Lens,Ligue 1,1,Sun,2024-08-18,17:00,Angers,0.4,0–1,1.2,Lens,14811,Stade Raymond Kopa,Thomas Léonard,/en/matches/cabadc94/Angers-Lens-August-18-2024-Ligue-1,,cabadc94
-FRA-Ligue 1,2425,2024-08-18 Auxerre-Nice,Ligue 1,1,Sun,2024-08-18,15:00,Auxerre,1.8,2–1,0.7,Nice,16354,Stade de l'Abbé Deschamps,Romain Lissorgue,/en/matches/18a24a50/Auxerre-Nice-August-18-2024-Ligue-1,,18a24a50
-FRA-Ligue 1,2425,2024-08-18 Montpellier-Strasbourg,Ligue 1,1,Sun,2024-08-18,17:00,Montpellier,1.3,1–1,0.9,Strasbourg,15706,Stade de la Mosson-Mondial 98,Mathieu Vernice,/en/matches/652abd24/Montpellier-Strasbourg-August-18-2024-Ligue-1,,652abd24
-FRA-Ligue 1,2425,2024-08-18 Rennes-Lyon,Ligue 1,1,Sun,2024-08-18,20:45,Rennes,2.0,3–0,2.1,Lyon,26026,Roazhon Park,Benoît Millot,/en/matches/bc46a367/Rennes-Lyon-August-18-2024-Ligue-1,,bc46a367
-FRA-Ligue 1,2425,2024-08-18 Toulouse-Nantes,Ligue 1,1,Sun,2024-08-18,17:00,Toulouse,1.7,0–0,0.5,Nantes,25491,Stadium de Toulouse,Jeremy Stinat,/en/matches/67b3b54c/Toulouse-Nantes-August-18-2024-Ligue-1,,67b3b54c
-FRA-Ligue 1,2425,2024-08-23 Paris S-G-Montpellier,Ligue 1,2,Fri,2024-08-23,20:45,Paris S-G,3.8,6–0,0.6,Montpellier,46000,Parc des Princes,Marc Bollengier,/en/matches/910be353/Paris-Saint-Germain-Montpellier-August-23-2024-Ligue-1,,910be353
-FRA-Ligue 1,2425,2024-08-24 Lille-Angers,Ligue 1,2,Sat,2024-08-24,19:00,Lille,0.9,2–0,0.6,Angers,36906,Decathlon Arena - Stade Pierre-Mauroy,Abdelatif Kherradji,/en/matches/70fdbb5a/Lille-Angers-August-24-2024-Ligue-1,,70fdbb5a
-FRA-Ligue 1,2425,2024-08-24 Lyon-Monaco,Ligue 1,2,Sat,2024-08-24,17:00,Lyon,0.0,0–2,2.2,Monaco,54392,Groupama Stadium,Stéphanie Frappart,/en/matches/1041ac42/Lyon-Monaco-August-24-2024-Ligue-1,,1041ac42
-FRA-Ligue 1,2425,2024-08-24 Saint-Étienne-Le Havre,Ligue 1,2,Sat,2024-08-24,21:00,Saint-Étienne,1.1,0–2,2.4,Le Havre,16958,Stade Geoffroy-Guichard,Florent Batta,/en/matches/fd677aba/Saint-Etienne-Le-Havre-August-24-2024-Ligue-1,,fd677aba
-FRA-Ligue 1,2425,2024-08-25 Lens-Brest,Ligue 1,2,Sun,2024-08-25,15:00,Lens,2.9,2–0,0.9,Brest,37435,Stade Bollaert-Delelis,Jérémie Pignard,/en/matches/7fe11a31/Lens-Brest-August-25-2024-Ligue-1,,7fe11a31
-FRA-Ligue 1,2425,2024-08-25 Marseille-Reims,Ligue 1,2,Sun,2024-08-25,20:45,Marseille,3.0,2–2,0.9,Reims,63841,Orange Vélodrome,Hakim Ben El Hadj Salem,/en/matches/3a93bc8b/Marseille-Reims-August-25-2024-Ligue-1,,3a93bc8b
-FRA-Ligue 1,2425,2024-08-25 Nantes-Auxerre,Ligue 1,2,Sun,2024-08-25,17:00,Nantes,1.4,2–0,1.1,Auxerre,31077,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,/en/matches/57fe0d50/Nantes-Auxerre-August-25-2024-Ligue-1,,57fe0d50
-FRA-Ligue 1,2425,2024-08-25 Nice-Toulouse,Ligue 1,2,Sun,2024-08-25,17:00,Nice,1.3,1–1,1.0,Toulouse,21656,Allianz Riviera,Bastien Dechepy,/en/matches/33b61302/Nice-Toulouse-August-25-2024-Ligue-1,,33b61302
-FRA-Ligue 1,2425,2024-08-25 Strasbourg-Rennes,Ligue 1,2,Sun,2024-08-25,17:00,Strasbourg,0.7,3–1,1.1,Rennes,19026,Stade de la Meinau,Eric Wattellier,/en/matches/efa54e4b/Strasbourg-Rennes-August-25-2024-Ligue-1,,efa54e4b
-FRA-Ligue 1,2425,2024-08-30 Lyon-Strasbourg,Ligue 1,3,Fri,2024-08-30,20:45,Lyon,2.9,4–3,2.7,Strasbourg,43805,Groupama Stadium,Thomas Léonard,/en/matches/2c5ec7aa/Lyon-Strasbourg-August-30-2024-Ligue-1,,2c5ec7aa
-FRA-Ligue 1,2425,2024-08-31 Brest-Saint-Étienne,Ligue 1,3,Sat,2024-08-31,17:00,Brest,3.1,4–0,0.2,Saint-Étienne,14885,Stade Francis-Le Blé,Gaël Angoula,/en/matches/82c19aa6/Brest-Saint-Etienne-August-31-2024-Ligue-1,,82c19aa6
-FRA-Ligue 1,2425,2024-08-31 Montpellier-Nantes,Ligue 1,3,Sat,2024-08-31,19:00,Montpellier,0.9,1–3,1.5,Nantes,13000,Stade de la Mosson-Mondial 98,Benoît Millot,/en/matches/5b8c614c/Montpellier-Nantes-August-31-2024-Ligue-1,,5b8c614c
-FRA-Ligue 1,2425,2024-08-31 Toulouse-Marseille,Ligue 1,3,Sat,2024-08-31,21:00,Toulouse,1.0,1–3,0.8,Marseille,19178,Stadium de Toulouse,Stéphanie Frappart,/en/matches/ebbcbe63/Toulouse-Marseille-August-31-2024-Ligue-1,,ebbcbe63
-FRA-Ligue 1,2425,2024-09-01 Angers-Nice,Ligue 1,3,Sun,2024-09-01,17:00,Angers,1.4,1–4,2.2,Nice,9168,Stade Raymond Kopa,Jeremy Stinat,/en/matches/97e962bb/Angers-Nice-September-1-2024-Ligue-1,,97e962bb
-FRA-Ligue 1,2425,2024-09-01 Le Havre-Auxerre,Ligue 1,3,Sun,2024-09-01,17:00,Le Havre,2.8,3–1,0.6,Auxerre,19715,Stade Océane,Marc Bollengier,/en/matches/3bc2668a/Le-Havre-Auxerre-September-1-2024-Ligue-1,,3bc2668a
-FRA-Ligue 1,2425,2024-09-01 Lille-Paris S-G,Ligue 1,3,Sun,2024-09-01,20:45,Lille,1.4,1–3,2.6,Paris S-G,45434,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,/en/matches/49234140/Lille-Paris-Saint-Germain-September-1-2024-Ligue-1,,49234140
-FRA-Ligue 1,2425,2024-09-01 Monaco-Lens,Ligue 1,3,Sun,2024-09-01,15:00,Monaco,1.0,1–1,2.2,Lens,9030,Stade Louis II,Willy Delajod,/en/matches/a93b08ff/Monaco-Lens-September-1-2024-Ligue-1,,a93b08ff
-FRA-Ligue 1,2425,2024-09-01 Reims-Rennes,Ligue 1,3,Sun,2024-09-01,17:00,Reims,1.4,2–1,0.8,Rennes,12856,Stade Auguste-Delaune,Mathieu Vernice,/en/matches/4abb133c/Reims-Rennes-September-1-2024-Ligue-1,,4abb133c
-FRA-Ligue 1,2425,2024-09-13 Saint-Étienne-Lille,Ligue 1,4,Fri,2024-09-13,20:45,Saint-Étienne,1.2,1–0,1.2,Lille,23000,Stade Geoffroy-Guichard,François Letexier,/en/matches/47e23fb5/Saint-Etienne-Lille-September-13-2024-Ligue-1,,47e23fb5
-FRA-Ligue 1,2425,2024-09-14 Auxerre-Monaco,Ligue 1,4,Sat,2024-09-14,19:00,Auxerre,0.6,0–3,3.4,Monaco,17045,Stade de l'Abbé Deschamps,Abdelatif Kherradji,/en/matches/b4fb60b5/Auxerre-Monaco-September-14-2024-Ligue-1,,b4fb60b5
-FRA-Ligue 1,2425,2024-09-14 Marseille-Nice,Ligue 1,4,Sat,2024-09-14,17:00,Marseille,0.7,2–0,1.9,Nice,65803,Orange Vélodrome,Benoît Millot,/en/matches/2034c29c/Marseille-Nice-September-14-2024-Ligue-1,,2034c29c
-FRA-Ligue 1,2425,2024-09-14 Paris S-G-Brest,Ligue 1,4,Sat,2024-09-14,21:00,Paris S-G,2.8,3–1,1.0,Brest,47000,Parc des Princes,Clément Turpin,/en/matches/f22a7db0/Paris-Saint-Germain-Brest-September-14-2024-Ligue-1,,f22a7db0
-FRA-Ligue 1,2425,2024-09-15 Lens-Lyon,Ligue 1,4,Sun,2024-09-15,20:45,Lens,1.0,0–0,0.6,Lyon,38116,Stade Bollaert-Delelis,Bastien Dechepy,/en/matches/6f7e5cde/Lens-Lyon-September-15-2024-Ligue-1,,6f7e5cde
-FRA-Ligue 1,2425,2024-09-15 Nantes-Reims,Ligue 1,4,Sun,2024-09-15,17:00,Nantes,1.5,1–2,0.5,Reims,29811,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,/en/matches/1411fc56/Nantes-Reims-September-15-2024-Ligue-1,,1411fc56
-FRA-Ligue 1,2425,2024-09-15 Rennes-Montpellier,Ligue 1,4,Sun,2024-09-15,15:00,Rennes,1.3,3–0,0.3,Montpellier,27451,Roazhon Park,Jérémie Pignard,/en/matches/984e7243/Rennes-Montpellier-September-15-2024-Ligue-1,,984e7243
-FRA-Ligue 1,2425,2024-09-15 Strasbourg-Angers,Ligue 1,4,Sun,2024-09-15,17:00,Strasbourg,2.3,1–1,0.9,Angers,19135,Stade de la Meinau,Hakim Ben El Hadj Salem,/en/matches/06ecf73c/Strasbourg-Angers-September-15-2024-Ligue-1,,06ecf73c
-FRA-Ligue 1,2425,2024-09-15 Toulouse-Le Havre,Ligue 1,4,Sun,2024-09-15,17:00,Toulouse,1.3,2–0,0.2,Le Havre,30097,Stadium de Toulouse,Eric Wattellier,/en/matches/f4982a54/Toulouse-Le-Havre-September-15-2024-Ligue-1,,f4982a54
-FRA-Ligue 1,2425,2024-09-20 Nice-Saint-Étienne,Ligue 1,5,Fri,2024-09-20,20:45,Nice,4.7,8–0,0.3,Saint-Étienne,30024,Allianz Riviera,Thomas Léonard,/en/matches/85495c0d/Nice-Saint-Etienne-September-20-2024-Ligue-1,,85495c0d
-FRA-Ligue 1,2425,2024-09-21 Lille-Strasbourg,Ligue 1,5,Sat,2024-09-21,17:00,Lille,2.6,3–3,3.2,Strasbourg,39516,Decathlon Arena - Stade Pierre-Mauroy,Jérôme Brisard,/en/matches/2bff6ebd/Lille-Strasbourg-September-21-2024-Ligue-1,,2bff6ebd
-FRA-Ligue 1,2425,2024-09-21 Reims-Paris S-G,Ligue 1,5,Sat,2024-09-21,21:00,Reims,0.3,1–1,1.6,Paris S-G,20220,Stade Auguste-Delaune,Jérémie Pignard,/en/matches/7274e9a5/Reims-Paris-Saint-Germain-September-21-2024-Ligue-1,,7274e9a5
-FRA-Ligue 1,2425,2024-09-21 Rennes-Lens,Ligue 1,5,Sat,2024-09-21,19:00,Rennes,1.4,1–1,0.6,Lens,28500,Roazhon Park,Jeremy Stinat,/en/matches/73dc5828/Rennes-Lens-September-21-2024-Ligue-1,,73dc5828
-FRA-Ligue 1,2425,2024-09-22 Angers-Nantes,Ligue 1,5,Sun,2024-09-22,17:00,Angers,0.9,1–1,0.6,Nantes,16960,Stade Raymond Kopa,Mathieu Vernice,/en/matches/601ddfc9/Angers-Nantes-September-22-2024-Ligue-1,,601ddfc9
-FRA-Ligue 1,2425,2024-09-22 Brest-Toulouse,Ligue 1,5,Sun,2024-09-22,17:00,Brest,0.5,2–0,2.7,Toulouse,14580,Stade Francis-Le Blé,Florent Batta,/en/matches/7cbba12e/Brest-Toulouse-September-22-2024-Ligue-1,,7cbba12e
-FRA-Ligue 1,2425,2024-09-22 Lyon-Marseille,Ligue 1,5,Sun,2024-09-22,20:45,Lyon,3.0,2–3,0.8,Marseille,53928,Groupama Stadium,Benoît Bastien,/en/matches/35b20e2f/Choc-des-Olympiques-Lyon-Marseille-September-22-2024-Ligue-1,,35b20e2f
-FRA-Ligue 1,2425,2024-09-22 Monaco-Le Havre,Ligue 1,5,Sun,2024-09-22,15:00,Monaco,1.9,3–1,0.6,Le Havre,6000,Stade Louis II,Stéphanie Frappart,/en/matches/017d7a9d/Monaco-Le-Havre-September-22-2024-Ligue-1,,017d7a9d
-FRA-Ligue 1,2425,2024-09-22 Montpellier-Auxerre,Ligue 1,5,Sun,2024-09-22,17:00,Montpellier,2.0,3–2,1.2,Auxerre,11643,Stade de la Mosson-Mondial 98,Hakim Ben El Hadj Salem,/en/matches/ac95cb33/Montpellier-Auxerre-September-22-2024-Ligue-1,,ac95cb33
-FRA-Ligue 1,2425,2024-09-27 Auxerre-Brest,Ligue 1,6,Fri,2024-09-27,19:00,Auxerre,2.5,3–0,0.8,Brest,15381,Stade de l'Abbé Deschamps,Jeremy Stinat,/en/matches/8c59509d/Auxerre-Brest-September-27-2024-Ligue-1,,8c59509d
-FRA-Ligue 1,2425,2024-09-27 Paris S-G-Rennes,Ligue 1,6,Fri,2024-09-27,21:00,Paris S-G,3.0,3–1,1.4,Rennes,47000,Parc des Princes,Hakim Ben El Hadj Salem,/en/matches/ab0643c6/Paris-Saint-Germain-Rennes-September-27-2024-Ligue-1,,ab0643c6
-FRA-Ligue 1,2425,2024-09-28 Le Havre-Lille,Ligue 1,6,Sat,2024-09-28,19:00,Le Havre,0.4,0–3,3.1,Lille,21369,Stade Océane,Bastien Dechepy,/en/matches/e08ccde6/Le-Havre-Lille-September-28-2024-Ligue-1,,e08ccde6
-FRA-Ligue 1,2425,2024-09-28 Lens-Nice,Ligue 1,6,Sat,2024-09-28,17:00,Lens,1.9,0–0,1.1,Nice,37301,Stade Bollaert-Delelis,François Letexier,/en/matches/340afccd/Lens-Nice-September-28-2024-Ligue-1,,340afccd
-FRA-Ligue 1,2425,2024-09-28 Monaco-Montpellier,Ligue 1,6,Sat,2024-09-28,21:00,Monaco,3.2,2–1,0.9,Montpellier,13065,Stade Louis II,Marc Bollengier,/en/matches/54ce742c/Monaco-Montpellier-September-28-2024-Ligue-1,,54ce742c
-FRA-Ligue 1,2425,2024-09-29 Angers-Reims,Ligue 1,6,Sun,2024-09-29,17:00,Angers,1.1,1–3,2.9,Reims,8526,Stade Raymond Kopa,Eric Wattellier,/en/matches/1ea5cb30/Angers-Reims-September-29-2024-Ligue-1,,1ea5cb30
-FRA-Ligue 1,2425,2024-09-29 Nantes-Saint-Étienne,Ligue 1,6,Sun,2024-09-29,17:00,Nantes,1.8,2–2,1.0,Saint-Étienne,34005,Stade de la Beaujoire - Louis Fonteneau,Abdelatif Kherradji,/en/matches/38a94d90/Nantes-Saint-Etienne-September-29-2024-Ligue-1,,38a94d90
-FRA-Ligue 1,2425,2024-09-29 Strasbourg-Marseille,Ligue 1,6,Sun,2024-09-29,20:45,Strasbourg,1.3,1–0,0.5,Marseille,19790,Stade de la Meinau,Willy Delajod,/en/matches/ebcd9980/Strasbourg-Marseille-September-29-2024-Ligue-1,,ebcd9980
-FRA-Ligue 1,2425,2024-09-29 Toulouse-Lyon,Ligue 1,6,Sun,2024-09-29,15:00,Toulouse,0.9,1–2,0.4,Lyon,30026,Stadium de Toulouse,Gaël Angoula,/en/matches/a7954dea/Toulouse-Lyon-September-29-2024-Ligue-1,,a7954dea
-FRA-Ligue 1,2425,2024-10-04 Marseille-Angers,Ligue 1,7,Fri,2024-10-04,20:45,Marseille,0.9,1–1,0.8,Angers,54568,Orange Vélodrome,Romain Lissorgue,/en/matches/c2dcc859/Marseille-Angers-October-4-2024-Ligue-1,,c2dcc859
-FRA-Ligue 1,2425,2024-10-05 Lille-Toulouse,Ligue 1,7,Sat,2024-10-05,19:00,Lille,1.6,2–1,1.1,Toulouse,36947,Decathlon Arena - Stade Pierre-Mauroy,Clément Turpin,/en/matches/8d700c3d/Lille-Toulouse-October-5-2024-Ligue-1,,8d700c3d
-FRA-Ligue 1,2425,2024-10-05 Rennes-Monaco,Ligue 1,7,Sat,2024-10-05,21:00,Rennes,0.7,1–2,0.6,Monaco,26533,Roazhon Park,Thomas Léonard,/en/matches/f7072ea6/Rennes-Monaco-October-5-2024-Ligue-1,,f7072ea6
-FRA-Ligue 1,2425,2024-10-05 Saint-Étienne-Auxerre,Ligue 1,7,Sat,2024-10-05,17:00,Saint-Étienne,2.7,3–1,0.8,Auxerre,31445,Stade Geoffroy-Guichard,Mathieu Vernice,/en/matches/752978b2/Saint-Etienne-Auxerre-October-5-2024-Ligue-1,,752978b2
-FRA-Ligue 1,2425,2024-10-06 Brest-Le Havre,Ligue 1,7,Sun,2024-10-06,17:00,Brest,0.7,2–0,1.0,Le Havre,14572,Stade Francis-Le Blé,Benoît Millot,/en/matches/efe178e7/Brest-Le-Havre-October-6-2024-Ligue-1,,efe178e7
-FRA-Ligue 1,2425,2024-10-06 Lyon-Nantes,Ligue 1,7,Sun,2024-10-06,15:00,Lyon,3.2,2–0,0.9,Nantes,51888,Groupama Stadium,Marc Bollengier,/en/matches/1cefcdb4/Lyon-Nantes-October-6-2024-Ligue-1,,1cefcdb4
-FRA-Ligue 1,2425,2024-10-06 Nice-Paris S-G,Ligue 1,7,Sun,2024-10-06,20:45,Nice,0.5,1–1,1.3,Paris S-G,30247,Allianz Riviera,Jérôme Brisard,/en/matches/474dd950/Nice-Paris-Saint-Germain-October-6-2024-Ligue-1,,474dd950
-FRA-Ligue 1,2425,2024-10-06 Reims-Montpellier,Ligue 1,7,Sun,2024-10-06,17:00,Reims,3.0,4–2,0.5,Montpellier,14903,Stade Auguste-Delaune,Benoît Bastien,/en/matches/843fb71f/Reims-Montpellier-October-6-2024-Ligue-1,,843fb71f
-FRA-Ligue 1,2425,2024-10-06 Strasbourg-Lens,Ligue 1,7,Sun,2024-10-06,17:00,Strasbourg,1.2,2–2,1.0,Lens,19968,Stade de la Meinau,Stéphanie Frappart,/en/matches/219332d8/Strasbourg-Lens-October-6-2024-Ligue-1,,219332d8
-FRA-Ligue 1,2425,2024-10-18 Monaco-Lille,Ligue 1,8,Fri,2024-10-18,20:45,Monaco,1.2,0–0,0.2,Lille,7263,Stade Louis II,Eric Wattellier,/en/matches/18476c11/Monaco-Lille-October-18-2024-Ligue-1,,18476c11
-FRA-Ligue 1,2425,2024-10-19 Brest-Rennes,Ligue 1,8,Sat,2024-10-19,17:00,Brest,1.5,1–1,1.2,Rennes,15099,Stade Francis-Le Blé,Bastien Dechepy,/en/matches/e2a10c83/Brest-Rennes-October-19-2024-Ligue-1,,e2a10c83
-FRA-Ligue 1,2425,2024-10-19 Paris S-G-Strasbourg,Ligue 1,8,Sat,2024-10-19,21:00,Paris S-G,3.5,4–2,1.9,Strasbourg,47590,Parc des Princes,Jeremy Stinat,/en/matches/80a16e3b/Paris-Saint-Germain-Strasbourg-October-19-2024-Ligue-1,,80a16e3b
-FRA-Ligue 1,2425,2024-10-19 Saint-Étienne-Lens,Ligue 1,8,Sat,2024-10-19,19:00,Saint-Étienne,0.8,0–2,1.2,Lens,36832,Stade Geoffroy-Guichard,Romain Lissorgue,/en/matches/0782c73c/Saint-Etienne-Lens-October-19-2024-Ligue-1,,0782c73c
-FRA-Ligue 1,2425,2024-10-20 Auxerre-Reims,Ligue 1,8,Sun,2024-10-20,17:00,Auxerre,2.8,2–1,1.1,Reims,17016,Stade de l'Abbé Deschamps,Florent Batta,/en/matches/5f02a541/Auxerre-Reims-October-20-2024-Ligue-1,,5f02a541
-FRA-Ligue 1,2425,2024-10-20 Le Havre-Lyon,Ligue 1,8,Sun,2024-10-20,15:00,Le Havre,0.4,0–4,2.7,Lyon,22490,Stade Océane,Abdelatif Kherradji,/en/matches/b12f8ecd/Le-Havre-Lyon-October-20-2024-Ligue-1,,b12f8ecd
-FRA-Ligue 1,2425,2024-10-20 Montpellier-Marseille,Ligue 1,8,Sun,2024-10-20,20:45,Montpellier,1.3,0–5,3.2,Marseille,18000,Stade de la Mosson-Mondial 98,Clément Turpin,/en/matches/0f332030/Montpellier-Marseille-October-20-2024-Ligue-1,,0f332030
-FRA-Ligue 1,2425,2024-10-20 Nantes-Nice,Ligue 1,8,Sun,2024-10-20,17:00,Nantes,0.5,1–1,0.8,Nice,28141,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,/en/matches/706313e8/Nantes-Nice-October-20-2024-Ligue-1,,706313e8
-FRA-Ligue 1,2425,2024-10-20 Toulouse-Angers,Ligue 1,8,Sun,2024-10-20,17:00,Toulouse,2.0,1–1,1.4,Angers,24107,Stadium de Toulouse,Willy Delajod,/en/matches/92f559ad/Toulouse-Angers-October-20-2024-Ligue-1,,92f559ad
-FRA-Ligue 1,2425,2024-10-25 Rennes-Le Havre,Ligue 1,9,Fri,2024-10-25,20:45,Rennes,1.5,1–0,0.4,Le Havre,27130,Roazhon Park,Florent Batta,/en/matches/603efa49/Rennes-Le-Havre-October-25-2024-Ligue-1,,603efa49
-FRA-Ligue 1,2425,2024-10-26 Angers-Saint-Étienne,Ligue 1,9,Sat,2024-10-26,17:00,Angers,2.9,4–2,1.5,Saint-Étienne,13796,Stade Raymond Kopa,Marc Bollengier,/en/matches/61752f42/Angers-Saint-Etienne-October-26-2024-Ligue-1,,61752f42
-FRA-Ligue 1,2425,2024-10-26 Lens-Lille,Ligue 1,9,Sat,2024-10-26,21:00,Lens,1.0,0–2,1.8,Lille,38223,Stade Bollaert-Delelis,Benoît Bastien,/en/matches/ac39189f/Lens-Lille-October-26-2024-Ligue-1,,ac39189f
-FRA-Ligue 1,2425,2024-10-26 Reims-Brest,Ligue 1,9,Sat,2024-10-26,19:00,Reims,0.7,1–2,1.5,Brest,17172,Stade Auguste-Delaune,Jérôme Brisard,/en/matches/6e7b242b/Reims-Brest-October-26-2024-Ligue-1,,6e7b242b
-FRA-Ligue 1,2425,2024-10-27 Lyon-Auxerre,Ligue 1,9,Sun,2024-10-27,15:00,Lyon,2.0,2–2,1.5,Auxerre,54868,Groupama Stadium,Jeremy Stinat,/en/matches/bd02e3b4/Lyon-Auxerre-October-27-2024-Ligue-1,,bd02e3b4
-FRA-Ligue 1,2425,2024-10-27 Marseille-Paris S-G,Ligue 1,9,Sun,2024-10-27,20:45,Marseille,0.2,0–3,3.1,Paris S-G,66115,Orange Vélodrome,François Letexier,/en/matches/c29b0d3a/Marseille-Paris-Saint-Germain-October-27-2024-Ligue-1,,c29b0d3a
-FRA-Ligue 1,2425,2024-10-27 Montpellier-Toulouse,Ligue 1,9,Sun,2024-10-27,17:00,Montpellier,0.2,0–3,1.9,Toulouse,14111,Stade de la Mosson-Mondial 98,Thomas Léonard,/en/matches/49e6789d/Montpellier-Toulouse-October-27-2024-Ligue-1,,49e6789d
-FRA-Ligue 1,2425,2024-10-27 Nice-Monaco,Ligue 1,9,Sun,2024-10-27,17:00,Nice,1.6,2–1,0.5,Monaco,29795,Allianz Riviera,Jérémie Pignard,/en/matches/4cbaa8c3/Nice-Monaco-October-27-2024-Ligue-1,,4cbaa8c3
-FRA-Ligue 1,2425,2024-10-27 Strasbourg-Nantes,Ligue 1,9,Sun,2024-10-27,17:00,Strasbourg,1.7,3–1,0.7,Nantes,19398,Stade de la Meinau,Hakim Ben El Hadj Salem,/en/matches/98168e71/Strasbourg-Nantes-October-27-2024-Ligue-1,,98168e71
-FRA-Ligue 1,2425,2024-11-01 Lille-Lyon,Ligue 1,10,Fri,2024-11-01,21:00,Lille,1.7,1–1,1.2,Lyon,45084,Decathlon Arena - Stade Pierre-Mauroy,Jérôme Brisard,/en/matches/d592199c/Lille-Lyon-November-1-2024-Ligue-1,,d592199c
-FRA-Ligue 1,2425,2024-11-01 Monaco-Angers,Ligue 1,10,Fri,2024-11-01,19:00,Monaco,1.4,0–1,0.5,Angers,10540,Stade Louis II,Abdelatif Kherradji,/en/matches/3e5f7440/Monaco-Angers-November-1-2024-Ligue-1,,3e5f7440
-FRA-Ligue 1,2425,2024-11-02 Brest-Nice,Ligue 1,10,Sat,2024-11-02,19:00,Brest,1.0,0–1,1.4,Nice,14534,Stade Francis-Le Blé,Clément Turpin,/en/matches/0fab1c2f/Brest-Nice-November-2-2024-Ligue-1,,0fab1c2f
-FRA-Ligue 1,2425,2024-11-02 Paris S-G-Lens,Ligue 1,10,Sat,2024-11-02,17:00,Paris S-G,2.9,1–0,0.7,Lens,47926,Parc des Princes,Willy Delajod,/en/matches/51cd344b/Paris-Saint-Germain-Lens-November-2-2024-Ligue-1,,51cd344b
-FRA-Ligue 1,2425,2024-11-02 Saint-Étienne-Strasbourg,Ligue 1,10,Sat,2024-11-02,21:00,Saint-Étienne,2.8,2–0,0.5,Strasbourg,33043,Stade Geoffroy-Guichard,Eric Wattellier,/en/matches/535bbc15/Saint-Etienne-Strasbourg-November-2-2024-Ligue-1,,535bbc15
-FRA-Ligue 1,2425,2024-11-03 Auxerre-Rennes,Ligue 1,10,Sun,2024-11-03,17:00,Auxerre,2.8,4–0,0.9,Rennes,16366,Stade de l'Abbé Deschamps,Gaël Angoula,/en/matches/acc30562/Auxerre-Rennes-November-3-2024-Ligue-1,,acc30562
-FRA-Ligue 1,2425,2024-11-03 Le Havre-Montpellier,Ligue 1,10,Sun,2024-11-03,17:00,Le Havre,2.2,1–0,1.0,Montpellier,18703,Stade Océane,Stéphanie Frappart,/en/matches/a537aa6e/Le-Havre-Montpellier-November-3-2024-Ligue-1,,a537aa6e
-FRA-Ligue 1,2425,2024-11-03 Nantes-Marseille,Ligue 1,10,Sun,2024-11-03,20:45,Nantes,1.4,1–2,1.2,Marseille,33248,Stade de la Beaujoire - Louis Fonteneau,Bastien Dechepy,/en/matches/53893177/Nantes-Marseille-November-3-2024-Ligue-1,,53893177
-FRA-Ligue 1,2425,2024-11-03 Toulouse-Reims,Ligue 1,10,Sun,2024-11-03,15:00,Toulouse,0.9,1–0,1.1,Reims,23769,Stadium de Toulouse,Mathieu Vernice,/en/matches/f0237d4b/Toulouse-Reims-November-3-2024-Ligue-1,,f0237d4b
-FRA-Ligue 1,2425,2024-11-08 Marseille-Auxerre,Ligue 1,11,Fri,2024-11-08,20:45,Marseille,2.5,1–3,1.9,Auxerre,64184,Orange Vélodrome,Marc Bollengier,/en/matches/4ab63460/Marseille-Auxerre-November-8-2024-Ligue-1,,4ab63460
-FRA-Ligue 1,2425,2024-11-09 Angers-Paris S-G,Ligue 1,11,Sat,2024-11-09,21:00,Angers,1.1,2–4,3.4,Paris S-G,17212,Stade Raymond Kopa,Benoît Millot,/en/matches/ddf738c4/Angers-Paris-Saint-Germain-November-9-2024-Ligue-1,,ddf738c4
-FRA-Ligue 1,2425,2024-11-09 Lens-Nantes,Ligue 1,11,Sat,2024-11-09,19:00,Lens,2.9,3–2,1.4,Nantes,38202,Stade Bollaert-Delelis,Clément Turpin,/en/matches/172c33b7/Lens-Nantes-November-9-2024-Ligue-1,,172c33b7
-FRA-Ligue 1,2425,2024-11-09 Strasbourg-Monaco,Ligue 1,11,Sat,2024-11-09,17:00,Strasbourg,0.6,1–3,3.8,Monaco,19451,Stade de la Meinau,Bastien Dechepy,/en/matches/cd41b272/Strasbourg-Monaco-November-9-2024-Ligue-1,,cd41b272
-FRA-Ligue 1,2425,2024-11-10 Le Havre-Reims,Ligue 1,11,Sun,2024-11-10,17:00,Le Havre,1.4,0–3,2.6,Reims,19256,Stade Océane,Hakim Ben El Hadj Salem,/en/matches/63390fe7/Le-Havre-Reims-November-10-2024-Ligue-1,,63390fe7
-FRA-Ligue 1,2425,2024-11-10 Lyon-Saint-Étienne,Ligue 1,11,Sun,2024-11-10,20:45,Lyon,1.1,1–0,0.6,Saint-Étienne,58082,Groupama Stadium,Willy Delajod,/en/matches/e552596a/Lyon-Saint-Etienne-November-10-2024-Ligue-1,,e552596a
-FRA-Ligue 1,2425,2024-11-10 Montpellier-Brest,Ligue 1,11,Sun,2024-11-10,17:00,Montpellier,2.5,3–1,0.9,Brest,12936,Stade de la Mosson-Mondial 98,Jérémie Pignard,/en/matches/8ab9a941/Montpellier-Brest-November-10-2024-Ligue-1,,8ab9a941
-FRA-Ligue 1,2425,2024-11-10 Nice-Lille,Ligue 1,11,Sun,2024-11-10,15:00,Nice,2.1,2–2,1.7,Lille,25063,Allianz Riviera,Jeremy Stinat,/en/matches/e213d881/Nice-Lille-November-10-2024-Ligue-1,,e213d881
-FRA-Ligue 1,2425,2024-11-10 Rennes-Toulouse,Ligue 1,11,Sun,2024-11-10,17:00,Rennes,0.6,0–2,1.4,Toulouse,27525,Roazhon Park,Romain Lissorgue,/en/matches/a7965d75/Rennes-Toulouse-November-10-2024-Ligue-1,,a7965d75
-FRA-Ligue 1,2425,2024-11-22 Monaco-Brest,Ligue 1,12,Fri,2024-11-22,19:00,Monaco,2.6,3–2,1.0,Brest,5800,Stade Louis II,Thomas Léonard,/en/matches/48a28747/Monaco-Brest-November-22-2024-Ligue-1,,48a28747
-FRA-Ligue 1,2425,2024-11-22 Paris S-G-Toulouse,Ligue 1,12,Fri,2024-11-22,21:00,Paris S-G,1.1,3–0,1.4,Toulouse,47000,Parc des Princes,Gaël Angoula,/en/matches/740dd871/Paris-Saint-Germain-Toulouse-November-22-2024-Ligue-1,,740dd871
-FRA-Ligue 1,2425,2024-11-23 Lens-Marseille,Ligue 1,12,Sat,2024-11-23,17:00,Lens,2.5,1–3,1.2,Marseille,38823,Stade Bollaert-Delelis,Eric Wattellier,/en/matches/01446885/Lens-Marseille-November-23-2024-Ligue-1,,01446885
-FRA-Ligue 1,2425,2024-11-23 Reims-Lyon,Ligue 1,12,Sat,2024-11-23,21:00,Reims,1.0,1–1,1.7,Lyon,18500,Stade Auguste-Delaune,Stéphanie Frappart,/en/matches/4da20576/Reims-Lyon-November-23-2024-Ligue-1,,4da20576
-FRA-Ligue 1,2425,2024-11-23 Saint-Étienne-Montpellier,Ligue 1,12,Sat,2024-11-23,19:00,Saint-Étienne,1.5,1–0,0.9,Montpellier,33008,Stade Geoffroy-Guichard,Florent Batta,/en/matches/90c0c091/Saint-Etienne-Montpellier-November-23-2024-Ligue-1,,90c0c091
-FRA-Ligue 1,2425,2024-11-24 Auxerre-Angers,Ligue 1,12,Sun,2024-11-24,17:00,Auxerre,0.6,1–0,0.9,Angers,16120,Stade de l'Abbé Deschamps,François Letexier,/en/matches/b1dbd309/Auxerre-Angers-November-24-2024-Ligue-1,,b1dbd309
-FRA-Ligue 1,2425,2024-11-24 Lille-Rennes,Ligue 1,12,Sun,2024-11-24,15:00,Lille,0.4,1–0,0.2,Rennes,46019,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,/en/matches/240126d9/Lille-Rennes-November-24-2024-Ligue-1,,240126d9
-FRA-Ligue 1,2425,2024-11-24 Nantes-Le Havre,Ligue 1,12,Sun,2024-11-24,17:00,Nantes,0.9,0–2,0.8,Le Havre,26936,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,/en/matches/a27a021f/Nantes-Le-Havre-November-24-2024-Ligue-1,,a27a021f
-FRA-Ligue 1,2425,2024-11-24 Nice-Strasbourg,Ligue 1,12,Sun,2024-11-24,20:45,Nice,2.1,2–1,0.4,Strasbourg,18389,Allianz Riviera,Benoît Bastien,/en/matches/5bfe68c5/Nice-Strasbourg-November-24-2024-Ligue-1,,5bfe68c5
-FRA-Ligue 1,2425,2024-11-29 Reims-Lens,Ligue 1,13,Fri,2024-11-29,20:45,Reims,0.8,0–2,1.8,Lens,18555,Stade Auguste-Delaune,Abdelatif Kherradji,/en/matches/a4c0898c/Reims-Lens-November-29-2024-Ligue-1,,a4c0898c
-FRA-Ligue 1,2425,2024-11-30 Brest-Strasbourg,Ligue 1,13,Sat,2024-11-30,19:00,Brest,2.5,3–1,1.0,Strasbourg,14600,Stade Francis-Le Blé,Romain Lissorgue,/en/matches/197cb3bb/Brest-Strasbourg-November-30-2024-Ligue-1,,197cb3bb
-FRA-Ligue 1,2425,2024-11-30 Paris S-G-Nantes,Ligue 1,13,Sat,2024-11-30,21:00,Paris S-G,2.6,1–1,0.8,Nantes,47926,Parc des Princes,Jeremy Stinat,/en/matches/b898e0fa/Paris-Saint-Germain-Nantes-November-30-2024-Ligue-1,,b898e0fa
-FRA-Ligue 1,2425,2024-11-30 Rennes-Saint-Étienne,Ligue 1,13,Sat,2024-11-30,17:00,Rennes,3.2,5–0,0.1,Saint-Étienne,27586,Roazhon Park,Marc Bollengier,/en/matches/546b6937/Rennes-Saint-Etienne-November-30-2024-Ligue-1,,546b6937
-FRA-Ligue 1,2425,2024-12-01 Le Havre-Angers,Ligue 1,13,Sun,2024-12-01,17:00,Le Havre,0.3,0–1,2.1,Angers,20018,Stade Océane,Willy Delajod,/en/matches/b9d2f3b2/Le-Havre-Angers-December-1-2024-Ligue-1,,b9d2f3b2
-FRA-Ligue 1,2425,2024-12-01 Lyon-Nice,Ligue 1,13,Sun,2024-12-01,17:00,Lyon,2.7,4–1,2.1,Nice,59977,Groupama Stadium,Bastien Dechepy,/en/matches/44194749/Lyon-Nice-December-1-2024-Ligue-1,,44194749
-FRA-Ligue 1,2425,2024-12-01 Marseille-Monaco,Ligue 1,13,Sun,2024-12-01,20:45,Marseille,1.9,2–1,1.0,Monaco,64277,Orange Vélodrome,Clément Turpin,/en/matches/e90d4817/Marseille-Monaco-December-1-2024-Ligue-1,,e90d4817
-FRA-Ligue 1,2425,2024-12-01 Montpellier-Lille,Ligue 1,13,Sun,2024-12-01,15:00,Montpellier,1.4,2–2,2.2,Lille,14000,Stade de la Mosson-Mondial 98,Benoît Millot,/en/matches/76b0b7f1/Montpellier-Lille-December-1-2024-Ligue-1,,76b0b7f1
-FRA-Ligue 1,2425,2024-12-01 Toulouse-Auxerre,Ligue 1,13,Sun,2024-12-01,17:00,Toulouse,2.3,2–0,0.2,Auxerre,23525,Stadium de Toulouse,Hakim Ben El Hadj Salem,/en/matches/f81de4c6/Toulouse-Auxerre-December-1-2024-Ligue-1,,f81de4c6
-FRA-Ligue 1,2425,2024-12-06 Auxerre-Paris S-G,Ligue 1,14,Fri,2024-12-06,21:00,Auxerre,0.3,0–0,2.5,Paris S-G,17028,Stade de l'Abbé Deschamps,Jérémie Pignard,/en/matches/9139adc8/Auxerre-Paris-Saint-Germain-December-6-2024-Ligue-1,,9139adc8
-FRA-Ligue 1,2425,2024-12-06 Lille-Brest,Ligue 1,14,Fri,2024-12-06,19:00,Lille,2.5,3–1,0.7,Brest,38128,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,/en/matches/5b3adec0/Lille-Brest-December-6-2024-Ligue-1,,5b3adec0
-FRA-Ligue 1,2425,2024-12-07 Angers-Lyon,Ligue 1,14,Sat,2024-12-07,21:00,Angers,0.6,0–3,2.0,Lyon,16301,Stade Raymond Kopa,Marc Bollengier,/en/matches/8f5cb172/Angers-Lyon-December-7-2024-Ligue-1,,8f5cb172
-FRA-Ligue 1,2425,2024-12-07 Monaco-Toulouse,Ligue 1,14,Sat,2024-12-07,17:00,Monaco,3.2,2–0,0.5,Toulouse,6868,Stade Louis II,Stéphanie Frappart,/en/matches/63873373/Monaco-Toulouse-December-7-2024-Ligue-1,,63873373
-FRA-Ligue 1,2425,2024-12-07 Nice-Le Havre,Ligue 1,14,Sat,2024-12-07,19:00,Nice,2.0,2–1,1.1,Le Havre,21248,Allianz Riviera,François Letexier,/en/matches/3a9f8a55/Nice-Le-Havre-December-7-2024-Ligue-1,,3a9f8a55
-FRA-Ligue 1,2425,2024-12-08 Lens-Montpellier,Ligue 1,14,Sun,2024-12-08,15:00,Lens,1.3,2–0,1.0,Montpellier,37317,Stade Bollaert-Delelis,Mathieu Vernice,/en/matches/bb9a5ad3/Lens-Montpellier-December-8-2024-Ligue-1,,bb9a5ad3
-FRA-Ligue 1,2425,2024-12-08 Nantes-Rennes,Ligue 1,14,Sun,2024-12-08,17:00,Nantes,1.2,1–0,0.4,Rennes,28418,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,/en/matches/f45bb195/Nantes-Rennes-December-8-2024-Ligue-1,,f45bb195
-FRA-Ligue 1,2425,2024-12-08 Saint-Étienne-Marseille,Ligue 1,14,Sun,2024-12-08,20:45,Saint-Étienne,0.1,0–2,2.5,Marseille,35350,Stade Geoffroy-Guichard,Jérôme Brisard,/en/matches/e865637d/Saint-Etienne-Marseille-December-8-2024-Ligue-1,,e865637d
-FRA-Ligue 1,2425,2024-12-08 Strasbourg-Reims,Ligue 1,14,Sun,2024-12-08,17:00,Strasbourg,0.8,0–0,1.1,Reims,19369,Stade de la Meinau,Thomas Léonard,/en/matches/74299224/Strasbourg-Reims-December-8-2024-Ligue-1,,74299224
-FRA-Ligue 1,2425,2024-12-13 Toulouse-Saint-Étienne,Ligue 1,15,Fri,2024-12-13,20:45,Toulouse,1.4,2–1,0.5,Saint-Étienne,25350,Stadium de Toulouse,Thomas Léonard,/en/matches/737388fc/Toulouse-Saint-Etienne-December-13-2024-Ligue-1,,737388fc
-FRA-Ligue 1,2425,2024-12-14 Auxerre-Lens,Ligue 1,15,Sat,2024-12-14,19:00,Auxerre,0.6,2–2,1.6,Lens,17052,Stade de l'Abbé Deschamps,Jeremy Stinat,/en/matches/fb7a9227/Auxerre-Lens-December-14-2024-Ligue-1,,fb7a9227
-FRA-Ligue 1,2425,2024-12-14 Marseille-Lille,Ligue 1,15,Sat,2024-12-14,17:00,Marseille,1.2,1–1,1.4,Lille,64380,Orange Vélodrome,Willy Delajod,/en/matches/5cab6dd9/Marseille-Lille-December-14-2024-Ligue-1,,5cab6dd9
-FRA-Ligue 1,2425,2024-12-14 Reims-Monaco,Ligue 1,15,Sat,2024-12-14,21:00,Reims,1.5,0–0,1.3,Monaco,15859,Stade Auguste-Delaune,Romain Lissorgue,/en/matches/f422e8b0/Reims-Monaco-December-14-2024-Ligue-1,,f422e8b0
-FRA-Ligue 1,2425,2024-12-15 Brest-Nantes,Ligue 1,15,Sun,2024-12-15,17:00,Brest,2.0,4–1,1.1,Nantes,15019,Stade Francis-Le Blé,Gaël Angoula,/en/matches/59e6278a/Brest-Nantes-December-15-2024-Ligue-1,,59e6278a
-FRA-Ligue 1,2425,2024-12-15 Le Havre-Strasbourg,Ligue 1,15,Sun,2024-12-15,17:00,Le Havre,0.9,0–3,0.9,Strasbourg,17071,Stade Océane,Abdelatif Kherradji,/en/matches/e1e508ce/Le-Havre-Strasbourg-December-15-2024-Ligue-1,,e1e508ce
-FRA-Ligue 1,2425,2024-12-15 Montpellier-Nice,Ligue 1,15,Sun,2024-12-15,15:00,Montpellier,2.0,2–2,1.4,Nice,11612,Stade de la Mosson-Mondial 98,Clément Turpin,/en/matches/479d06f8/Montpellier-Nice-December-15-2024-Ligue-1,,479d06f8
-FRA-Ligue 1,2425,2024-12-15 Paris S-G-Lyon,Ligue 1,15,Sun,2024-12-15,20:45,Paris S-G,2.9,3–1,1.5,Lyon,47000,Parc des Princes,Benoît Bastien,/en/matches/90a6f4dd/Paris-Saint-Germain-Lyon-December-15-2024-Ligue-1,,90a6f4dd
-FRA-Ligue 1,2425,2024-12-15 Rennes-Angers,Ligue 1,15,Sun,2024-12-15,17:00,Rennes,0.6,2–0,0.4,Angers,27781,Roazhon Park,Hakim Ben El Hadj Salem,/en/matches/fae57b16/Rennes-Angers-December-15-2024-Ligue-1,,fae57b16
-FRA-Ligue 1,2425,2024-12-18 Monaco-Paris S-G,Ligue 1,16,Wed,2024-12-18,21:00,Monaco,2.4,2–4,1.8,Paris S-G,12095,Stade Louis II,François Letexier,/en/matches/b7d32870/Monaco-Paris-Saint-Germain-December-18-2024-Ligue-1,,b7d32870
-FRA-Ligue 1,2425,2025-01-03 Nice-Rennes,Ligue 1,16,Fri,2025-01-03,21:00,Nice,1.5,3–2,1.7,Rennes,21332,Allianz Riviera,Jérôme Brisard,/en/matches/00eeccd9/Nice-Rennes-January-3-2025-Ligue-1,,00eeccd9
-FRA-Ligue 1,2425,2025-01-04 Lille-Nantes,Ligue 1,16,Sat,2025-01-04,19:00,Lille,1.2,1–1,1.3,Nantes,41635,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,/en/matches/185f0c34/Lille-Nantes-January-4-2025-Ligue-1,,185f0c34
-FRA-Ligue 1,2425,2025-01-04 Lyon-Montpellier,Ligue 1,16,Sat,2025-01-04,21:00,Lyon,1.4,1–0,1.2,Montpellier,48162,Groupama Stadium,Jeremy Stinat,/en/matches/6c34a34e/Lyon-Montpellier-January-4-2025-Ligue-1,,6c34a34e
-FRA-Ligue 1,2425,2025-01-04 Saint-Étienne-Reims,Ligue 1,16,Sat,2025-01-04,17:00,Saint-Étienne,2.2,3–1,1.1,Reims,14201,Stade Geoffroy-Guichard,Stéphanie Frappart,/en/matches/09e72954/Saint-Etienne-Reims-January-4-2025-Ligue-1,,09e72954
-FRA-Ligue 1,2425,2025-01-05 Angers-Brest,Ligue 1,16,Sun,2025-01-05,15:00,Angers,1.8,2–0,1.0,Brest,12691,Stade Raymond Kopa,Benoît Millot,/en/matches/be2eba6e/Angers-Brest-January-5-2025-Ligue-1,,be2eba6e
-FRA-Ligue 1,2425,2025-01-05 Lens-Toulouse,Ligue 1,16,Sun,2025-01-05,15:00,Lens,1.4,0–1,2.0,Toulouse,37461,Stade Bollaert-Delelis,Hakim Ben El Hadj Salem,/en/matches/1f09a51a/Lens-Toulouse-January-5-2025-Ligue-1,,1f09a51a
-FRA-Ligue 1,2425,2025-01-05 Marseille-Le Havre,Ligue 1,16,Sun,2025-01-05,20:45,Marseille,3.2,5–1,0.4,Le Havre,64092,Orange Vélodrome,Thomas Léonard,/en/matches/312fef53/Marseille-Le-Havre-January-5-2025-Ligue-1,,312fef53
-FRA-Ligue 1,2425,2025-01-05 Strasbourg-Auxerre,Ligue 1,16,Sun,2025-01-05,15:00,Strasbourg,2.9,3–1,1.4,Auxerre,19471,Stade de la Meinau,Florent Batta,/en/matches/d37a723b/Strasbourg-Auxerre-January-5-2025-Ligue-1,,d37a723b
-FRA-Ligue 1,2425,2025-01-10 Auxerre-Lille,Ligue 1,17,Fri,2025-01-10,21:05,Auxerre,0.8,0–0,1.5,Lille,15599,Stade de l'Abbé Deschamps,Gaël Angoula,/en/matches/0c8ab7d6/Auxerre-Lille-January-10-2025-Ligue-1,,0c8ab7d6
-FRA-Ligue 1,2425,2025-01-10 Nantes-Monaco,Ligue 1,17,Fri,2025-01-10,19:00,Nantes,0.8,2–2,3.4,Monaco,25380,Stade de la Beaujoire - Louis Fonteneau,Marc Bollengier,/en/matches/d6c61854/Nantes-Monaco-January-10-2025-Ligue-1,,d6c61854
-FRA-Ligue 1,2425,2025-01-11 Brest-Lyon,Ligue 1,17,Sat,2025-01-11,17:00,Brest,1.1,2–1,1.4,Lyon,14735,Stade Francis-Le Blé,Eric Wattellier,/en/matches/561e5c4a/Brest-Lyon-January-11-2025-Ligue-1,,561e5c4a
-FRA-Ligue 1,2425,2025-01-11 Reims-Nice,Ligue 1,17,Sat,2025-01-11,19:00,Reims,0.8,2–4,2.5,Nice,12270,Stade Auguste-Delaune,Willy Delajod,/en/matches/cdcb7386/Reims-Nice-January-11-2025-Ligue-1,,cdcb7386
-FRA-Ligue 1,2425,2025-01-11 Rennes-Marseille,Ligue 1,17,Sat,2025-01-11,21:05,Rennes,1.2,1–2,1.7,Marseille,26837,Roazhon Park,Abdelatif Kherradji,/en/matches/e23cca77/Rennes-Marseille-January-11-2025-Ligue-1,,e23cca77
-FRA-Ligue 1,2425,2025-01-12 Le Havre-Lens,Ligue 1,17,Sun,2025-01-12,15:00,Le Havre,1.5,1–2,2.7,Lens,19617,Stade Océane,Clément Turpin,/en/matches/63d7285c/Le-Havre-Lens-January-12-2025-Ligue-1,,63d7285c
-FRA-Ligue 1,2425,2025-01-12 Montpellier-Angers,Ligue 1,17,Sun,2025-01-12,17:15,Montpellier,1.2,1–3,3.8,Angers,11719,Stade de la Mosson-Mondial 98,Romain Lissorgue,/en/matches/1184c4fd/Montpellier-Angers-January-12-2025-Ligue-1,,1184c4fd
-FRA-Ligue 1,2425,2025-01-12 Paris S-G-Saint-Étienne,Ligue 1,17,Sun,2025-01-12,20:45,Paris S-G,4.1,2–1,0.4,Saint-Étienne,47580,Parc des Princes,Benoît Millot,/en/matches/8d5ca778/Paris-Saint-Germain-Saint-Etienne-January-12-2025-Ligue-1,,8d5ca778
-FRA-Ligue 1,2425,2025-01-12 Toulouse-Strasbourg,Ligue 1,17,Sun,2025-01-12,17:15,Toulouse,1.2,1–2,2.3,Strasbourg,22042,Stadium de Toulouse,Benoît Bastien,/en/matches/eb79cf67/Toulouse-Strasbourg-January-12-2025-Ligue-1,,eb79cf67
-FRA-Ligue 1,2425,2025-01-17 Lille-Nice,Ligue 1,18,Fri,2025-01-17,21:05,Lille,1.1,2–1,2.8,Nice,38325,Decathlon Arena - Stade Pierre-Mauroy,François Letexier,/en/matches/41d92573/Lille-Nice-January-17-2025-Ligue-1,,41d92573
-FRA-Ligue 1,2425,2025-01-17 Montpellier-Monaco,Ligue 1,18,Fri,2025-01-17,19:00,Montpellier,2.4,2–1,1.8,Monaco,11371,Stade de la Mosson-Mondial 98,Jérôme Brisard,/en/matches/f1e8ac0f/Montpellier-Monaco-January-17-2025-Ligue-1,,f1e8ac0f
-FRA-Ligue 1,2425,2025-01-18 Lens-Paris S-G,Ligue 1,18,Sat,2025-01-18,17:00,Lens,0.7,1–2,1.2,Paris S-G,38120,Stade Bollaert-Delelis,Jérémie Pignard,/en/matches/f1e63652/Lens-Paris-Saint-Germain-January-18-2025-Ligue-1,,f1e63652
-FRA-Ligue 1,2425,2025-01-18 Lyon-Toulouse,Ligue 1,18,Sat,2025-01-18,21:05,Lyon,0.7,0–0,1.1,Toulouse,42750,Groupama Stadium,Benoît Millot,/en/matches/58a863f5/Lyon-Toulouse-January-18-2025-Ligue-1,,58a863f5
-FRA-Ligue 1,2425,2025-01-18 Rennes-Brest,Ligue 1,18,Sat,2025-01-18,19:00,Rennes,1.5,1–2,1.0,Brest,28238,Roazhon Park,Thomas Léonard,/en/matches/39a945d8/Rennes-Brest-January-18-2025-Ligue-1,,39a945d8
-FRA-Ligue 1,2425,2025-01-19 Angers-Auxerre,Ligue 1,18,Sun,2025-01-19,17:15,Angers,0.9,2–0,0.7,Auxerre,9938,Stade Raymond Kopa,Stéphanie Frappart,/en/matches/7419fbdf/Angers-Auxerre-January-19-2025-Ligue-1,,7419fbdf
-FRA-Ligue 1,2425,2025-01-19 Marseille-Strasbourg,Ligue 1,18,Sun,2025-01-19,20:45,Marseille,2.8,1–1,0.9,Strasbourg,61000,Orange Vélodrome,Bastien Dechepy,/en/matches/fb5f33dc/Marseille-Strasbourg-January-19-2025-Ligue-1,,fb5f33dc
-FRA-Ligue 1,2425,2025-01-19 Reims-Le Havre,Ligue 1,18,Sun,2025-01-19,17:15,Reims,0.8,1–1,0.8,Le Havre,11278,Stade Auguste-Delaune,Mathieu Vernice,/en/matches/7e7a280a/Reims-Le-Havre-January-19-2025-Ligue-1,,7e7a280a
-FRA-Ligue 1,2425,2025-01-19 Saint-Étienne-Nantes,Ligue 1,18,Sun,2025-01-19,15:00,Saint-Étienne,0.8,1–1,1.3,Nantes,14094,Stade Geoffroy-Guichard,Florent Batta,/en/matches/c47f8bb5/Saint-Etienne-Nantes-January-19-2025-Ligue-1,,c47f8bb5
-FRA-Ligue 1,2425,2025-01-24 Auxerre-Saint-Étienne,Ligue 1,19,Fri,2025-01-24,20:45,Auxerre,0.8,1–1,1.2,Saint-Étienne,16805,Stade de l'Abbé Deschamps,Marc Bollengier,/en/matches/7ad35976/Auxerre-Saint-Etienne-January-24-2025-Ligue-1,,7ad35976
-FRA-Ligue 1,2425,2025-01-25 Monaco-Rennes,Ligue 1,19,Sat,2025-01-25,17:00,Monaco,3.5,3–2,1.8,Rennes,5725,Stade Louis II,Jeremy Stinat,/en/matches/5cbd8070/Monaco-Rennes-January-25-2025-Ligue-1,,5cbd8070
-FRA-Ligue 1,2425,2025-01-25 Paris S-G-Reims,Ligue 1,19,Sat,2025-01-25,21:05,Paris S-G,1.2,1–1,0.9,Reims,47862,Parc des Princes,Hakim Ben El Hadj Salem,/en/matches/c2b062af/Paris-Saint-Germain-Reims-January-25-2025-Ligue-1,,c2b062af
-FRA-Ligue 1,2425,2025-01-25 Strasbourg-Lille,Ligue 1,19,Sat,2025-01-25,19:00,Strasbourg,1.1,2–1,1.8,Lille,19428,Stade de la Meinau,Willy Delajod,/en/matches/f5d25d48/Strasbourg-Lille-January-25-2025-Ligue-1,,f5d25d48
-FRA-Ligue 1,2425,2025-01-26 Le Havre-Brest,Ligue 1,19,Sun,2025-01-26,15:00,Le Havre,1.0,0–1,2.0,Brest,17898,Stade Océane,Romain Lissorgue,/en/matches/6f8dc12d/Le-Havre-Brest-January-26-2025-Ligue-1,,6f8dc12d
-FRA-Ligue 1,2425,2025-01-26 Lens-Angers,Ligue 1,19,Sun,2025-01-26,17:15,Lens,1.9,1–0,0.2,Angers,37321,Stade Bollaert-Delelis,Abdelatif Kherradji,/en/matches/5026986a/Lens-Angers-January-26-2025-Ligue-1,,5026986a
-FRA-Ligue 1,2425,2025-01-26 Nantes-Lyon,Ligue 1,19,Sun,2025-01-26,17:15,Nantes,1.2,1–1,1.1,Lyon,32690,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,/en/matches/b90ceb47/Nantes-Lyon-January-26-2025-Ligue-1,,b90ceb47
-FRA-Ligue 1,2425,2025-01-26 Nice-Marseille,Ligue 1,19,Sun,2025-01-26,20:45,Nice,1.2,2–0,0.8,Marseille,31017,Allianz Riviera,Eric Wattellier,/en/matches/ce373826/Nice-Marseille-January-26-2025-Ligue-1,,ce373826
-FRA-Ligue 1,2425,2025-01-26 Toulouse-Montpellier,Ligue 1,19,Sun,2025-01-26,17:15,Toulouse,1.0,1–2,0.5,Montpellier,28382,Stadium de Toulouse,Clément Turpin,/en/matches/81e5185d/Toulouse-Montpellier-January-26-2025-Ligue-1,,81e5185d
-FRA-Ligue 1,2425,2025-01-31 Montpellier-Lens,Ligue 1,20,Fri,2025-01-31,20:45,Montpellier,0.8,0–2,2.0,Lens,15330,Stade de la Mosson-Mondial 98,Bastien Dechepy,/en/matches/3652d822/Montpellier-Lens-January-31-2025-Ligue-1,,3652d822
-FRA-Ligue 1,2425,2025-02-01 Brest-Paris S-G,Ligue 1,20,Sat,2025-02-01,17:00,Brest,0.9,2–5,3.6,Paris S-G,15040,Stade Francis-Le Blé,Benoît Bastien,/en/matches/c84f91ac/Brest-Paris-Saint-Germain-February-1-2025-Ligue-1,,c84f91ac
-FRA-Ligue 1,2425,2025-02-01 Lille-Saint-Étienne,Ligue 1,20,Sat,2025-02-01,21:05,Lille,3.4,4–1,2.0,Saint-Étienne,38924,Decathlon Arena - Stade Pierre-Mauroy,Eric Wattellier,/en/matches/41e764ae/Lille-Saint-Etienne-February-1-2025-Ligue-1,,41e764ae
-FRA-Ligue 1,2425,2025-02-01 Monaco-Auxerre,Ligue 1,20,Sat,2025-02-01,19:00,Monaco,2.6,4–2,1.2,Auxerre,53363,Stade Louis II,Abdelatif Kherradji,/en/matches/e6c9fba7/Monaco-Auxerre-February-1-2025-Ligue-1,,e6c9fba7
-FRA-Ligue 1,2425,2025-02-02 Angers-Le Havre,Ligue 1,20,Sun,2025-02-02,17:15,Angers,1.3,1–1,2.2,Le Havre,11267,Stade Raymond Kopa,Jérémie Pignard,/en/matches/dc2dc241/Angers-Le-Havre-February-2-2025-Ligue-1,,dc2dc241
-FRA-Ligue 1,2425,2025-02-02 Marseille-Lyon,Ligue 1,20,Sun,2025-02-02,20:45,Marseille,3.2,3–2,1.7,Lyon,66096,Orange Vélodrome,Jérôme Brisard,/en/matches/368d6066/Choc-des-Olympiques-Marseille-Lyon-February-2-2025-Ligue-1,,368d6066
-FRA-Ligue 1,2425,2025-02-02 Reims-Nantes,Ligue 1,20,Sun,2025-02-02,17:15,Reims,1.0,1–2,2.0,Nantes,12712,Stade Auguste-Delaune,Benoît Millot,/en/matches/eee9fd86/Reims-Nantes-February-2-2025-Ligue-1,,eee9fd86
-FRA-Ligue 1,2425,2025-02-02 Rennes-Strasbourg,Ligue 1,20,Sun,2025-02-02,17:15,Rennes,0.9,1–0,1.2,Strasbourg,26621,Roazhon Park,Stéphanie Frappart,/en/matches/e9da9682/Rennes-Strasbourg-February-2-2025-Ligue-1,,e9da9682
-FRA-Ligue 1,2425,2025-02-02 Toulouse-Nice,Ligue 1,20,Sun,2025-02-02,15:00,Toulouse,1.4,1–1,1.7,Nice,23522,Stadium de Toulouse,Thomas Léonard,/en/matches/af67aa9c/Toulouse-Nice-February-2-2025-Ligue-1,,af67aa9c
-FRA-Ligue 1,2425,2025-02-07 Nantes-Brest,Ligue 1,21,Fri,2025-02-07,19:00,Nantes,1.1,0–2,2.5,Brest,25050,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,/en/matches/606c7cad/Nantes-Brest-February-7-2025-Ligue-1,,606c7cad
-FRA-Ligue 1,2425,2025-02-07 Paris S-G-Monaco,Ligue 1,21,Fri,2025-02-07,21:05,Paris S-G,3.1,4–1,0.9,Monaco,47926,Parc des Princes,Clément Turpin,/en/matches/c79c5813/Paris-Saint-Germain-Monaco-February-7-2025-Ligue-1,,c79c5813
-FRA-Ligue 1,2425,2025-02-08 Lille-Le Havre,Ligue 1,21,Sat,2025-02-08,19:00,Lille,1.6,1–2,1.8,Le Havre,39515,Decathlon Arena - Stade Pierre-Mauroy,Thomas Léonard,/en/matches/8c539e02/Lille-Le-Havre-February-8-2025-Ligue-1,,8c539e02
-FRA-Ligue 1,2425,2025-02-08 Nice-Lens,Ligue 1,21,Sat,2025-02-08,17:00,Nice,2.2,2–0,1.2,Lens,22586,Allianz Riviera,Romain Lissorgue,/en/matches/544b155b/Nice-Lens-February-8-2025-Ligue-1,,544b155b
-FRA-Ligue 1,2425,2025-02-08 Saint-Étienne-Rennes,Ligue 1,21,Sat,2025-02-08,21:05,Saint-Étienne,0.5,0–2,3.6,Rennes,30385,Stade Geoffroy-Guichard,Mathieu Vernice,/en/matches/de805721/Saint-Etienne-Rennes-February-8-2025-Ligue-1,,de805721
-FRA-Ligue 1,2425,2025-02-09 Angers-Marseille,Ligue 1,21,Sun,2025-02-09,20:45,Angers,0.5,0–2,2.4,Marseille,17325,Stade Raymond Kopa,Hakim Ben El Hadj Salem,/en/matches/64ab3386/Angers-Marseille-February-9-2025-Ligue-1,,64ab3386
-FRA-Ligue 1,2425,2025-02-09 Auxerre-Toulouse,Ligue 1,21,Sun,2025-02-09,17:15,Auxerre,0.9,2–2,0.9,Toulouse,15801,Stade de l'Abbé Deschamps,Jérôme Brisard,/en/matches/0446e883/Auxerre-Toulouse-February-9-2025-Ligue-1,,0446e883
-FRA-Ligue 1,2425,2025-02-09 Lyon-Reims,Ligue 1,21,Sun,2025-02-09,15:00,Lyon,3.3,4–0,0.4,Reims,43489,Groupama Stadium,François Letexier,/en/matches/48caa08f/Lyon-Reims-February-9-2025-Ligue-1,,48caa08f
-FRA-Ligue 1,2425,2025-02-09 Strasbourg-Montpellier,Ligue 1,21,Sun,2025-02-09,17:15,Strasbourg,2.7,2–0,1.8,Montpellier,19042,Stade de la Meinau,Jeremy Stinat,/en/matches/0886a1bd/Strasbourg-Montpellier-February-9-2025-Ligue-1,,0886a1bd
-FRA-Ligue 1,2425,2025-02-14 Brest-Auxerre,Ligue 1,22,Fri,2025-02-14,20:45,Brest,2.2,2–2,1.2,Auxerre,12525,Stade Francis-Le Blé,Bastien Dechepy,/en/matches/94d1ec50/Brest-Auxerre-February-14-2025-Ligue-1,,94d1ec50
-FRA-Ligue 1,2425,2025-02-15 Marseille-Saint-Étienne,Ligue 1,22,Sat,2025-02-15,17:00,Marseille,6.1,5–1,1.0,Saint-Étienne,66199,Orange Vélodrome,Abdelatif Kherradji,/en/matches/0a71ff58/Marseille-Saint-Etienne-February-15-2025-Ligue-1,,0a71ff58
-FRA-Ligue 1,2425,2025-02-15 Monaco-Nantes,Ligue 1,22,Sat,2025-02-15,19:00,Monaco,4.4,7–1,1.4,Nantes,6080,Stade Louis II,Thomas Léonard,/en/matches/25fd86bc/Monaco-Nantes-February-15-2025-Ligue-1,,25fd86bc
-FRA-Ligue 1,2425,2025-02-15 Toulouse-Paris S-G,Ligue 1,22,Sat,2025-02-15,21:05,Toulouse,0.9,0–1,2.4,Paris S-G,31703,Stadium de Toulouse,Willy Delajod,/en/matches/91e2ebf6/Toulouse-Paris-Saint-Germain-February-15-2025-Ligue-1,,91e2ebf6
-FRA-Ligue 1,2425,2025-02-16 Le Havre-Nice,Ligue 1,22,Sun,2025-02-16,17:15,Le Havre,0.7,1–3,1.4,Nice,17739,Stade Océane,Stéphanie Frappart,/en/matches/e62361b8/Le-Havre-Nice-February-16-2025-Ligue-1,,e62361b8
-FRA-Ligue 1,2425,2025-02-16 Lens-Strasbourg,Ligue 1,22,Sun,2025-02-16,17:15,Lens,0.4,0–2,2.4,Strasbourg,38113,Stade Bollaert-Delelis,Benoît Millot,/en/matches/bdcbbf69/Lens-Strasbourg-February-16-2025-Ligue-1,,bdcbbf69
-FRA-Ligue 1,2425,2025-02-16 Montpellier-Lyon,Ligue 1,22,Sun,2025-02-16,15:00,Montpellier,1.4,1–4,1.0,Lyon,16573,Stade de la Mosson-Mondial 98,Marc Bollengier,/en/matches/1a0c79f0/Montpellier-Lyon-February-16-2025-Ligue-1,,1a0c79f0
-FRA-Ligue 1,2425,2025-02-16 Reims-Angers,Ligue 1,22,Sun,2025-02-16,17:15,Reims,1.7,0–1,1.5,Angers,11868,Stade Auguste-Delaune,Florent Batta,/en/matches/bc4d9e67/Reims-Angers-February-16-2025-Ligue-1,,bc4d9e67
-FRA-Ligue 1,2425,2025-02-16 Rennes-Lille,Ligue 1,22,Sun,2025-02-16,20:45,Rennes,0.4,0–2,3.0,Lille,27627,Roazhon Park,Romain Lissorgue,/en/matches/f2bcec96/Rennes-Lille-February-16-2025-Ligue-1,,f2bcec96
-FRA-Ligue 1,2425,2025-02-21 Rennes-Reims,Ligue 1,23,Fri,2025-02-21,20:45,Rennes,2.3,1–0,0.1,Reims,26818,Roazhon Park,Marc Bollengier,/en/matches/329233bd/Rennes-Reims-February-21-2025-Ligue-1,,329233bd
-FRA-Ligue 1,2425,2025-02-22 Auxerre-Marseille,Ligue 1,23,Sat,2025-02-22,21:05,Auxerre,2.0,3–0,0.7,Marseille,17183,Stade de l'Abbé Deschamps,Jeremy Stinat,/en/matches/f26394d7/Auxerre-Marseille-February-22-2025-Ligue-1,,f26394d7
-FRA-Ligue 1,2425,2025-02-22 Lille-Monaco,Ligue 1,23,Sat,2025-02-22,17:00,Lille,1.1,2–1,2.3,Monaco,44177,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,/en/matches/a62e412a/Lille-Monaco-February-22-2025-Ligue-1,,a62e412a
-FRA-Ligue 1,2425,2025-02-22 Saint-Étienne-Angers,Ligue 1,23,Sat,2025-02-22,19:00,Saint-Étienne,1.5,3–3,2.9,Angers,30566,Stade Geoffroy-Guichard,Bastien Dechepy,/en/matches/80854674/Saint-Etienne-Angers-February-22-2025-Ligue-1,,80854674
-FRA-Ligue 1,2425,2025-02-23 Le Havre-Toulouse,Ligue 1,23,Sun,2025-02-23,17:15,Le Havre,0.8,1–4,2.4,Toulouse,17239,Stade Océane,François Letexier,/en/matches/8284b7f6/Le-Havre-Toulouse-February-23-2025-Ligue-1,,8284b7f6
-FRA-Ligue 1,2425,2025-02-23 Lyon-Paris S-G,Ligue 1,23,Sun,2025-02-23,20:45,Lyon,1.8,2–3,2.3,Paris S-G,57777,Groupama Stadium,Eric Wattellier,/en/matches/3906711b/Lyon-Paris-Saint-Germain-February-23-2025-Ligue-1,,3906711b
-FRA-Ligue 1,2425,2025-02-23 Nantes-Lens,Ligue 1,23,Sun,2025-02-23,15:00,Nantes,3.9,3–1,1.6,Lens,29000,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,/en/matches/24e266d4/Nantes-Lens-February-23-2025-Ligue-1,,24e266d4
-FRA-Ligue 1,2425,2025-02-23 Nice-Montpellier,Ligue 1,23,Sun,2025-02-23,17:15,Nice,1.8,2–0,0.6,Montpellier,18519,Allianz Riviera,Willy Delajod,/en/matches/920fad0c/Nice-Montpellier-February-23-2025-Ligue-1,,920fad0c
-FRA-Ligue 1,2425,2025-02-23 Strasbourg-Brest,Ligue 1,23,Sun,2025-02-23,17:15,Strasbourg,0.6,0–0,0.6,Brest,19108,Stade de la Meinau,Clément Turpin,/en/matches/585be98f/Strasbourg-Brest-February-23-2025-Ligue-1,,585be98f
-FRA-Ligue 1,2425,2025-02-28 Monaco-Reims,Ligue 1,24,Fri,2025-02-28,20:45,Monaco,3.8,3–0,0.6,Reims,5517,Stade Louis II,Eric Wattellier,/en/matches/f354ea51/Monaco-Reims-February-28-2025-Ligue-1,,f354ea51
-FRA-Ligue 1,2425,2025-03-01 Lens-Le Havre,Ligue 1,24,Sat,2025-03-01,19:00,Lens,1.9,3–4,1.5,Le Havre,38167,Stade Bollaert-Delelis,Jérémie Pignard,/en/matches/f0429a72/Lens-Le-Havre-March-1-2025-Ligue-1,,f0429a72
-FRA-Ligue 1,2425,2025-03-01 Paris S-G-Lille,Ligue 1,24,Sat,2025-03-01,21:05,Paris S-G,3.4,4–1,1.1,Lille,47838,Parc des Princes,François Letexier,/en/matches/3432f5cc/Paris-Saint-Germain-Lille-March-1-2025-Ligue-1,,3432f5cc
-FRA-Ligue 1,2425,2025-03-01 Saint-Étienne-Nice,Ligue 1,24,Sat,2025-03-01,17:00,Saint-Étienne,0.9,1–3,1.8,Nice,30070,Stade Geoffroy-Guichard,Jérôme Brisard,/en/matches/8a209a58/Saint-Etienne-Nice-March-1-2025-Ligue-1,,8a209a58
-FRA-Ligue 1,2425,2025-03-02 Angers-Toulouse,Ligue 1,24,Sun,2025-03-02,17:15,Angers,0.4,0–4,3.5,Toulouse,12758,Stade Raymond Kopa,Jeremy Stinat,/en/matches/d9b255ac/Angers-Toulouse-March-2-2025-Ligue-1,,d9b255ac
-FRA-Ligue 1,2425,2025-03-02 Auxerre-Strasbourg,Ligue 1,24,Sun,2025-03-02,17:15,Auxerre,2.2,0–1,1.4,Strasbourg,16495,Stade de l'Abbé Deschamps,Mathieu Vernice,/en/matches/370220dd/Auxerre-Strasbourg-March-2-2025-Ligue-1,,370220dd
-FRA-Ligue 1,2425,2025-03-02 Lyon-Brest,Ligue 1,24,Sun,2025-03-02,15:00,Lyon,1.3,2–1,2.0,Brest,47804,Groupama Stadium,Benoît Millot,/en/matches/9e7b9e2a/Lyon-Brest-March-2-2025-Ligue-1,,9e7b9e2a
-FRA-Ligue 1,2425,2025-03-02 Marseille-Nantes,Ligue 1,24,Sun,2025-03-02,20:45,Marseille,2.1,2–0,0.8,Nantes,64074,Orange Vélodrome,Stéphanie Frappart,/en/matches/ef2b73e7/Marseille-Nantes-March-2-2025-Ligue-1,,ef2b73e7
-FRA-Ligue 1,2425,2025-03-02 Montpellier-Rennes,Ligue 1,24,Sun,2025-03-02,17:15,Montpellier,1.6,0–4,2.4,Rennes,11990,Stade de la Mosson-Mondial 98,Florent Batta,/en/matches/5739a5ae/Montpellier-Rennes-March-2-2025-Ligue-1,,5739a5ae
-FRA-Ligue 1,2425,2025-03-07 Toulouse-Monaco,Ligue 1,25,Fri,2025-03-07,20:45,Toulouse,0.6,1–1,2.4,Monaco,25614,Stadium de Toulouse,Marc Bollengier,/en/matches/807e72ae/Toulouse-Monaco-March-7-2025-Ligue-1,,807e72ae
-FRA-Ligue 1,2425,2025-03-08 Lille-Montpellier,Ligue 1,25,Sat,2025-03-08,19:00,Lille,1.5,1–0,0.3,Montpellier,42467,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,/en/matches/3de20b0f/Lille-Montpellier-March-8-2025-Ligue-1,,3de20b0f
-FRA-Ligue 1,2425,2025-03-08 Marseille-Lens,Ligue 1,25,Sat,2025-03-08,21:05,Marseille,1.0,0–1,0.9,Lens,64952,Orange Vélodrome,Thomas Léonard,/en/matches/e5496a7e/Marseille-Lens-March-8-2025-Ligue-1,,e5496a7e
-FRA-Ligue 1,2425,2025-03-08 Rennes-Paris S-G,Ligue 1,25,Sat,2025-03-08,17:00,Rennes,1.6,1–4,3.8,Paris S-G,28550,Roazhon Park,Mathieu Vernice,/en/matches/24b4e6dd/Rennes-Paris-Saint-Germain-March-8-2025-Ligue-1,,24b4e6dd
-FRA-Ligue 1,2425,2025-03-09 Brest-Angers,Ligue 1,25,Sun,2025-03-09,15:00,Brest,3.5,2–0,0.4,Angers,14612,Stade Francis-Le Blé,Abdelatif Kherradji,/en/matches/0723e59a/Brest-Angers-March-9-2025-Ligue-1,,0723e59a
-FRA-Ligue 1,2425,2025-03-09 Le Havre-Saint-Étienne,Ligue 1,25,Sun,2025-03-09,17:15,Le Havre,2.0,1–1,1.5,Saint-Étienne,22239,Stade Océane,Clément Turpin,/en/matches/7055dbbe/Le-Havre-Saint-Etienne-March-9-2025-Ligue-1,,7055dbbe
-FRA-Ligue 1,2425,2025-03-09 Nantes-Strasbourg,Ligue 1,25,Sun,2025-03-09,17:15,Nantes,0.8,0–1,1.0,Strasbourg,27645,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,/en/matches/01d100ee/Nantes-Strasbourg-March-9-2025-Ligue-1,,01d100ee
-FRA-Ligue 1,2425,2025-03-09 Nice-Lyon,Ligue 1,25,Sun,2025-03-09,20:45,Nice,1.4,0–2,1.1,Lyon,23840,Allianz Riviera,Benoît Bastien,/en/matches/29e9616d/Nice-Lyon-March-9-2025-Ligue-1,,29e9616d
-FRA-Ligue 1,2425,2025-03-09 Reims-Auxerre,Ligue 1,25,Sun,2025-03-09,17:15,Reims,1.4,0–2,2.1,Auxerre,15474,Stade Auguste-Delaune,Romain Lissorgue,/en/matches/5a7ff7ce/Reims-Auxerre-March-9-2025-Ligue-1,,5a7ff7ce
-FRA-Ligue 1,2425,2025-03-14 Nice-Auxerre,Ligue 1,26,Fri,2025-03-14,20:45,Nice,2.0,1–1,0.7,Auxerre,18640,Allianz Riviera,Abdelatif Kherradji,/en/matches/e91c00b1/Nice-Auxerre-March-14-2025-Ligue-1,,e91c00b1
-FRA-Ligue 1,2425,2025-03-15 Angers-Monaco,Ligue 1,26,Sat,2025-03-15,19:00,Angers,0.5,0–2,2.0,Monaco,11116,Stade Raymond Kopa,Willy Delajod,/en/matches/ccd56c5d/Angers-Monaco-March-15-2025-Ligue-1,,ccd56c5d
-FRA-Ligue 1,2425,2025-03-15 Lens-Rennes,Ligue 1,26,Sat,2025-03-15,21:05,Lens,0.7,1–0,0.6,Rennes,38182,Stade Bollaert-Delelis,Stéphanie Frappart,/en/matches/e042d34f/Lens-Rennes-March-15-2025-Ligue-1,,e042d34f
-FRA-Ligue 1,2425,2025-03-15 Nantes-Lille,Ligue 1,26,Sat,2025-03-15,17:00,Nantes,1.2,1–0,1.6,Lille,28621,Stade de la Beaujoire - Louis Fonteneau,Benoît Millot,/en/matches/e91d94ec/Nantes-Lille-March-15-2025-Ligue-1,,e91d94ec
-FRA-Ligue 1,2425,2025-03-16 Brest-Reims,Ligue 1,26,Sun,2025-03-16,17:15,Brest,0.3,0–0,1.3,Reims,14517,Stade Francis-Le Blé,Jérôme Brisard,/en/matches/28e7c1e6/Brest-Reims-March-16-2025-Ligue-1,,28e7c1e6
-FRA-Ligue 1,2425,2025-03-16 Lyon-Le Havre,Ligue 1,26,Sun,2025-03-16,15:00,Lyon,3.9,4–2,1.7,Le Havre,39991,Groupama Stadium,Bastien Dechepy,/en/matches/4876084b/Lyon-Le-Havre-March-16-2025-Ligue-1,,4876084b
-FRA-Ligue 1,2425,2025-03-16 Montpellier-Saint-Étienne,Ligue 1,26,Sun,2025-03-16,17:15,Montpellier,,0–2,,Saint-Étienne,,Stade de la Mosson-Mondial 98,François Letexier,/en/matches/15ee650c/Montpellier-Saint-Etienne-March-16-2025-Ligue-1,Match awarded to Saint-Étienne,15ee650c
-FRA-Ligue 1,2425,2025-03-16 Paris S-G-Marseille,Ligue 1,26,Sun,2025-03-16,20:45,Paris S-G,2.6,3–1,1.2,Marseille,47000,Parc des Princes,Clément Turpin,/en/matches/ff08b7d1/Paris-Saint-Germain-Marseille-March-16-2025-Ligue-1,,ff08b7d1
-FRA-Ligue 1,2425,2025-03-16 Strasbourg-Toulouse,Ligue 1,26,Sun,2025-03-16,17:15,Strasbourg,1.7,2–1,1.7,Toulouse,19128,Stade de la Meinau,Florent Batta,/en/matches/30de0ad9/Strasbourg-Toulouse-March-16-2025-Ligue-1,,30de0ad9
-FRA-Ligue 1,2425,2025-03-28 Strasbourg-Lyon,Ligue 1,27,Fri,2025-03-28,20:45,Strasbourg,1.1,4–2,2.0,Lyon,19496,Stade de la Meinau,Romain Lissorgue,/en/matches/e4da6424/Strasbourg-Lyon-March-28-2025-Ligue-1,,e4da6424
-FRA-Ligue 1,2425,2025-03-29 Monaco-Nice,Ligue 1,27,Sat,2025-03-29,21:05,Monaco,2.4,2–1,0.5,Nice,11564,Stade Louis II,Jérôme Brisard,/en/matches/b5952890/Monaco-Nice-March-29-2025-Ligue-1,,b5952890
-FRA-Ligue 1,2425,2025-03-29 Reims-Marseille,Ligue 1,27,Sat,2025-03-29,17:00,Reims,1.0,3–1,1.1,Marseille,20213,Stade Auguste-Delaune,Willy Delajod,/en/matches/e3656ea1/Reims-Marseille-March-29-2025-Ligue-1,,e3656ea1
-FRA-Ligue 1,2425,2025-03-29 Saint-Étienne-Paris S-G,Ligue 1,27,Sat,2025-03-29,19:00,Saint-Étienne,1.1,1–6,3.3,Paris S-G,37108,Stade Geoffroy-Guichard,Jeremy Stinat,/en/matches/f44d3b12/Saint-Etienne-Paris-Saint-Germain-March-29-2025-Ligue-1,,f44d3b12
-FRA-Ligue 1,2425,2025-03-30 Angers-Rennes,Ligue 1,27,Sun,2025-03-30,17:15,Angers,1.0,0–3,1.5,Rennes,11747,Stade Raymond Kopa,Thomas Léonard,/en/matches/ea71bfda/Angers-Rennes-March-30-2025-Ligue-1,,ea71bfda
-FRA-Ligue 1,2425,2025-03-30 Auxerre-Montpellier,Ligue 1,27,Sun,2025-03-30,17:15,Auxerre,2.1,1–0,0.5,Montpellier,16558,Stade de l'Abbé Deschamps,Marc Bollengier,/en/matches/dea614ff/Auxerre-Montpellier-March-30-2025-Ligue-1,,dea614ff
-FRA-Ligue 1,2425,2025-03-30 Le Havre-Nantes,Ligue 1,27,Sun,2025-03-30,17:15,Le Havre,4.0,3–2,0.8,Nantes,20436,Stade Océane,Eric Wattellier,/en/matches/a48ef3f0/Le-Havre-Nantes-March-30-2025-Ligue-1,,a48ef3f0
-FRA-Ligue 1,2425,2025-03-30 Lille-Lens,Ligue 1,27,Sun,2025-03-30,20:45,Lille,1.9,1–0,0.4,Lens,48197,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,/en/matches/64b7845b/Lille-Lens-March-30-2025-Ligue-1,,64b7845b
-FRA-Ligue 1,2425,2025-03-30 Toulouse-Brest,Ligue 1,27,Sun,2025-03-30,15:00,Toulouse,2.0,2–4,1.3,Brest,24418,Stadium de Toulouse,Hakim Ben El Hadj Salem,/en/matches/b33c5901/Toulouse-Brest-March-30-2025-Ligue-1,,b33c5901
-FRA-Ligue 1,2425,2025-04-04 Nice-Nantes,Ligue 1,28,Fri,2025-04-04,20:45,Nice,1.9,1–2,0.5,Nantes,20585,Allianz Riviera,Hakim Ben El Hadj Salem,/en/matches/3b3118ec/Nice-Nantes-April-4-2025-Ligue-1,,3b3118ec
-FRA-Ligue 1,2425,2025-04-05 Brest-Monaco,Ligue 1,28,Sat,2025-04-05,19:00,Brest,1.0,2–1,1.5,Monaco,14713,Stade Francis-Le Blé,Thomas Léonard,/en/matches/3b8a372d/Brest-Monaco-April-5-2025-Ligue-1,,3b8a372d
-FRA-Ligue 1,2425,2025-04-05 Lyon-Lille,Ligue 1,28,Sat,2025-04-05,21:05,Lyon,1.8,2–1,0.9,Lille,53771,Groupama Stadium,Eric Wattellier,/en/matches/4fbb8dea/Lyon-Lille-April-5-2025-Ligue-1,,4fbb8dea
-FRA-Ligue 1,2425,2025-04-05 Paris S-G-Angers,Ligue 1,28,Sat,2025-04-05,17:00,Paris S-G,1.9,1–0,0.2,Angers,47736,Parc des Princes,Marc Bollengier,/en/matches/85f4be0a/Paris-Saint-Germain-Angers-April-5-2025-Ligue-1,,85f4be0a
-FRA-Ligue 1,2425,2025-04-06 Lens-Saint-Étienne,Ligue 1,28,Sun,2025-04-06,15:00,Lens,2.1,1–0,1.4,Saint-Étienne,38223,Stade Bollaert-Delelis,Romain Lissorgue,/en/matches/859cd779/Lens-Saint-Etienne-April-6-2025-Ligue-1,,859cd779
-FRA-Ligue 1,2425,2025-04-06 Marseille-Toulouse,Ligue 1,28,Sun,2025-04-06,20:45,Marseille,1.0,3–2,1.3,Toulouse,64320,Orange Vélodrome,Jérémie Pignard,/en/matches/37a1d2be/Marseille-Toulouse-April-6-2025-Ligue-1,,37a1d2be
-FRA-Ligue 1,2425,2025-04-06 Montpellier-Le Havre,Ligue 1,28,Sun,2025-04-06,17:15,Montpellier,1.0,0–2,1.4,Le Havre,10146,Stade de la Mosson-Mondial 98,Benoît Bastien,/en/matches/0f9ee6ec/Montpellier-Le-Havre-April-6-2025-Ligue-1,,0f9ee6ec
-FRA-Ligue 1,2425,2025-04-06 Reims-Strasbourg,Ligue 1,28,Sun,2025-04-06,17:15,Reims,1.3,0–1,2.5,Strasbourg,16254,Stade Auguste-Delaune,Clément Turpin,/en/matches/44834f60/Reims-Strasbourg-April-6-2025-Ligue-1,,44834f60
-FRA-Ligue 1,2425,2025-04-06 Rennes-Auxerre,Ligue 1,28,Sun,2025-04-06,17:15,Rennes,1.2,0–1,0.8,Auxerre,38268,Roazhon Park,Florent Batta,/en/matches/cd76c50c/Rennes-Auxerre-April-6-2025-Ligue-1,,cd76c50c
-FRA-Ligue 1,2425,2025-04-11 Lens-Reims,Ligue 1,29,Fri,2025-04-11,20:45,Lens,2.9,0–2,1.4,Reims,38157,Stade Bollaert-Delelis,François Letexier,/en/matches/1fafebba/Lens-Reims-April-11-2025-Ligue-1,,1fafebba
-FRA-Ligue 1,2425,2025-04-12 Monaco-Marseille,Ligue 1,29,Sat,2025-04-12,17:00,Monaco,2.6,3–0,1.1,Marseille,13232,Stade Louis II,Benoît Bastien,/en/matches/b1f79298/Monaco-Marseille-April-12-2025-Ligue-1,,b1f79298
-FRA-Ligue 1,2425,2025-04-12 Strasbourg-Nice,Ligue 1,29,Sat,2025-04-12,21:05,Strasbourg,0.7,2–2,1.7,Nice,19210,Stade de la Meinau,Jérémie Pignard,/en/matches/55275978/Strasbourg-Nice-April-12-2025-Ligue-1,,55275978
-FRA-Ligue 1,2425,2025-04-12 Toulouse-Lille,Ligue 1,29,Sat,2025-04-12,19:00,Toulouse,0.9,1–2,0.5,Lille,26036,Stadium de Toulouse,Jérôme Brisard,/en/matches/0a9272f4/Toulouse-Lille-April-12-2025-Ligue-1,,0a9272f4
-FRA-Ligue 1,2425,2025-04-13 Angers-Montpellier,Ligue 1,29,Sun,2025-04-13,17:15,Angers,1.4,2–0,0.5,Montpellier,12547,Stade Raymond Kopa,Benoît Millot,/en/matches/47a1a48a/Angers-Montpellier-April-13-2025-Ligue-1,,47a1a48a
-FRA-Ligue 1,2425,2025-04-13 Auxerre-Lyon,Ligue 1,29,Sun,2025-04-13,20:45,Auxerre,0.7,1–3,2.9,Lyon,17511,Stade de l'Abbé Deschamps,Stéphanie Frappart,/en/matches/bef8bbc1/Auxerre-Lyon-April-13-2025-Ligue-1,,bef8bbc1
-FRA-Ligue 1,2425,2025-04-13 Le Havre-Rennes,Ligue 1,29,Sun,2025-04-13,17:15,Le Havre,0.6,1–5,2.7,Rennes,21582,Stade Océane,Willy Delajod,/en/matches/9c967c61/Le-Havre-Rennes-April-13-2025-Ligue-1,,9c967c61
-FRA-Ligue 1,2425,2025-04-13 Saint-Étienne-Brest,Ligue 1,29,Sun,2025-04-13,15:00,Saint-Étienne,0.7,3–3,1.5,Brest,32834,Stade Geoffroy-Guichard,Abdelatif Kherradji,/en/matches/8a453c4e/Saint-Etienne-Brest-April-13-2025-Ligue-1,,8a453c4e
-FRA-Ligue 1,2425,2025-04-18 Rennes-Nantes,Ligue 1,30,Fri,2025-04-18,20:45,Rennes,2.7,2–1,0.7,Nantes,27880,Roazhon Park,Abdelatif Kherradji,/en/matches/6dc7499b/Rennes-Nantes-April-18-2025-Ligue-1,,6dc7499b
-FRA-Ligue 1,2425,2025-04-19 Marseille-Montpellier,Ligue 1,30,Sat,2025-04-19,21:05,Marseille,3.7,5–1,0.3,Montpellier,66312,Orange Vélodrome,Jérôme Brisard,/en/matches/5a01308b/Marseille-Montpellier-April-19-2025-Ligue-1,,5a01308b
-FRA-Ligue 1,2425,2025-04-19 Monaco-Strasbourg,Ligue 1,30,Sat,2025-04-19,19:00,Monaco,0.9,0–0,0.4,Strasbourg,12825,Stade Louis II,Eric Wattellier,/en/matches/bdddd15d/Monaco-Strasbourg-April-19-2025-Ligue-1,,bdddd15d
-FRA-Ligue 1,2425,2025-04-19 Paris S-G-Le Havre,Ligue 1,30,Sat,2025-04-19,17:00,Paris S-G,3.0,2–1,0.5,Le Havre,47113,Parc des Princes,Mathieu Vernice,/en/matches/8e397189/Paris-Saint-Germain-Le-Havre-April-19-2025-Ligue-1,,8e397189
-FRA-Ligue 1,2425,2025-04-20 Brest-Lens,Ligue 1,30,Sun,2025-04-20,17:15,Brest,1.0,1–3,2.2,Lens,15049,Stade Francis-Le Blé,Benoît Millot,/en/matches/1e5241b4/Brest-Lens-April-20-2025-Ligue-1,,1e5241b4
-FRA-Ligue 1,2425,2025-04-20 Lille-Auxerre,Ligue 1,30,Sun,2025-04-20,15:00,Lille,2.0,3–1,0.3,Auxerre,45929,Decathlon Arena - Stade Pierre-Mauroy,Thomas Léonard,/en/matches/dfc19892/Lille-Auxerre-April-20-2025-Ligue-1,,dfc19892
-FRA-Ligue 1,2425,2025-04-20 Nice-Angers,Ligue 1,30,Sun,2025-04-20,17:15,Nice,2.8,2–1,0.4,Angers,25088,Allianz Riviera,Jeremy Stinat,/en/matches/44e5cf44/Nice-Angers-April-20-2025-Ligue-1,,44e5cf44
-FRA-Ligue 1,2425,2025-04-20 Reims-Toulouse,Ligue 1,30,Sun,2025-04-20,17:15,Reims,0.7,1–0,1.3,Toulouse,14608,Stade Auguste-Delaune,Marc Bollengier,/en/matches/86146582/Reims-Toulouse-April-20-2025-Ligue-1,,86146582
-FRA-Ligue 1,2425,2025-04-20 Saint-Étienne-Lyon,Ligue 1,30,Sun,2025-04-20,20:45,Saint-Étienne,1.6,2–1,0.8,Lyon,40372,Stade Geoffroy-Guichard,François Letexier,/en/matches/19228d4a/Saint-Etienne-Lyon-April-20-2025-Ligue-1,,19228d4a
-FRA-Ligue 1,2425,2025-04-22 Nantes-Paris S-G,Ligue 1,29,Tue,2025-04-22,20:45,Nantes,0.5,1–1,1.6,Paris S-G,34420,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,/en/matches/170d66ea/Nantes-Paris-Saint-Germain-April-22-2025-Ligue-1,,170d66ea
-FRA-Ligue 1,2425,2025-04-25 Paris S-G-Nice,Ligue 1,31,Fri,2025-04-25,20:45,Paris S-G,3.0,1–3,1.0,Nice,47597,Parc des Princes,Willy Delajod,/en/matches/ae345c9c/Paris-Saint-Germain-Nice-April-25-2025-Ligue-1,,ae345c9c
-FRA-Ligue 1,2425,2025-04-26 Le Havre-Monaco,Ligue 1,31,Sat,2025-04-26,19:00,Le Havre,0.5,1–1,2.9,Monaco,21340,Stade Océane,Clément Turpin,/en/matches/6ec53da1/Le-Havre-Monaco-April-26-2025-Ligue-1,,6ec53da1
-FRA-Ligue 1,2425,2025-04-26 Lyon-Rennes,Ligue 1,31,Sat,2025-04-26,21:05,Lyon,1.8,4–1,0.8,Rennes,51034,Groupama Stadium,Marc Bollengier,/en/matches/5f2584e1/Lyon-Rennes-April-26-2025-Ligue-1,,5f2584e1
-FRA-Ligue 1,2425,2025-04-26 Strasbourg-Saint-Étienne,Ligue 1,31,Sat,2025-04-26,17:00,Strasbourg,2.7,3–1,2.1,Saint-Étienne,19603,Stade de la Meinau,Benoît Bastien,/en/matches/ca1e1dc1/Strasbourg-Saint-Etienne-April-26-2025-Ligue-1,,ca1e1dc1
-FRA-Ligue 1,2425,2025-04-27 Angers-Lille,Ligue 1,31,Sun,2025-04-27,15:00,Angers,0.7,0–2,1.4,Lille,12865,Stade Raymond Kopa,Hakim Ben El Hadj Salem,/en/matches/af631621/Angers-Lille-April-27-2025-Ligue-1,,af631621
-FRA-Ligue 1,2425,2025-04-27 Lens-Auxerre,Ligue 1,31,Sun,2025-04-27,17:15,Lens,1.4,0–4,2.6,Auxerre,38193,Stade Bollaert-Delelis,Mathieu Vernice,/en/matches/0745c59f/Lens-Auxerre-April-27-2025-Ligue-1,,0745c59f
-FRA-Ligue 1,2425,2025-04-27 Marseille-Brest,Ligue 1,31,Sun,2025-04-27,20:45,Marseille,0.9,4–1,1.2,Brest,62130,Orange Vélodrome,Stéphanie Frappart,/en/matches/d0c58dd5/Marseille-Brest-April-27-2025-Ligue-1,,d0c58dd5
-FRA-Ligue 1,2425,2025-04-27 Montpellier-Reims,Ligue 1,31,Sun,2025-04-27,17:15,Montpellier,0.6,0–0,0.7,Reims,10806,Stade de la Mosson-Mondial 98,Jérémie Pignard,/en/matches/6ff732c6/Montpellier-Reims-April-27-2025-Ligue-1,,6ff732c6
-FRA-Ligue 1,2425,2025-04-27 Nantes-Toulouse,Ligue 1,31,Sun,2025-04-27,17:15,Nantes,1.1,0–0,0.4,Toulouse,31618,Stade de la Beaujoire - Louis Fonteneau,Florent Batta,/en/matches/94a42dc1/Nantes-Toulouse-April-27-2025-Ligue-1,,94a42dc1
-FRA-Ligue 1,2425,2025-05-02 Nice-Reims,Ligue 1,32,Fri,2025-05-02,20:45,Nice,1.5,1–0,1.3,Reims,24758,Allianz Riviera,Abdelatif Kherradji,/en/matches/2e39c335/Nice-Reims-May-2-2025-Ligue-1,,2e39c335
-FRA-Ligue 1,2425,2025-05-03 Saint-Étienne-Monaco,Ligue 1,32,Sat,2025-05-03,21:05,Saint-Étienne,0.6,1–3,2.0,Monaco,35757,Stade Geoffroy-Guichard,Jérôme Brisard,/en/matches/4e6718ec/Saint-Etienne-Monaco-May-3-2025-Ligue-1,,4e6718ec
-FRA-Ligue 1,2425,2025-05-03 Strasbourg-Paris S-G,Ligue 1,32,Sat,2025-05-03,17:00,Strasbourg,0.8,2–1,1.7,Paris S-G,19522,Stade de la Meinau,Hakim Ben El Hadj Salem,/en/matches/d9c56744/Strasbourg-Paris-Saint-Germain-May-3-2025-Ligue-1,,d9c56744
-FRA-Ligue 1,2425,2025-05-03 Toulouse-Rennes,Ligue 1,32,Sat,2025-05-03,19:00,Toulouse,0.7,2–1,1.4,Rennes,23926,Stadium de Toulouse,Benoît Millot,/en/matches/ffb99c84/Toulouse-Rennes-May-3-2025-Ligue-1,,ffb99c84
-FRA-Ligue 1,2425,2025-05-04 Auxerre-Le Havre,Ligue 1,32,Sun,2025-05-04,17:15,Auxerre,0.2,1–2,1.5,Le Havre,17194,Stade de l'Abbé Deschamps,Jérémie Pignard,/en/matches/c08af981/Auxerre-Le-Havre-May-4-2025-Ligue-1,,c08af981
-FRA-Ligue 1,2425,2025-05-04 Brest-Montpellier,Ligue 1,32,Sun,2025-05-04,17:15,Brest,1.1,1–0,0.5,Montpellier,13121,Stade Francis-Le Blé,Romain Lissorgue,/en/matches/14d0b54f/Brest-Montpellier-May-4-2025-Ligue-1,,14d0b54f
-FRA-Ligue 1,2425,2025-05-04 Lille-Marseille,Ligue 1,32,Sun,2025-05-04,20:45,Lille,0.5,1–1,1.3,Marseille,48284,Decathlon Arena - Stade Pierre-Mauroy,Eric Wattellier,/en/matches/491d68bb/Lille-Marseille-May-4-2025-Ligue-1,,491d68bb
-FRA-Ligue 1,2425,2025-05-04 Lyon-Lens,Ligue 1,32,Sun,2025-05-04,17:15,Lyon,1.0,1–2,0.7,Lens,52020,Groupama Stadium,Jeremy Stinat,/en/matches/60c53e19/Lyon-Lens-May-4-2025-Ligue-1,,60c53e19
-FRA-Ligue 1,2425,2025-05-04 Nantes-Angers,Ligue 1,32,Sun,2025-05-04,15:00,Nantes,0.5,0–1,1.1,Angers,34556,Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,/en/matches/e467e10c/Nantes-Angers-May-4-2025-Ligue-1,,e467e10c
-FRA-Ligue 1,2425,2025-05-10 Angers-Strasbourg,Ligue 1,33,Sat,2025-05-10,21:00,Angers,0.7,2–1,1.0,Strasbourg,14391,Stade Raymond Kopa,Clément Turpin,/en/matches/fafe26a4/Angers-Strasbourg-May-10-2025-Ligue-1,,fafe26a4
-FRA-Ligue 1,2425,2025-05-10 Auxerre-Nantes,Ligue 1,33,Sat,2025-05-10,21:00,Auxerre,0.4,1–1,0.7,Nantes,17277,Stade de l'Abbé Deschamps,Marc Bollengier,/en/matches/2cfd2ba4/Auxerre-Nantes-May-10-2025-Ligue-1,,2cfd2ba4
-FRA-Ligue 1,2425,2025-05-10 Brest-Lille,Ligue 1,33,Sat,2025-05-10,21:00,Brest,1.2,2–0,1.9,Lille,14556,Stade Francis-Le Blé,Thomas Léonard,/en/matches/21a8a9a9/Brest-Lille-May-10-2025-Ligue-1,,21a8a9a9
-FRA-Ligue 1,2425,2025-05-10 Le Havre-Marseille,Ligue 1,33,Sat,2025-05-10,21:00,Le Havre,0.9,1–3,2.5,Marseille,23831,Stade Océane,Willy Delajod,/en/matches/7064d72a/Le-Havre-Marseille-May-10-2025-Ligue-1,,7064d72a
-FRA-Ligue 1,2425,2025-05-10 Monaco-Lyon,Ligue 1,33,Sat,2025-05-10,21:00,Monaco,1.2,2–0,0.4,Lyon,13578,Stade Louis II,Benoît Bastien,/en/matches/279e9cba/Monaco-Lyon-May-10-2025-Ligue-1,,279e9cba
-FRA-Ligue 1,2425,2025-05-10 Montpellier-Paris S-G,Ligue 1,33,Sat,2025-05-10,21:00,Montpellier,0.6,1–4,1.7,Paris S-G,16787,Stade de la Mosson-Mondial 98,Mathieu Vernice,/en/matches/d083b7fa/Montpellier-Paris-Saint-Germain-May-10-2025-Ligue-1,,d083b7fa
-FRA-Ligue 1,2425,2025-05-10 Reims-Saint-Étienne,Ligue 1,33,Sat,2025-05-10,21:00,Reims,1.9,0–2,0.7,Saint-Étienne,18630,Stade Auguste-Delaune,Eric Wattellier,/en/matches/e0ae4f10/Reims-Saint-Etienne-May-10-2025-Ligue-1,,e0ae4f10
-FRA-Ligue 1,2425,2025-05-10 Rennes-Nice,Ligue 1,33,Sat,2025-05-10,21:00,Rennes,1.7,2–0,1.1,Nice,26118,Roazhon Park,Jeremy Stinat,/en/matches/db5269b6/Rennes-Nice-May-10-2025-Ligue-1,,db5269b6
-FRA-Ligue 1,2425,2025-05-10 Toulouse-Lens,Ligue 1,33,Sat,2025-05-10,21:00,Toulouse,1.1,1–1,0.7,Lens,27890,Stadium de Toulouse,Bastien Dechepy,/en/matches/4ef097b0/Toulouse-Lens-May-10-2025-Ligue-1,,4ef097b0
-FRA-Ligue 1,2425,2025-05-17 Lens-Monaco,Ligue 1,34,Sat,2025-05-17,21:00,Lens,1.7,4–0,0.5,Monaco,38160,Stade Bollaert-Delelis,François Letexier,/en/matches/d2408c01/Lens-Monaco-May-17-2025-Ligue-1,,d2408c01
-FRA-Ligue 1,2425,2025-05-17 Lille-Reims,Ligue 1,34,Sat,2025-05-17,21:00,Lille,2.0,2–1,0.1,Reims,45599,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,/en/matches/788e598c/Lille-Reims-May-17-2025-Ligue-1,,788e598c
-FRA-Ligue 1,2425,2025-05-17 Lyon-Angers,Ligue 1,34,Sat,2025-05-17,21:00,Lyon,3.9,2–0,0.5,Angers,56517,Groupama Stadium,Stéphanie Frappart,/en/matches/5042cc91/Lyon-Angers-May-17-2025-Ligue-1,,5042cc91
-FRA-Ligue 1,2425,2025-05-17 Marseille-Rennes,Ligue 1,34,Sat,2025-05-17,21:00,Marseille,3.9,4–2,1.3,Rennes,57274,Orange Vélodrome,Jérémie Pignard,/en/matches/36fee283/Marseille-Rennes-May-17-2025-Ligue-1,,36fee283
-FRA-Ligue 1,2425,2025-05-17 Nantes-Montpellier,Ligue 1,34,Sat,2025-05-17,21:00,Nantes,2.5,3–0,0.8,Montpellier,34780,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,/en/matches/9b0e5db4/Nantes-Montpellier-May-17-2025-Ligue-1,,9b0e5db4
-FRA-Ligue 1,2425,2025-05-17 Nice-Brest,Ligue 1,34,Sat,2025-05-17,21:00,Nice,4.9,6–0,0.9,Brest,30298,Allianz Riviera,Hakim Ben El Hadj Salem,/en/matches/4ff4d64e/Nice-Brest-May-17-2025-Ligue-1,,4ff4d64e
-FRA-Ligue 1,2425,2025-05-17 Paris S-G-Auxerre,Ligue 1,34,Sat,2025-05-17,21:00,Paris S-G,3.1,3–1,0.6,Auxerre,47926,Parc des Princes,Abdelatif Kherradji,/en/matches/695f3d84/Paris-Saint-Germain-Auxerre-May-17-2025-Ligue-1,,695f3d84
-FRA-Ligue 1,2425,2025-05-17 Saint-Étienne-Toulouse,Ligue 1,34,Sat,2025-05-17,21:00,Saint-Étienne,1.3,2–3,3.2,Toulouse,38725,Stade Geoffroy-Guichard,Thomas Léonard,/en/matches/2eb36838/Saint-Etienne-Toulouse-May-17-2025-Ligue-1,,2eb36838
-FRA-Ligue 1,2425,2025-05-17 Strasbourg-Le Havre,Ligue 1,34,Sat,2025-05-17,21:00,Strasbourg,1.6,2–3,2.5,Le Havre,19280,Stade de la Meinau,Jérôme Brisard,/en/matches/51aaa97c/Strasbourg-Le-Havre-May-17-2025-Ligue-1,,51aaa97c
-FRA-Ligue 1,2425,2025-05-21 Metz-Reims,French 1/2 Relegation/Promotion play-offs,,Wed,2025-05-21,20:00,Metz,,1–1,,Reims,27767,Stade Saint-Symphorien,Hakim Ben El Hadj Salem,/en/matches/111651be/Metz-Reims-May-21-2025-French-12-RelegationPromotion-play-offs,Leg 1 of 2,111651be
-FRA-Ligue 1,2425,2025-05-29 Reims-Metz,French 1/2 Relegation/Promotion play-offs,,Thu,2025-05-29,20:30,Reims,,1–3,,Metz,20392,Stade Auguste-Delaune,Eric Wattellier,/en/matches/5e063c64/Reims-Metz-May-29-2025-French-12-RelegationPromotion-play-offs,Leg 2 of 2; Metz won; Required Extra Time,5e063c64
+league,season,game,week,day,date,time,home_team,home_xg,score,away_xg,away_team,attendance,venue,referee,match_report,notes,game_id
+FRA-Ligue 1,2526,2025-08-15 Rennes-Marseille,1,Fri,2025-08-15,20:45,Rennes,1.5,1–0,1.7,Marseille,28360,Roazhon Park,Jérémie Pignard,/en/matches/fbd5fc84/Rennes-Marseille-August-15-2025-Ligue-1,,fbd5fc84
+FRA-Ligue 1,2526,2025-08-16 Lens-Lyon,1,Sat,2025-08-16,17:00,Lens,1.4,0–1,1.4,Lyon,38137,Stade Bollaert-Delelis,Romain Lissorgue,/en/matches/5959d3ad/Lens-Lyon-August-16-2025-Ligue-1,,5959d3ad
+FRA-Ligue 1,2526,2025-08-16 Monaco-Le Havre,1,Sat,2025-08-16,19:00,Monaco,1.8,3–1,0.6,Le Havre,11734,Stade Louis II,Ruddy Buquet,/en/matches/772d8629/Monaco-Le-Havre-August-16-2025-Ligue-1,,772d8629
+FRA-Ligue 1,2526,2025-08-16 Nice-Toulouse,1,Sat,2025-08-16,21:05,Nice,0.8,0–1,0.6,Toulouse,23212,Allianz Riviera,Thomas Léonard,/en/matches/086666a1/Nice-Toulouse-August-16-2025-Ligue-1,,086666a1
+FRA-Ligue 1,2526,2025-08-17 Angers-Paris FC,1,Sun,2025-08-17,17:15,Angers,1.0,1–0,0.9,Paris FC,12168,Stade Raymond Kopa,François Letexier,/en/matches/c69996e3/Angers-Paris-FC-August-17-2025-Ligue-1,,c69996e3
+FRA-Ligue 1,2526,2025-08-17 Auxerre-Lorient,1,Sun,2025-08-17,17:15,Auxerre,1.3,1–0,1.3,Lorient,16090,Stade de l'Abbé Deschamps,Abdelatif Kherradji,/en/matches/460d3465/Auxerre-Lorient-August-17-2025-Ligue-1,,460d3465
+FRA-Ligue 1,2526,2025-08-17 Brest-Lille,1,Sun,2025-08-17,15:00,Brest,1.9,3–3,1.6,Lille,14840,Stade Francis-Le Blé,Clément Turpin,/en/matches/d26fb352/Brest-Lille-August-17-2025-Ligue-1,,d26fb352
+FRA-Ligue 1,2526,2025-08-17 Metz-Strasbourg,1,Sun,2025-08-17,17:15,Metz,0.3,0–1,0.6,Strasbourg,25009,Stade Saint-Symphorien,Mathieu Vernice,/en/matches/df64d32a/Metz-Strasbourg-August-17-2025-Ligue-1,,df64d32a
+FRA-Ligue 1,2526,2025-08-17 Nantes-Paris S-G,1,Sun,2025-08-17,20:45,Nantes,0.1,0–1,1.4,Paris S-G,34053,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,/en/matches/8ed2fa41/Nantes-Paris-Saint-Germain-August-17-2025-Ligue-1,,8ed2fa41
+FRA-Ligue 1,2526,2025-08-22 Paris S-G-Angers,2,Fri,2025-08-22,20:45,Paris S-G,1.8,1–0,0.2,Angers,47401,Parc des Princes,Hakim Ben El Hadj Salem,/en/matches/d1b5836d/Paris-Saint-Germain-Angers-August-22-2025-Ligue-1,,d1b5836d
+FRA-Ligue 1,2526,2025-08-23 Lyon-Metz,2,Sat,2025-08-23,21:05,Lyon,2.8,3–0,0.6,Metz,49853,Groupama Stadium,Eric Wattellier,/en/matches/6df797c8/Lyon-Metz-August-23-2025-Ligue-1,,6df797c8
+FRA-Ligue 1,2526,2025-08-23 Marseille-Paris FC,2,Sat,2025-08-23,17:00,Marseille,2.3,5–2,1.1,Paris FC,64074,Orange Vélodrome,Marc Bollengier,/en/matches/7c56af85/Marseille-Paris-FC-August-23-2025-Ligue-1,,7c56af85
+FRA-Ligue 1,2526,2025-08-23 Nice-Auxerre,2,Sat,2025-08-23,19:00,Nice,1.9,3–1,1.5,Auxerre,22175,Allianz Riviera,Jeremy Stinat,/en/matches/1a63326e/Nice-Auxerre-August-23-2025-Ligue-1,,1a63326e
+FRA-Ligue 1,2526,2025-08-24 Le Havre-Lens,2,Sun,2025-08-24,17:15,Le Havre,1.7,1–2,1.1,Lens,19375,Stade Océane,Guillaume Paradis,/en/matches/ecb4ebba/Le-Havre-Lens-August-24-2025-Ligue-1,,ecb4ebba
+FRA-Ligue 1,2526,2025-08-24 Lille-Monaco,2,Sun,2025-08-24,20:45,Lille,2.9,1–0,1.2,Monaco,43549,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,/en/matches/1c61c286/Lille-Monaco-August-24-2025-Ligue-1,,1c61c286
+FRA-Ligue 1,2526,2025-08-24 Lorient-Rennes,2,Sun,2025-08-24,15:00,Lorient,2.9,4–0,0.1,Rennes,12343,Stade Yves Allainmat,Jérôme Brisard,/en/matches/c085ae64/Lorient-Rennes-August-24-2025-Ligue-1,,c085ae64
+FRA-Ligue 1,2526,2025-08-24 Strasbourg-Nantes,2,Sun,2025-08-24,17:15,Strasbourg,1.8,1–0,0.4,Nantes,22468,Stade de la Meinau,Bastien Dechepy,/en/matches/f5b0aa33/Strasbourg-Nantes-August-24-2025-Ligue-1,,f5b0aa33
+FRA-Ligue 1,2526,2025-08-24 Toulouse-Brest,2,Sun,2025-08-24,17:15,Toulouse,1.3,2–0,0.9,Brest,23158,Stadium de Toulouse,Benoît Millot,/en/matches/d9a23dcd/Toulouse-Brest-August-24-2025-Ligue-1,,d9a23dcd
+FRA-Ligue 1,2526,2025-08-29 Lens-Brest,3,Fri,2025-08-29,20:45,Lens,3.8,3–1,1.1,Brest,37232,Stade Bollaert-Delelis,Abdelatif Kherradji,/en/matches/ccf514b7/Lens-Brest-August-29-2025-Ligue-1,,ccf514b7
+FRA-Ligue 1,2526,2025-08-30 Lorient-Lille,3,Sat,2025-08-30,17:00,Lorient,1.1,1–7,3.5,Lille,15512,Stade Yves Allainmat,Romain Lissorgue,/en/matches/fecb23de/Lorient-Lille-August-30-2025-Ligue-1,,fecb23de
+FRA-Ligue 1,2526,2025-08-30 Nantes-Auxerre,3,Sat,2025-08-30,19:00,Nantes,0.5,1–0,0.7,Auxerre,28784,Stade de la Beaujoire - Louis Fonteneau,Stéphanie Frappart,/en/matches/9db213a2/Nantes-Auxerre-August-30-2025-Ligue-1,,9db213a2
+FRA-Ligue 1,2526,2025-08-30 Toulouse-Paris S-G,3,Sat,2025-08-30,21:05,Toulouse,2.2,3–6,2.6,Paris S-G,31515,Stadium de Toulouse,Eric Wattellier,/en/matches/3a38fbf2/Toulouse-Paris-Saint-Germain-August-30-2025-Ligue-1,,3a38fbf2
+FRA-Ligue 1,2526,2025-08-31 Angers-Rennes,3,Sun,2025-08-31,15:00,Angers,1.2,1–1,1.5,Rennes,11512,Stade Raymond Kopa,Marc Bollengier,/en/matches/e7cbffb3/Angers-Rennes-August-31-2025-Ligue-1,,e7cbffb3
+FRA-Ligue 1,2526,2025-08-31 Le Havre-Nice,3,Sun,2025-08-31,17:15,Le Havre,2.6,3–1,0.6,Nice,16513,Stade Océane,Jérôme Brisard,/en/matches/d7190d58/Le-Havre-Nice-August-31-2025-Ligue-1,,d7190d58
+FRA-Ligue 1,2526,2025-08-31 Lyon-Marseille,3,Sun,2025-08-31,20:45,Lyon,2.3,1–0,0.8,Marseille,52095,Groupama Stadium,François Letexier,/en/matches/2e7d7c7d/Choc-des-Olympiques-Lyon-Marseille-August-31-2025-Ligue-1,,2e7d7c7d
+FRA-Ligue 1,2526,2025-08-31 Monaco-Strasbourg,3,Sun,2025-08-31,17:15,Monaco,1.9,3–2,1.6,Strasbourg,8718,Stade Louis II,Benoît Bastien,/en/matches/9fadc7e1/Monaco-Strasbourg-August-31-2025-Ligue-1,,9fadc7e1
+FRA-Ligue 1,2526,2025-08-31 Paris FC-Metz,3,Sun,2025-08-31,17:15,Paris FC,3.2,3–2,1.8,Metz,17345,Stade Jean-Bouin,Gaël Angoula,/en/matches/adae2347/Paris-FC-Metz-August-31-2025-Ligue-1,,adae2347
+FRA-Ligue 1,2526,2025-09-12 Marseille-Lorient,4,Fri,2025-09-12,20:45,Marseille,2.2,4–0,0.1,Lorient,64098,Orange Vélodrome,Thomas Léonard,/en/matches/eaff4ee4/Marseille-Lorient-September-12-2025-Ligue-1,,eaff4ee4
+FRA-Ligue 1,2526,2025-09-13 Auxerre-Monaco,4,Sat,2025-09-13,21:05,Auxerre,0.9,1–2,1.4,Monaco,16703,Stade de l'Abbé Deschamps,Romain Lissorgue,/en/matches/f3a8d388/Auxerre-Monaco-September-13-2025-Ligue-1,,f3a8d388
+FRA-Ligue 1,2526,2025-09-13 Nice-Nantes,4,Sat,2025-09-13,17:00,Nice,1.7,1–0,0.8,Nantes,20096,Allianz Riviera,Guillaume Paradis,/en/matches/3bd330c7/Nice-Nantes-September-13-2025-Ligue-1,,3bd330c7
+FRA-Ligue 1,2526,2025-09-14 Brest-Paris FC,4,Sun,2025-09-14,17:15,Brest,2.5,1–2,1.6,Paris FC,14594,Stade Francis-Le Blé,Bastien Dechepy,/en/matches/52e5e5bd/Brest-Paris-FC-September-14-2025-Ligue-1,,52e5e5bd
+FRA-Ligue 1,2526,2025-09-14 Lille-Toulouse,4,Sun,2025-09-14,15:00,Lille,2.1,2–1,0.8,Toulouse,42576,Decathlon Arena - Stade Pierre-Mauroy,Jeremy Stinat,/en/matches/6c0057cb/Lille-Toulouse-September-14-2025-Ligue-1,,6c0057cb
+FRA-Ligue 1,2526,2025-09-14 Metz-Angers,4,Sun,2025-09-14,17:15,Metz,1.7,1–1,2.4,Angers,21107,Stade Saint-Symphorien,Benoît Millot,/en/matches/80b1df7f/Metz-Angers-September-14-2025-Ligue-1,,80b1df7f
+FRA-Ligue 1,2526,2025-09-14 Paris S-G-Lens,4,Sun,2025-09-14,17:15,Paris S-G,1.1,2–0,1.5,Lens,47642,Parc des Princes,Jérémie Pignard,/en/matches/e8f63a9b/Paris-Saint-Germain-Lens-September-14-2025-Ligue-1,,e8f63a9b
+FRA-Ligue 1,2526,2025-09-14 Rennes-Lyon,4,Sun,2025-09-14,20:45,Rennes,2.1,3–1,1.7,Lyon,27392,Roazhon Park,Ruddy Buquet,/en/matches/e8a7d6a7/Rennes-Lyon-September-14-2025-Ligue-1,,e8a7d6a7
+FRA-Ligue 1,2526,2025-09-14 Strasbourg-Le Havre,4,Sun,2025-09-14,17:15,Strasbourg,1.4,1–0,0.6,Le Havre,26000,Stade de la Meinau,Willy Delajod,/en/matches/78ee6527/Strasbourg-Le-Havre-September-14-2025-Ligue-1,,78ee6527
+FRA-Ligue 1,2526,2025-09-19 Lyon-Angers,5,Fri,2025-09-19,20:45,Lyon,1.8,1–0,1.0,Angers,44437,Groupama Stadium,Clément Turpin,/en/matches/3d321db7/Lyon-Angers-September-19-2025-Ligue-1,,3d321db7
+FRA-Ligue 1,2526,2025-09-20 Brest-Nice,5,Sat,2025-09-20,19:00,Brest,2.0,4–1,2.3,Nice,14158,Stade Francis-Le Blé,Benoît Bastien,/en/matches/cd6a399a/Brest-Nice-September-20-2025-Ligue-1,,cd6a399a
+FRA-Ligue 1,2526,2025-09-20 Lens-Lille,5,Sat,2025-09-20,21:05,Lens,3.6,3–0,1.8,Lille,38223,Stade Bollaert-Delelis,Eric Wattellier,/en/matches/f940c93e/Lens-Lille-September-20-2025-Ligue-1,,f940c93e
+FRA-Ligue 1,2526,2025-09-20 Nantes-Rennes,5,Sat,2025-09-20,17:00,Nantes,2.0,2–2,1.4,Rennes,31337,Stade de la Beaujoire - Louis Fonteneau,Mathieu Vernice,/en/matches/23cfe985/Nantes-Rennes-September-20-2025-Ligue-1,,23cfe985
+FRA-Ligue 1,2526,2025-09-21 Auxerre-Toulouse,5,Sun,2025-09-21,17:15,Auxerre,0.7,1–0,2.2,Toulouse,15262,Stade de l'Abbé Deschamps,Marc Bollengier,/en/matches/a2ea8dfd/Auxerre-Toulouse-September-21-2025-Ligue-1,,a2ea8dfd
+FRA-Ligue 1,2526,2025-09-21 Le Havre-Lorient,5,Sun,2025-09-21,17:15,Le Havre,2.3,1–1,1.2,Lorient,17483,Stade Océane,Abdelatif Kherradji,/en/matches/d6f698f7/Le-Havre-Lorient-September-21-2025-Ligue-1,,d6f698f7
+FRA-Ligue 1,2526,2025-09-21 Monaco-Metz,5,Sun,2025-09-21,17:15,Monaco,3.5,5–2,2.2,Metz,6080,Stade Louis II,Stéphanie Frappart,/en/matches/08aea0af/Monaco-Metz-September-21-2025-Ligue-1,,08aea0af
+FRA-Ligue 1,2526,2025-09-21 Paris FC-Strasbourg,5,Sun,2025-09-21,15:00,Paris FC,1.6,2–3,2.0,Strasbourg,17912,Stade Jean-Bouin,François Letexier,/en/matches/08bc19be/Paris-FC-Strasbourg-September-21-2025-Ligue-1,,08bc19be
+FRA-Ligue 1,2526,2025-09-22 Marseille-Paris S-G,5,Mon,2025-09-22,20:00,Marseille,1.1,1–0,0.7,Paris S-G,66190,Orange Vélodrome,Jérôme Brisard,/en/matches/e53e3ae2/Marseille-Paris-Saint-Germain-September-22-2025-Ligue-1,,e53e3ae2
+FRA-Ligue 1,2526,2025-09-26 Strasbourg-Marseille,6,Fri,2025-09-26,20:45,Strasbourg,1.4,1–2,2.0,Marseille,23262,Stade de la Meinau,Jérémie Pignard,/en/matches/13d407ad/Strasbourg-Marseille-September-26-2025-Ligue-1,,13d407ad
+FRA-Ligue 1,2526,2025-09-27 Lorient-Monaco,6,Sat,2025-09-27,17:00,Lorient,1.9,3–1,1.0,Monaco,15561,Stade Yves Allainmat,Ruddy Buquet,/en/matches/ce237644/Lorient-Monaco-September-27-2025-Ligue-1,,ce237644
+FRA-Ligue 1,2526,2025-09-27 Paris S-G-Auxerre,6,Sat,2025-09-27,21:05,Paris S-G,1.7,2–0,0.7,Auxerre,47792,Parc des Princes,Thomas Léonard,/en/matches/1012a2a6/Paris-Saint-Germain-Auxerre-September-27-2025-Ligue-1,,1012a2a6
+FRA-Ligue 1,2526,2025-09-27 Toulouse-Nantes,6,Sat,2025-09-27,19:00,Toulouse,2.0,2–2,1.2,Nantes,22822,Stadium de Toulouse,Benoît Millot,/en/matches/30f98e8d/Toulouse-Nantes-September-27-2025-Ligue-1,,30f98e8d
+FRA-Ligue 1,2526,2025-09-28 Angers-Brest,6,Sun,2025-09-28,17:15,Angers,0.5,0–2,1.5,Brest,10210,Stade Raymond Kopa,Willy Delajod,/en/matches/40e25494/Angers-Brest-September-28-2025-Ligue-1,,40e25494
+FRA-Ligue 1,2526,2025-09-28 Lille-Lyon,6,Sun,2025-09-28,17:15,Lille,1.5,0–1,0.5,Lyon,45287,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,/en/matches/ee984aec/Lille-Lyon-September-28-2025-Ligue-1,,ee984aec
+FRA-Ligue 1,2526,2025-09-28 Metz-Le Havre,6,Sun,2025-09-28,17:15,Metz,0.5,0–0,0.3,Le Havre,19976,Stade Saint-Symphorien,Guillaume Paradis,/en/matches/9c7203aa/Metz-Le-Havre-September-28-2025-Ligue-1,,9c7203aa
+FRA-Ligue 1,2526,2025-09-28 Nice-Paris FC,6,Sun,2025-09-28,15:00,Nice,1.0,1–1,1.8,Paris FC,20049,Allianz Riviera,Abdelatif Kherradji,/en/matches/5be99991/Nice-Paris-FC-September-28-2025-Ligue-1,,5be99991
+FRA-Ligue 1,2526,2025-09-28 Rennes-Lens,6,Sun,2025-09-28,20:45,Rennes,1.2,0–0,1.0,Lens,26414,Roazhon Park,Bastien Dechepy,/en/matches/2516801b/Rennes-Lens-September-28-2025-Ligue-1,,2516801b
+FRA-Ligue 1,2526,2025-10-03 Paris FC-Lorient,7,Fri,2025-10-03,20:45,Paris FC,1.0,2–0,0.7,Lorient,18084,Stade Jean-Bouin,Benoît Millot,/en/matches/9c3f352c/Paris-FC-Lorient-October-3-2025-Ligue-1,,9c3f352c
+FRA-Ligue 1,2526,2025-10-04 Auxerre-Lens,7,Sat,2025-10-04,21:05,Auxerre,1.7,1–2,0.4,Lens,17243,Stade de l'Abbé Deschamps,François Letexier,/en/matches/7a29fd59/Auxerre-Lens-October-4-2025-Ligue-1,,7a29fd59
+FRA-Ligue 1,2526,2025-10-04 Brest-Nantes,7,Sat,2025-10-04,19:00,Brest,1.5,0–0,0.2,Nantes,14941,Stade Francis-Le Blé,Gaël Angoula,/en/matches/329f92b2/Brest-Nantes-October-4-2025-Ligue-1,,329f92b2
+FRA-Ligue 1,2526,2025-10-04 Metz-Marseille,7,Sat,2025-10-04,17:00,Metz,0.1,0–3,2.7,Marseille,28300,Stade Saint-Symphorien,Clément Turpin,/en/matches/0dfe9c56/Metz-Marseille-October-4-2025-Ligue-1,,0dfe9c56
+FRA-Ligue 1,2526,2025-10-05 Le Havre-Rennes,7,Sun,2025-10-05,17:15,Le Havre,1.7,2–2,1.0,Rennes,17802,Stade Océane,Jérémie Pignard,/en/matches/7bb1158d/Le-Havre-Rennes-October-5-2025-Ligue-1,,7bb1158d
+FRA-Ligue 1,2526,2025-10-05 Lille-Paris S-G,7,Sun,2025-10-05,20:45,Lille,0.5,1–1,1.5,Paris S-G,47355,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,/en/matches/d476968b/Lille-Paris-Saint-Germain-October-5-2025-Ligue-1,,d476968b
+FRA-Ligue 1,2526,2025-10-05 Lyon-Toulouse,7,Sun,2025-10-05,15:00,Lyon,1.2,1–2,1.2,Toulouse,51414,Groupama Stadium,Thomas Léonard,/en/matches/60ecc64f/Lyon-Toulouse-October-5-2025-Ligue-1,,60ecc64f
+FRA-Ligue 1,2526,2025-10-05 Monaco-Nice,7,Sun,2025-10-05,17:15,Monaco,2.9,2–2,1.1,Nice,8500,Stade Louis II,Willy Delajod,/en/matches/93639c78/Monaco-Nice-October-5-2025-Ligue-1,,93639c78
+FRA-Ligue 1,2526,2025-10-05 Strasbourg-Angers,7,Sun,2025-10-05,17:15,Strasbourg,4.6,5–0,0.3,Angers,22171,Stade de la Meinau,Guillaume Paradis,/en/matches/e2b6bcc0/Strasbourg-Angers-October-5-2025-Ligue-1,,e2b6bcc0
+FRA-Ligue 1,2526,2025-10-17 Paris S-G-Strasbourg,8,Fri,2025-10-17,20:45,Paris S-G,2.7,3–3,2.3,Strasbourg,47754,Parc des Princes,Clément Turpin,/en/matches/99baddf3/Paris-Saint-Germain-Strasbourg-October-17-2025-Ligue-1,,99baddf3
+FRA-Ligue 1,2526,2025-10-18 Angers-Monaco,8,Sat,2025-10-18,19:00,Angers,1.8,1–1,1.9,Monaco,13423,Stade Raymond Kopa,Jeremy Stinat,/en/matches/aeed11a9/Angers-Monaco-October-18-2025-Ligue-1,,aeed11a9
+FRA-Ligue 1,2526,2025-10-18 Marseille-Le Havre,8,Sat,2025-10-18,21:05,Marseille,4.2,6–2,0.5,Le Havre,64869,Orange Vélodrome,Bastien Dechepy,/en/matches/0d90c694/Marseille-Le-Havre-October-18-2025-Ligue-1,,0d90c694
+FRA-Ligue 1,2526,2025-10-18 Nice-Lyon,8,Sat,2025-10-18,17:00,Nice,0.7,3–2,3.3,Lyon,24122,Allianz Riviera,Jérôme Brisard,/en/matches/b4b8f430/Nice-Lyon-October-18-2025-Ligue-1,,b4b8f430
+FRA-Ligue 1,2526,2025-10-19 Lens-Paris FC,8,Sun,2025-10-19,15:00,Lens,1.6,2–1,0.5,Paris FC,33773,Stade Bollaert-Delelis,Gaël Angoula,/en/matches/3c82b9ba/Lens-Paris-FC-October-19-2025-Ligue-1,,3c82b9ba
+FRA-Ligue 1,2526,2025-10-19 Lorient-Brest,8,Sun,2025-10-19,17:15,Lorient,1.2,3–3,1.6,Brest,16607,Stade Yves Allainmat,Marc Bollengier,/en/matches/d9620be4/Lorient-Brest-October-19-2025-Ligue-1,,d9620be4
+FRA-Ligue 1,2526,2025-10-19 Nantes-Lille,8,Sun,2025-10-19,20:45,Nantes,0.6,0–2,2.5,Lille,29845,Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,/en/matches/98c265c0/Nantes-Lille-October-19-2025-Ligue-1,,98c265c0
+FRA-Ligue 1,2526,2025-10-19 Rennes-Auxerre,8,Sun,2025-10-19,17:15,Rennes,2.0,2–2,1.5,Auxerre,27148,Roazhon Park,Eric Wattellier,/en/matches/4bebc386/Rennes-Auxerre-October-19-2025-Ligue-1,,4bebc386
+FRA-Ligue 1,2526,2025-10-19 Toulouse-Metz,8,Sun,2025-10-19,17:15,Toulouse,2.5,4–0,0.1,Metz,26078,Stadium de Toulouse,François Letexier,/en/matches/c8f84615/Toulouse-Metz-October-19-2025-Ligue-1,,c8f84615
+FRA-Ligue 1,2526,2025-10-24 Paris FC-Nantes,9,Fri,2025-10-24,20:45,Paris FC,1.2,1–2,0.9,Nantes,17522,Stade Jean-Bouin,Ruddy Buquet,/en/matches/e38cdc1f/Paris-FC-Nantes-October-24-2025-Ligue-1,,e38cdc1f
+FRA-Ligue 1,2526,2025-10-25 Brest-Paris S-G,9,Sat,2025-10-25,17:00,Brest,1.6,0–3,2.0,Paris S-G,14978,Stade Francis-Le Blé,Jérémie Pignard,/en/matches/c95d53be/Brest-Paris-Saint-Germain-October-25-2025-Ligue-1,,c95d53be
+FRA-Ligue 1,2526,2025-10-25 Lens-Marseille,9,Sat,2025-10-25,21:05,Lens,1.8,2–1,0.7,Marseille,38223,Stade Bollaert-Delelis,Stéphanie Frappart,/en/matches/401a34e7/Lens-Marseille-October-25-2025-Ligue-1,,401a34e7
+FRA-Ligue 1,2526,2025-10-25 Monaco-Toulouse,9,Sat,2025-10-25,19:00,Monaco,2.9,1–0,0.7,Toulouse,7086,Stade Louis II,Guillaume Paradis,/en/matches/fe7036bb/Monaco-Toulouse-October-25-2025-Ligue-1,,fe7036bb
+FRA-Ligue 1,2526,2025-10-26 Angers-Lorient,9,Sun,2025-10-26,17:15,Angers,1.1,2–0,1.9,Lorient,11682,Stade Raymond Kopa,Benoît Bastien,/en/matches/57e8593d/Angers-Lorient-October-26-2025-Ligue-1,,57e8593d
+FRA-Ligue 1,2526,2025-10-26 Auxerre-Le Havre,9,Sun,2025-10-26,17:15,Auxerre,0.6,0–1,1.2,Le Havre,16729,Stade de l'Abbé Deschamps,Hakim Ben El Hadj Salem,/en/matches/b5814fa4/Auxerre-Le-Havre-October-26-2025-Ligue-1,,b5814fa4
+FRA-Ligue 1,2526,2025-10-26 Lille-Metz,9,Sun,2025-10-26,15:00,Lille,2.9,6–1,1.3,Metz,42089,Decathlon Arena - Stade Pierre-Mauroy,Benoît Millot,/en/matches/513ba656/Lille-Metz-October-26-2025-Ligue-1,,513ba656
+FRA-Ligue 1,2526,2025-10-26 Lyon-Strasbourg,9,Sun,2025-10-26,20:45,Lyon,1.7,2–1,0.5,Strasbourg,49058,Groupama Stadium,Eric Wattellier,/en/matches/cd22fe80/Lyon-Strasbourg-October-26-2025-Ligue-1,,cd22fe80
+FRA-Ligue 1,2526,2025-10-26 Rennes-Nice,9,Sun,2025-10-26,17:15,Rennes,1.7,1–2,0.7,Nice,27658,Roazhon Park,Marc Bollengier,/en/matches/b111d632/Rennes-Nice-October-26-2025-Ligue-1,,b111d632
+FRA-Ligue 1,2526,2025-10-29 Le Havre-Brest,10,Wed,2025-10-29,19:00,Le Havre,1.0,1–0,0.6,Brest,18484,Stade Océane,Benoît Millot,/en/matches/ee77c6a4/Le-Havre-Brest-October-29-2025-Ligue-1,,ee77c6a4
+FRA-Ligue 1,2526,2025-10-29 Lorient-Paris S-G,10,Wed,2025-10-29,19:00,Lorient,0.3,1–1,1.4,Paris S-G,16706,Stade Yves Allainmat,Willy Delajod,/en/matches/fae0cebf/Lorient-Paris-Saint-Germain-October-29-2025-Ligue-1,,fae0cebf
+FRA-Ligue 1,2526,2025-10-29 Marseille-Angers,10,Wed,2025-10-29,21:05,Marseille,1.3,2–2,1.0,Angers,64599,Orange Vélodrome,Thomas Léonard,/en/matches/4e9cae04/Marseille-Angers-October-29-2025-Ligue-1,,4e9cae04
+FRA-Ligue 1,2526,2025-10-29 Metz-Lens,10,Wed,2025-10-29,19:00,Metz,3.3,2–0,1.3,Lens,20618,Stade Saint-Symphorien,Abdelatif Kherradji,/en/matches/e7ee16a0/Metz-Lens-October-29-2025-Ligue-1,,e7ee16a0
+FRA-Ligue 1,2526,2025-10-29 Nantes-Monaco,10,Wed,2025-10-29,21:05,Nantes,1.6,3–5,4.3,Monaco,33653,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,/en/matches/61307c58/Nantes-Monaco-October-29-2025-Ligue-1,,61307c58
+FRA-Ligue 1,2526,2025-10-29 Nice-Lille,10,Wed,2025-10-29,19:00,Nice,1.7,2–0,1.0,Lille,22441,Allianz Riviera,Bastien Dechepy,/en/matches/79a943de/Nice-Lille-October-29-2025-Ligue-1,,79a943de
+FRA-Ligue 1,2526,2025-10-29 Paris FC-Lyon,10,Wed,2025-10-29,21:05,Paris FC,0.6,3–3,1.3,Lyon,18445,Stade Jean-Bouin,Jeremy Stinat,/en/matches/43400423/Paris-FC-Lyon-October-29-2025-Ligue-1,,43400423
+FRA-Ligue 1,2526,2025-10-29 Strasbourg-Auxerre,10,Wed,2025-10-29,21:05,Strasbourg,3.9,3–0,0.4,Auxerre,22667,Stade de la Meinau,Ruddy Buquet,/en/matches/92626eca/Strasbourg-Auxerre-October-29-2025-Ligue-1,,92626eca
+FRA-Ligue 1,2526,2025-10-29 Toulouse-Rennes,10,Wed,2025-10-29,21:05,Toulouse,1.5,2–2,1.6,Rennes,25484,Stadium de Toulouse,Clément Turpin,/en/matches/f1f10fa5/Toulouse-Rennes-October-29-2025-Ligue-1,,f1f10fa5
+FRA-Ligue 1,2526,2025-11-01 Auxerre-Marseille,11,Sat,2025-11-01,21:05,Auxerre,1.2,0–1,0.5,Marseille,16529,Stade de l'Abbé Deschamps,Benoît Bastien,/en/matches/e98babb3/Auxerre-Marseille-November-1-2025-Ligue-1,,e98babb3
+FRA-Ligue 1,2526,2025-11-01 Monaco-Paris FC,11,Sat,2025-11-01,19:00,Monaco,0.8,0–1,1.0,Paris FC,10727,Stade Louis II,Eric Wattellier,/en/matches/a6e9b50e/Monaco-Paris-FC-November-1-2025-Ligue-1,,a6e9b50e
+FRA-Ligue 1,2526,2025-11-01 Paris S-G-Nice,11,Sat,2025-11-01,17:00,Paris S-G,2.2,1–0,0.4,Nice,47629,Parc des Princes,François Letexier,/en/matches/3f271d67/Paris-Saint-Germain-Nice-November-1-2025-Ligue-1,,3f271d67
+FRA-Ligue 1,2526,2025-11-02 Brest-Lyon,11,Sun,2025-11-02,20:45,Brest,1.5,0–0,0.2,Lyon,14534,Stade Francis-Le Blé,Clément Turpin,/en/matches/167e4077/Brest-Lyon-November-2-2025-Ligue-1,,167e4077
+FRA-Ligue 1,2526,2025-11-02 Lens-Lorient,11,Sun,2025-11-02,17:15,Lens,2.1,3–0,1.8,Lorient,37373,Stade Bollaert-Delelis,Jérémie Pignard,/en/matches/537900ec/Lens-Lorient-November-2-2025-Ligue-1,,537900ec
+FRA-Ligue 1,2526,2025-11-02 Lille-Angers,11,Sun,2025-11-02,17:15,Lille,2.0,1–0,0.4,Angers,38802,Decathlon Arena - Stade Pierre-Mauroy,Jérôme Brisard,/en/matches/990dd8fe/Lille-Angers-November-2-2025-Ligue-1,,990dd8fe
+FRA-Ligue 1,2526,2025-11-02 Nantes-Metz,11,Sun,2025-11-02,17:15,Nantes,0.9,0–2,1.3,Metz,27150,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,/en/matches/1d6a5a0b/Nantes-Metz-November-2-2025-Ligue-1,,1d6a5a0b
+FRA-Ligue 1,2526,2025-11-02 Rennes-Strasbourg,11,Sun,2025-11-02,15:00,Rennes,2.3,4–1,1.6,Strasbourg,27658,Roazhon Park,Thomas Léonard,/en/matches/34522872/Rennes-Strasbourg-November-2-2025-Ligue-1,,34522872
+FRA-Ligue 1,2526,2025-11-02 Toulouse-Le Havre,11,Sun,2025-11-02,17:15,Toulouse,1.1,0–0,1.5,Le Havre,20643,Stadium de Toulouse,Jeremy Stinat,/en/matches/75cf1ad9/Toulouse-Le-Havre-November-2-2025-Ligue-1,,75cf1ad9
+FRA-Ligue 1,2526,2025-11-07 Paris FC-Rennes,12,Fri,2025-11-07,20:45,Paris FC,1.9,0–1,1.1,Rennes,16587,Stade Jean-Bouin,Guillaume Paradis,/en/matches/3feea3e9/Paris-FC-Rennes-November-7-2025-Ligue-1,,3feea3e9
+FRA-Ligue 1,2526,2025-11-08 Le Havre-Nantes,12,Sat,2025-11-08,19:00,Le Havre,0.9,1–1,0.2,Nantes,19747,Stade Océane,Romain Lissorgue,/en/matches/dd1c75e9/Le-Havre-Nantes-November-8-2025-Ligue-1,,dd1c75e9
+FRA-Ligue 1,2526,2025-11-08 Marseille-Brest,12,Sat,2025-11-08,17:00,Marseille,3.5,3–0,0.9,Brest,66279,Orange Vélodrome,Willy Delajod,/en/matches/a42f9bcd/Marseille-Brest-November-8-2025-Ligue-1,,a42f9bcd
+FRA-Ligue 1,2526,2025-11-08 Monaco-Lens,12,Sat,2025-11-08,21:05,Monaco,2.6,1–4,3.1,Lens,9456,Stade Louis II,Bastien Dechepy,/en/matches/8351b4ea/Monaco-Lens-November-8-2025-Ligue-1,,8351b4ea
+FRA-Ligue 1,2526,2025-11-09 Angers-Auxerre,12,Sun,2025-11-09,17:15,Angers,0.6,2–0,0.7,Auxerre,11428,Stade Raymond Kopa,Abdelatif Kherradji,/en/matches/9575a044/Angers-Auxerre-November-9-2025-Ligue-1,,9575a044
+FRA-Ligue 1,2526,2025-11-09 Lorient-Toulouse,12,Sun,2025-11-09,15:00,Lorient,1.3,1–1,1.3,Toulouse,15562,Stade Yves Allainmat,Hakim Ben El Hadj Salem,/en/matches/3b9a668d/Lorient-Toulouse-November-9-2025-Ligue-1,,3b9a668d
+FRA-Ligue 1,2526,2025-11-09 Lyon-Paris S-G,12,Sun,2025-11-09,20:45,Lyon,0.7,2–3,1.4,Paris S-G,58257,Groupama Stadium,Benoît Bastien,/en/matches/76c23d28/Lyon-Paris-Saint-Germain-November-9-2025-Ligue-1,,76c23d28
+FRA-Ligue 1,2526,2025-11-09 Metz-Nice,12,Sun,2025-11-09,17:15,Metz,1.6,2–1,0.9,Nice,20683,Stade Saint-Symphorien,Stéphanie Frappart,/en/matches/958a0a33/Metz-Nice-November-9-2025-Ligue-1,,958a0a33
+FRA-Ligue 1,2526,2025-11-09 Strasbourg-Lille,12,Sun,2025-11-09,17:15,Strasbourg,0.9,2–0,0.3,Lille,29000,Stade de la Meinau,François Letexier,/en/matches/9ec5732e/Strasbourg-Lille-November-9-2025-Ligue-1,,9ec5732e
+FRA-Ligue 1,2526,2025-11-21 Nice-Marseille,13,Fri,2025-11-21,20:45,Nice,1.2,1–5,2.8,Marseille,27089,Allianz Riviera,Jérémie Pignard,/en/matches/9fbe6212/Nice-Marseille-November-21-2025-Ligue-1,,9fbe6212
+FRA-Ligue 1,2526,2025-11-22 Lens-Strasbourg,13,Sat,2025-11-22,17:00,Lens,1.9,1–0,0.6,Strasbourg,38211,Stade Bollaert-Delelis,Jérôme Brisard,/en/matches/4d943a9e/Lens-Strasbourg-November-22-2025-Ligue-1,,4d943a9e
+FRA-Ligue 1,2526,2025-11-22 Paris S-G-Le Havre,13,Sat,2025-11-22,21:05,Paris S-G,3.4,3–0,1.3,Le Havre,47694,Parc des Princes,Mathieu Vernice,/en/matches/a64360fe/Paris-Saint-Germain-Le-Havre-November-22-2025-Ligue-1,,a64360fe
+FRA-Ligue 1,2526,2025-11-22 Rennes-Monaco,13,Sat,2025-11-22,19:00,Rennes,3.7,4–1,1.4,Monaco,27681,Roazhon Park,Hakim Ben El Hadj Salem,/en/matches/7d63a57f/Rennes-Monaco-November-22-2025-Ligue-1,,7d63a57f
+FRA-Ligue 1,2526,2025-11-23 Auxerre-Lyon,13,Sun,2025-11-23,15:00,Auxerre,2.0,0–0,1.6,Lyon,17359,Stade de l'Abbé Deschamps,Thomas Léonard,/en/matches/f9cdf8a6/Auxerre-Lyon-November-23-2025-Ligue-1,,f9cdf8a6
+FRA-Ligue 1,2526,2025-11-23 Brest-Metz,13,Sun,2025-11-23,17:15,Brest,3.1,3–2,1.0,Metz,13938,Stade Francis-Le Blé,Gaël Angoula,/en/matches/10782105/Brest-Metz-November-23-2025-Ligue-1,,10782105
+FRA-Ligue 1,2526,2025-11-23 Lille-Paris FC,13,Sun,2025-11-23,20:45,Lille,3.9,4–2,1.5,Paris FC,39053,Decathlon Arena - Stade Pierre-Mauroy,Benoît Millot,/en/matches/bda1b915/Lille-Paris-FC-November-23-2025-Ligue-1,,bda1b915
+FRA-Ligue 1,2526,2025-11-23 Nantes-Lorient,13,Sun,2025-11-23,17:15,Nantes,0.8,1–1,0.3,Lorient,25967,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet,/en/matches/85a0e019/Nantes-Lorient-November-23-2025-Ligue-1,,85a0e019
+FRA-Ligue 1,2526,2025-11-23 Toulouse-Angers,13,Sun,2025-11-23,17:15,Toulouse,1.9,0–1,0.4,Angers,19009,Stadium de Toulouse,Marc Bollengier,/en/matches/4399d22e/Toulouse-Angers-November-23-2025-Ligue-1,,4399d22e
+FRA-Ligue 1,2526,2025-11-28 Metz-Rennes,14,Fri,2025-11-28,20:45,Metz,1.0,0–1,0.8,Rennes,20291,Stade Saint-Symphorien,Jeremy Stinat,/en/matches/c25f4acf/Metz-Rennes-November-28-2025-Ligue-1,,c25f4acf
+FRA-Ligue 1,2526,2025-11-29 Marseille-Toulouse,14,Sat,2025-11-29,21:05,Marseille,1.8,2–2,0.7,Toulouse,65163,Orange Vélodrome,Eric Wattellier,/en/matches/8fedda5c/Marseille-Toulouse-November-29-2025-Ligue-1,,8fedda5c
+FRA-Ligue 1,2526,2025-11-29 Monaco-Paris S-G,14,Sat,2025-11-29,17:00,Monaco,0.6,1–0,1.3,Paris S-G,11546,Stade Louis II,Clément Turpin,/en/matches/6ed4169c/Monaco-Paris-Saint-Germain-November-29-2025-Ligue-1,,6ed4169c
+FRA-Ligue 1,2526,2025-11-29 Paris FC-Auxerre,14,Sat,2025-11-29,19:00,Paris FC,1.8,1–1,1.1,Auxerre,,Stade Jean-Bouin,François Letexier,/en/matches/f3bd6b47/Paris-FC-Auxerre-November-29-2025-Ligue-1,,f3bd6b47
+FRA-Ligue 1,2526,2025-11-30 Angers-Lens,14,Sun,2025-11-30,17:15,Angers,1.2,1–2,1.9,Lens,,Stade Raymond Kopa,Guillaume Paradis,/en/matches/25c388ce/Angers-Lens-November-30-2025-Ligue-1,,25c388ce
+FRA-Ligue 1,2526,2025-11-30 Le Havre-Lille,14,Sun,2025-11-30,17:15,Le Havre,0.9,0–1,1.6,Lille,,Stade Océane,Willy Delajod,/en/matches/6341b5bb/Le-Havre-Lille-November-30-2025-Ligue-1,,6341b5bb
+FRA-Ligue 1,2526,2025-11-30 Lorient-Nice,14,Sun,2025-11-30,17:15,Lorient,2.7,3–1,0.8,Nice,,Stade Yves Allainmat,Romain Lissorgue,/en/matches/f96e21d9/Lorient-Nice-November-30-2025-Ligue-1,,f96e21d9
+FRA-Ligue 1,2526,2025-11-30 Lyon-Nantes,14,Sun,2025-11-30,20:45,Lyon,1.7,3–0,0.9,Nantes,,Groupama Stadium,Abdelatif Kherradji,/en/matches/0a34e64f/Lyon-Nantes-November-30-2025-Ligue-1,,0a34e64f
+FRA-Ligue 1,2526,2025-11-30 Strasbourg-Brest,14,Sun,2025-11-30,15:00,Strasbourg,0.8,1–2,1.1,Brest,,Stade de la Meinau,Bastien Dechepy,/en/matches/2c3a08e9/Strasbourg-Brest-November-30-2025-Ligue-1,,2c3a08e9
+FRA-Ligue 1,2526,2025-12-05 Brest-Monaco,15,Fri,2025-12-05,19:00,Brest,,,,Monaco,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2025-12-05 Lille-Marseille,15,Fri,2025-12-05,21:00,Lille,,,,Marseille,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2025-12-06 Nantes-Lens,15,Sat,2025-12-06,17:00,Nantes,,,,Lens,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2025-12-06 Paris S-G-Rennes,15,Sat,2025-12-06,21:05,Paris S-G,,,,Rennes,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2025-12-06 Toulouse-Strasbourg,15,Sat,2025-12-06,19:00,Toulouse,,,,Strasbourg,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2025-12-07 Auxerre-Metz,15,Sun,2025-12-07,17:15,Auxerre,,,,Metz,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2025-12-07 Le Havre-Paris FC,15,Sun,2025-12-07,17:15,Le Havre,,,,Paris FC,,Stade Océane,,,,
+FRA-Ligue 1,2526,2025-12-07 Lorient-Lyon,15,Sun,2025-12-07,20:45,Lorient,,,,Lyon,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2025-12-07 Nice-Angers,15,Sun,2025-12-07,15:00,Nice,,,,Angers,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2025-12-12 Angers-Nantes,16,Fri,2025-12-12,20:45,Angers,,,,Nantes,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2025-12-13 Metz-Paris S-G,16,Sat,2025-12-13,19:00,Metz,,,,Paris S-G,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2025-12-13 Paris FC-Toulouse,16,Sat,2025-12-13,21:05,Paris FC,,,,Toulouse,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2025-12-13 Rennes-Brest,16,Sat,2025-12-13,17:00,Rennes,,,,Brest,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2025-12-14 Auxerre-Lille,16,Sun,2025-12-14,17:15,Auxerre,,,,Lille,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2025-12-14 Lens-Nice,16,Sun,2025-12-14,17:15,Lens,,,,Nice,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2025-12-14 Lyon-Le Havre,16,Sun,2025-12-14,15:00,Lyon,,,,Le Havre,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2025-12-14 Marseille-Monaco,16,Sun,2025-12-14,20:45,Marseille,,,,Monaco,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2025-12-14 Strasbourg-Lorient,16,Sun,2025-12-14,17:15,Strasbourg,,,,Lorient,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-01-02 Toulouse-Lens,17,Fri,2026-01-02,20:45,Toulouse,,,,Lens,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-01-03 Lille-Rennes,17,Sat,2026-01-03,21:05,Lille,,,,Rennes,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-01-03 Monaco-Lyon,17,Sat,2026-01-03,17:00,Monaco,,,,Lyon,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-01-03 Nice-Strasbourg,17,Sat,2026-01-03,19:00,Nice,,,,Strasbourg,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-01-04 Brest-Auxerre,17,Sun,2026-01-04,17:15,Brest,,,,Auxerre,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-01-04 Le Havre-Angers,17,Sun,2026-01-04,17:15,Le Havre,,,,Angers,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-01-04 Lorient-Metz,17,Sun,2026-01-04,17:15,Lorient,,,,Metz,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-01-04 Marseille-Nantes,17,Sun,2026-01-04,15:00,Marseille,,,,Nantes,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-01-04 Paris S-G-Paris FC,17,Sun,2026-01-04,20:45,Paris S-G,,,,Paris FC,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-01-16 Monaco-Lorient,18,Fri,2026-01-16,19:00,Monaco,,,,Lorient,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-01-16 Paris S-G-Lille,18,Fri,2026-01-16,21:00,Paris S-G,,,,Lille,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-01-17 Angers-Marseille,18,Sat,2026-01-17,21:05,Angers,,,,Marseille,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-01-17 Lens-Auxerre,18,Sat,2026-01-17,17:00,Lens,,,,Auxerre,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-01-17 Toulouse-Nice,18,Sat,2026-01-17,19:00,Toulouse,,,,Nice,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-01-18 Lyon-Brest,18,Sun,2026-01-18,20:45,Lyon,,,,Brest,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-01-18 Nantes-Paris FC,18,Sun,2026-01-18,17:15,Nantes,,,,Paris FC,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-01-18 Rennes-Le Havre,18,Sun,2026-01-18,17:15,Rennes,,,,Le Havre,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-01-18 Strasbourg-Metz,18,Sun,2026-01-18,15:00,Strasbourg,,,,Metz,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-01-23 Auxerre-Paris S-G,19,Fri,2026-01-23,20:00,Auxerre,,,,Paris S-G,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-01-24 Le Havre-Monaco,19,Sat,2026-01-24,19:00,Le Havre,,,,Monaco,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-01-24 Marseille-Lens,19,Sat,2026-01-24,21:05,Marseille,,,,Lens,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-01-24 Rennes-Lorient,19,Sat,2026-01-24,17:00,Rennes,,,,Lorient,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-01-25 Brest-Toulouse,19,Sun,2026-01-25,17:15,Brest,,,,Toulouse,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-01-25 Lille-Strasbourg,19,Sun,2026-01-25,20:45,Lille,,,,Strasbourg,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-01-25 Metz-Lyon,19,Sun,2026-01-25,17:15,Metz,,,,Lyon,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-01-25 Nantes-Nice,19,Sun,2026-01-25,15:00,Nantes,,,,Nice,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-01-25 Paris FC-Angers,19,Sun,2026-01-25,17:15,Paris FC,,,,Angers,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-01-30 Lens-Le Havre,20,Fri,2026-01-30,20:45,Lens,,,,Le Havre,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-01-31 Lorient-Nantes,20,Sat,2026-01-31,19:00,Lorient,,,,Nantes,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-01-31 Monaco-Rennes,20,Sat,2026-01-31,21:05,Monaco,,,,Rennes,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-01-31 Paris FC-Marseille,20,Sat,2026-01-31,17:00,Paris FC,,,,Marseille,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-02-01 Angers-Metz,20,Sun,2026-02-01,17:15,Angers,,,,Metz,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-02-01 Lyon-Lille,20,Sun,2026-02-01,15:00,Lyon,,,,Lille,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-02-01 Nice-Brest,20,Sun,2026-02-01,17:15,Nice,,,,Brest,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-02-01 Strasbourg-Paris S-G,20,Sun,2026-02-01,20:45,Strasbourg,,,,Paris S-G,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-02-01 Toulouse-Auxerre,20,Sun,2026-02-01,17:15,Toulouse,,,,Auxerre,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-02-08 Angers-Toulouse,21,Sun,2026-02-08,,Angers,,,,Toulouse,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-02-08 Auxerre-Paris FC,21,Sun,2026-02-08,,Auxerre,,,,Paris FC,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-02-08 Brest-Lorient,21,Sun,2026-02-08,,Brest,,,,Lorient,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-02-08 Le Havre-Strasbourg,21,Sun,2026-02-08,,Le Havre,,,,Strasbourg,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-02-08 Lens-Rennes,21,Sun,2026-02-08,,Lens,,,,Rennes,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-02-08 Metz-Lille,21,Sun,2026-02-08,,Metz,,,,Lille,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-02-08 Nantes-Lyon,21,Sun,2026-02-08,,Nantes,,,,Lyon,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-02-08 Nice-Monaco,21,Sun,2026-02-08,,Nice,,,,Monaco,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-02-08 Paris S-G-Marseille,21,Sun,2026-02-08,,Paris S-G,,,,Marseille,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-02-15 Le Havre-Toulouse,22,Sun,2026-02-15,,Le Havre,,,,Toulouse,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-02-15 Lille-Brest,22,Sun,2026-02-15,,Lille,,,,Brest,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-02-15 Lorient-Angers,22,Sun,2026-02-15,,Lorient,,,,Angers,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-02-15 Lyon-Nice,22,Sun,2026-02-15,,Lyon,,,,Nice,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-02-15 Marseille-Strasbourg,22,Sun,2026-02-15,,Marseille,,,,Strasbourg,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-02-15 Metz-Auxerre,22,Sun,2026-02-15,,Metz,,,,Auxerre,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-02-15 Monaco-Nantes,22,Sun,2026-02-15,,Monaco,,,,Nantes,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-02-15 Paris FC-Lens,22,Sun,2026-02-15,,Paris FC,,,,Lens,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-02-15 Rennes-Paris S-G,22,Sun,2026-02-15,,Rennes,,,,Paris S-G,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-02-22 Angers-Lille,23,Sun,2026-02-22,,Angers,,,,Lille,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-02-22 Auxerre-Rennes,23,Sun,2026-02-22,,Auxerre,,,,Rennes,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-02-22 Brest-Marseille,23,Sun,2026-02-22,,Brest,,,,Marseille,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-02-22 Lens-Monaco,23,Sun,2026-02-22,,Lens,,,,Monaco,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-02-22 Nantes-Le Havre,23,Sun,2026-02-22,,Nantes,,,,Le Havre,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-02-22 Nice-Lorient,23,Sun,2026-02-22,,Nice,,,,Lorient,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-02-22 Paris S-G-Metz,23,Sun,2026-02-22,,Paris S-G,,,,Metz,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-02-22 Strasbourg-Lyon,23,Sun,2026-02-22,,Strasbourg,,,,Lyon,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-02-22 Toulouse-Paris FC,23,Sun,2026-02-22,,Toulouse,,,,Paris FC,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-03-01 Le Havre-Paris S-G,24,Sun,2026-03-01,,Le Havre,,,,Paris S-G,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-03-01 Lille-Nantes,24,Sun,2026-03-01,,Lille,,,,Nantes,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-03-01 Lorient-Auxerre,24,Sun,2026-03-01,,Lorient,,,,Auxerre,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-03-01 Marseille-Lyon,24,Sun,2026-03-01,,Marseille,,,,Lyon,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-03-01 Metz-Brest,24,Sun,2026-03-01,,Metz,,,,Brest,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-03-01 Monaco-Angers,24,Sun,2026-03-01,,Monaco,,,,Angers,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-03-01 Paris FC-Nice,24,Sun,2026-03-01,,Paris FC,,,,Nice,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-03-01 Rennes-Toulouse,24,Sun,2026-03-01,,Rennes,,,,Toulouse,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-03-01 Strasbourg-Lens,24,Sun,2026-03-01,,Strasbourg,,,,Lens,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-03-08 Auxerre-Strasbourg,25,Sun,2026-03-08,,Auxerre,,,,Strasbourg,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-03-08 Brest-Le Havre,25,Sun,2026-03-08,,Brest,,,,Le Havre,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-03-08 Lens-Metz,25,Sun,2026-03-08,,Lens,,,,Metz,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-03-08 Lille-Lorient,25,Sun,2026-03-08,,Lille,,,,Lorient,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-03-08 Lyon-Paris FC,25,Sun,2026-03-08,,Lyon,,,,Paris FC,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-03-08 Nantes-Angers,25,Sun,2026-03-08,,Nantes,,,,Angers,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-03-08 Nice-Rennes,25,Sun,2026-03-08,,Nice,,,,Rennes,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-03-08 Paris S-G-Monaco,25,Sun,2026-03-08,,Paris S-G,,,,Monaco,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-03-08 Toulouse-Marseille,25,Sun,2026-03-08,,Toulouse,,,,Marseille,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-03-15 Angers-Nice,26,Sun,2026-03-15,,Angers,,,,Nice,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-03-15 Le Havre-Lyon,26,Sun,2026-03-15,,Le Havre,,,,Lyon,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-03-15 Lorient-Lens,26,Sun,2026-03-15,,Lorient,,,,Lens,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-03-15 Marseille-Auxerre,26,Sun,2026-03-15,,Marseille,,,,Auxerre,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-03-15 Metz-Toulouse,26,Sun,2026-03-15,,Metz,,,,Toulouse,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-03-15 Monaco-Brest,26,Sun,2026-03-15,,Monaco,,,,Brest,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-03-15 Paris S-G-Nantes,26,Sun,2026-03-15,,Paris S-G,,,,Nantes,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-03-15 Rennes-Lille,26,Sun,2026-03-15,,Rennes,,,,Lille,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-03-15 Strasbourg-Paris FC,26,Sun,2026-03-15,,Strasbourg,,,,Paris FC,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-03-22 Auxerre-Brest,27,Sun,2026-03-22,,Auxerre,,,,Brest,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-03-22 Lens-Angers,27,Sun,2026-03-22,,Lens,,,,Angers,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-03-22 Lyon-Monaco,27,Sun,2026-03-22,,Lyon,,,,Monaco,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-03-22 Marseille-Lille,27,Sun,2026-03-22,,Marseille,,,,Lille,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-03-22 Nantes-Strasbourg,27,Sun,2026-03-22,,Nantes,,,,Strasbourg,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-03-22 Nice-Paris S-G,27,Sun,2026-03-22,,Nice,,,,Paris S-G,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-03-22 Paris FC-Le Havre,27,Sun,2026-03-22,,Paris FC,,,,Le Havre,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-03-22 Rennes-Metz,27,Sun,2026-03-22,,Rennes,,,,Metz,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-03-22 Toulouse-Lorient,27,Sun,2026-03-22,,Toulouse,,,,Lorient,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-04-05 Angers-Lyon,28,Sun,2026-04-05,,Angers,,,,Lyon,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-04-05 Brest-Rennes,28,Sun,2026-04-05,,Brest,,,,Rennes,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-04-05 Le Havre-Auxerre,28,Sun,2026-04-05,,Le Havre,,,,Auxerre,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-04-05 Lille-Lens,28,Sun,2026-04-05,,Lille,,,,Lens,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-04-05 Lorient-Paris FC,28,Sun,2026-04-05,,Lorient,,,,Paris FC,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-04-05 Metz-Nantes,28,Sun,2026-04-05,,Metz,,,,Nantes,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-04-05 Monaco-Marseille,28,Sun,2026-04-05,,Monaco,,,,Marseille,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-04-05 Paris S-G-Toulouse,28,Sun,2026-04-05,,Paris S-G,,,,Toulouse,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-04-05 Strasbourg-Nice,28,Sun,2026-04-05,,Strasbourg,,,,Nice,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-04-12 Auxerre-Nantes,29,Sun,2026-04-12,,Auxerre,,,,Nantes,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-04-12 Brest-Strasbourg,29,Sun,2026-04-12,,Brest,,,,Strasbourg,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-04-12 Lens-Paris S-G,29,Sun,2026-04-12,,Lens,,,,Paris S-G,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-04-12 Lyon-Lorient,29,Sun,2026-04-12,,Lyon,,,,Lorient,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-04-12 Marseille-Metz,29,Sun,2026-04-12,,Marseille,,,,Metz,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-04-12 Nice-Le Havre,29,Sun,2026-04-12,,Nice,,,,Le Havre,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-04-12 Paris FC-Monaco,29,Sun,2026-04-12,,Paris FC,,,,Monaco,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-04-12 Rennes-Angers,29,Sun,2026-04-12,,Rennes,,,,Angers,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-04-12 Toulouse-Lille,29,Sun,2026-04-12,,Toulouse,,,,Lille,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-04-19 Angers-Le Havre,30,Sun,2026-04-19,,Angers,,,,Le Havre,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-04-19 Lens-Toulouse,30,Sun,2026-04-19,,Lens,,,,Toulouse,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-04-19 Lille-Nice,30,Sun,2026-04-19,,Lille,,,,Nice,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-04-19 Lorient-Marseille,30,Sun,2026-04-19,,Lorient,,,,Marseille,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-04-19 Metz-Paris FC,30,Sun,2026-04-19,,Metz,,,,Paris FC,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-04-19 Monaco-Auxerre,30,Sun,2026-04-19,,Monaco,,,,Auxerre,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-04-19 Nantes-Brest,30,Sun,2026-04-19,,Nantes,,,,Brest,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-04-19 Paris S-G-Lyon,30,Sun,2026-04-19,,Paris S-G,,,,Lyon,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-04-19 Strasbourg-Rennes,30,Sun,2026-04-19,,Strasbourg,,,,Rennes,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-04-26 Angers-Paris S-G,31,Sun,2026-04-26,,Angers,,,,Paris S-G,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-04-26 Brest-Lens,31,Sun,2026-04-26,,Brest,,,,Lens,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-04-26 Le Havre-Metz,31,Sun,2026-04-26,,Le Havre,,,,Metz,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-04-26 Lorient-Strasbourg,31,Sun,2026-04-26,,Lorient,,,,Strasbourg,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-04-26 Lyon-Auxerre,31,Sun,2026-04-26,,Lyon,,,,Auxerre,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-04-26 Marseille-Nice,31,Sun,2026-04-26,,Marseille,,,,Nice,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-04-26 Paris FC-Lille,31,Sun,2026-04-26,,Paris FC,,,,Lille,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-04-26 Rennes-Nantes,31,Sun,2026-04-26,,Rennes,,,,Nantes,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-04-26 Toulouse-Monaco,31,Sun,2026-04-26,,Toulouse,,,,Monaco,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-05-03 Auxerre-Angers,32,Sun,2026-05-03,,Auxerre,,,,Angers,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-05-03 Lille-Le Havre,32,Sun,2026-05-03,,Lille,,,,Le Havre,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-05-03 Lyon-Rennes,32,Sun,2026-05-03,,Lyon,,,,Rennes,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-05-03 Metz-Monaco,32,Sun,2026-05-03,,Metz,,,,Monaco,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-05-03 Nantes-Marseille,32,Sun,2026-05-03,,Nantes,,,,Marseille,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-05-03 Nice-Lens,32,Sun,2026-05-03,,Nice,,,,Lens,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-05-03 Paris FC-Brest,32,Sun,2026-05-03,,Paris FC,,,,Brest,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-05-03 Paris S-G-Lorient,32,Sun,2026-05-03,,Paris S-G,,,,Lorient,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-05-03 Strasbourg-Toulouse,32,Sun,2026-05-03,,Strasbourg,,,,Toulouse,,Stade de la Meinau,,,,
+FRA-Ligue 1,2526,2026-05-09 Angers-Strasbourg,33,Sat,2026-05-09,21:00,Angers,,,,Strasbourg,,Stade Raymond Kopa,,,,
+FRA-Ligue 1,2526,2026-05-09 Auxerre-Nice,33,Sat,2026-05-09,21:00,Auxerre,,,,Nice,,Stade de l'Abbé Deschamps,,,,
+FRA-Ligue 1,2526,2026-05-09 Le Havre-Marseille,33,Sat,2026-05-09,21:00,Le Havre,,,,Marseille,,Stade Océane,,,,
+FRA-Ligue 1,2526,2026-05-09 Lens-Nantes,33,Sat,2026-05-09,21:00,Lens,,,,Nantes,,Stade Bollaert-Delelis,,,,
+FRA-Ligue 1,2526,2026-05-09 Metz-Lorient,33,Sat,2026-05-09,21:00,Metz,,,,Lorient,,Stade Saint-Symphorien,,,,
+FRA-Ligue 1,2526,2026-05-09 Monaco-Lille,33,Sat,2026-05-09,21:00,Monaco,,,,Lille,,Stade Louis II,,,,
+FRA-Ligue 1,2526,2026-05-09 Paris S-G-Brest,33,Sat,2026-05-09,21:00,Paris S-G,,,,Brest,,Parc des Princes,,,,
+FRA-Ligue 1,2526,2026-05-09 Rennes-Paris FC,33,Sat,2026-05-09,21:00,Rennes,,,,Paris FC,,Roazhon Park,,,,
+FRA-Ligue 1,2526,2026-05-09 Toulouse-Lyon,33,Sat,2026-05-09,21:00,Toulouse,,,,Lyon,,Stadium de Toulouse,,,,
+FRA-Ligue 1,2526,2026-05-16 Brest-Angers,34,Sat,2026-05-16,21:00,Brest,,,,Angers,,Stade Francis-Le Blé,,,,
+FRA-Ligue 1,2526,2026-05-16 Lille-Auxerre,34,Sat,2026-05-16,21:00,Lille,,,,Auxerre,,Decathlon Arena - Stade Pierre-Mauroy,,,,
+FRA-Ligue 1,2526,2026-05-16 Lorient-Le Havre,34,Sat,2026-05-16,21:00,Lorient,,,,Le Havre,,Stade Yves Allainmat,,,,
+FRA-Ligue 1,2526,2026-05-16 Lyon-Lens,34,Sat,2026-05-16,21:00,Lyon,,,,Lens,,Groupama Stadium,,,,
+FRA-Ligue 1,2526,2026-05-16 Marseille-Rennes,34,Sat,2026-05-16,21:00,Marseille,,,,Rennes,,Orange Vélodrome,,,,
+FRA-Ligue 1,2526,2026-05-16 Nantes-Toulouse,34,Sat,2026-05-16,21:00,Nantes,,,,Toulouse,,Stade de la Beaujoire - Louis Fonteneau,,,,
+FRA-Ligue 1,2526,2026-05-16 Nice-Metz,34,Sat,2026-05-16,21:00,Nice,,,,Metz,,Allianz Riviera,,,,
+FRA-Ligue 1,2526,2026-05-16 Paris FC-Paris S-G,34,Sat,2026-05-16,21:00,Paris FC,,,,Paris S-G,,Stade Jean-Bouin,,,,
+FRA-Ligue 1,2526,2026-05-16 Strasbourg-Monaco,34,Sat,2026-05-16,21:00,Strasbourg,,,,Monaco,,Stade de la Meinau,,,,
