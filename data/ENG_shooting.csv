@@ -1,9 +1,9 @@
 league,season,team,players_used_,90s_,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,url_
-ENG-Premier League,2526,Arsenal,23,13,25,185,61,33.0,14.23,4.69,0.12,0.38,15.2,5,2,2,21.9,20.3,0.11,3.1,2.7,/en/squads/18bb7c10/Arsenal-Stats
-ENG-Premier League,2526,Aston Villa,23,13,16,149,48,32.2,11.46,3.69,0.11,0.33,18.1,6,0,0,11.7,11.7,0.08,4.3,4.3,/en/squads/8602292d/Aston-Villa-Stats
+ENG-Premier League,2526,Arsenal,23,13,25,185,61,33.0,14.23,4.69,0.12,0.38,15.2,5,2,2,21.8,20.2,0.11,3.2,2.8,/en/squads/18bb7c10/Arsenal-Stats
+ENG-Premier League,2526,Aston Villa,23,13,16,149,48,32.2,11.46,3.69,0.11,0.33,18.1,6,0,0,11.6,11.6,0.08,4.4,4.4,/en/squads/8602292d/Aston-Villa-Stats
 ENG-Premier League,2526,Bournemouth,24,13,21,175,62,35.4,13.46,4.77,0.11,0.31,18.8,10,2,3,18.8,16.4,0.1,2.2,2.6,/en/squads/4ba7cbea/Bournemouth-Stats
 ENG-Premier League,2526,Brentford,21,13,21,134,49,36.6,10.31,3.77,0.12,0.33,15.0,1,5,7,21.2,15.8,0.12,-0.2,0.2,/en/squads/cd051869/Brentford-Stats
-ENG-Premier League,2526,Brighton,25,13,21,161,57,35.4,12.38,4.38,0.12,0.33,18.9,7,2,3,19.3,17.0,0.11,1.7,2.0,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2526,Brighton,25,13,21,161,57,35.4,12.38,4.38,0.12,0.33,18.9,7,2,3,19.7,17.4,0.11,1.3,1.6,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
 ENG-Premier League,2526,Burnley,23,13,15,103,38,36.9,7.92,2.92,0.14,0.37,18.2,7,1,1,9.5,8.7,0.09,5.5,5.3,/en/squads/943e8050/Burnley-Stats
 ENG-Premier League,2526,Chelsea,25,13,24,183,69,37.7,14.08,5.31,0.13,0.33,16.7,7,1,1,22.9,22.1,0.12,1.1,0.9,/en/squads/cff3d9bb/Chelsea-Stats
 ENG-Premier League,2526,Crystal Palace,22,13,16,156,51,32.7,12.0,3.92,0.08,0.25,16.5,2,3,3,22.1,19.8,0.13,-6.1,-6.8,/en/squads/47c64c55/Crystal-Palace-Stats
@@ -14,8 +14,8 @@ ENG-Premier League,2526,Liverpool,22,13,20,192,53,27.6,14.77,4.08,0.1,0.36,17.0,
 ENG-Premier League,2526,Manchester City,23,13,25,186,67,36.0,14.31,5.15,0.13,0.37,15.9,4,0,1,24.4,23.6,0.13,0.6,1.4,/en/squads/b8fd03ef/Manchester-City-Stats
 ENG-Premier League,2526,Manchester Utd,21,13,19,194,65,33.5,14.92,5.0,0.09,0.28,16.6,2,1,3,21.1,18.7,0.1,-2.1,-0.7,/en/squads/19538871/Manchester-United-Stats
 ENG-Premier League,2526,Newcastle Utd,23,13,17,152,51,33.6,11.69,3.92,0.11,0.31,17.8,1,1,1,16.9,16.1,0.11,0.1,-0.1,/en/squads/b2b47a98/Newcastle-United-Stats
-ENG-Premier League,2526,Nott'ham Forest,25,13,13,164,52,31.7,12.62,4.0,0.07,0.23,17.1,4,1,1,15.8,15.0,0.09,-2.8,-3.0,/en/squads/e4a775cb/Nottingham-Forest-Stats
+ENG-Premier League,2526,Nott'ham Forest,25,13,13,164,52,31.7,12.62,4.0,0.07,0.23,17.0,4,1,1,16.0,15.2,0.09,-3.0,-3.2,/en/squads/e4a775cb/Nottingham-Forest-Stats
 ENG-Premier League,2526,Sunderland,24,13,16,125,36,28.8,9.62,2.77,0.11,0.39,15.6,1,2,2,11.9,10.3,0.08,4.1,3.7,/en/squads/8ef52968/Sunderland-Stats
 ENG-Premier League,2526,Tottenham,20,13,20,124,41,33.1,9.54,3.15,0.16,0.49,15.5,3,0,0,11.9,11.9,0.1,8.1,8.1,/en/squads/361ca564/Tottenham-Hotspur-Stats
 ENG-Premier League,2526,West Ham,25,13,14,126,45,35.7,9.69,3.46,0.1,0.29,16.3,3,1,1,13.3,12.5,0.11,0.7,0.5,/en/squads/7c21e445/West-Ham-United-Stats
-ENG-Premier League,2526,Wolves,25,13,6,121,39,32.2,9.31,3.0,0.04,0.13,17.3,7,1,1,11.9,11.1,0.09,-5.9,-6.1,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats
+ENG-Premier League,2526,Wolves,25,13,6,121,39,32.2,9.31,3.0,0.04,0.13,17.3,7,1,1,11.8,11.0,0.09,-5.8,-6.0,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats

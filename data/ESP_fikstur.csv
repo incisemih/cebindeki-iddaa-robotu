@@ -135,10 +135,10 @@ ESP-La Liga,2526,2025-11-29 Barcelona-Alavés,14,Sat,2025-11-29,16:15,Barcelona,
 ESP-La Liga,2526,2025-11-29 Levante-Athletic Club,14,Sat,2025-11-29,18:30,Levante,1.3,0–2,2.9,Athletic Club,19848,Estadio Ciudad de Valencia,Adrián Cordero,/en/matches/47e1baed/Levante-Athletic-Club-November-29-2025-La-Liga,,47e1baed
 ESP-La Liga,2526,2025-11-29 Mallorca-Osasuna,14,Sat,2025-11-29,14:00,Mallorca,1.5,2–2,1.1,Osasuna,15457,Estadi Mallorca Son Moix,Jesús Gil,/en/matches/6fbf6e83/Mallorca-Osasuna-November-29-2025-La-Liga,,6fbf6e83
 ESP-La Liga,2526,2025-11-30 Celta Vigo-Espanyol,14,Sun,2025-11-30,18:30,Celta Vigo,0.6,0–1,0.4,Espanyol,20031,Estadio Abanca Balaídos,Isidro Díaz de Mera,/en/matches/37a9c994/Celta-Vigo-Espanyol-November-30-2025-La-Liga,,37a9c994
-ESP-La Liga,2526,2025-11-30 Girona-Real Madrid,14,Sun,2025-11-30,21:00,Girona,1.0,1–1,2.6,Real Madrid,14005,Estadi Municipal de Montilivi,Ricardo de Burgos,/en/matches/75fff438/Girona-Real-Madrid-November-30-2025-La-Liga,,75fff438
-ESP-La Liga,2526,2025-11-30 Real Sociedad-Villarreal,14,Sun,2025-11-30,14:00,Real Sociedad,1.1,2–3,1.6,Villarreal,30140,Reale Arena,César Soto,/en/matches/6c83e558/Real-Sociedad-Villarreal-November-30-2025-La-Liga,,6c83e558
+ESP-La Liga,2526,2025-11-30 Girona-Real Madrid,14,Sun,2025-11-30,21:00,Girona,0.8,1–1,2.5,Real Madrid,14005,Estadi Municipal de Montilivi,Ricardo de Burgos,/en/matches/75fff438/Girona-Real-Madrid-November-30-2025-La-Liga,,75fff438
+ESP-La Liga,2526,2025-11-30 Real Sociedad-Villarreal,14,Sun,2025-11-30,14:00,Real Sociedad,1.0,2–3,1.5,Villarreal,30140,Reale Arena,César Soto,/en/matches/6c83e558/Real-Sociedad-Villarreal-November-30-2025-La-Liga,,6c83e558
 ESP-La Liga,2526,2025-11-30 Sevilla-Betis,14,Sun,2025-11-30,16:15,Sevilla,0.4,0–2,1.1,Betis,42580,Estadio Ramón Sánchez Pizjuán,José Luis Munuera,/en/matches/1c4c6f80/Sevilla-Real-Betis-November-30-2025-La-Liga,,1c4c6f80
-ESP-La Liga,2526,2025-12-01 Rayo Vallecano-Valencia,14,Mon,2025-12-01,21:00,Rayo Vallecano,,,,Valencia,,Campo de Fútbol de Vallecas,,,,
+ESP-La Liga,2526,2025-12-01 Rayo Vallecano-Valencia,14,Mon,2025-12-01,21:00,Rayo Vallecano,1.3,1–1,0.7,Valencia,11267,Campo de Fútbol de Vallecas,Javier Alberola,/en/matches/535d6763/Rayo-Vallecano-Valencia-December-1-2025-La-Liga,,535d6763
 ESP-La Liga,2526,2025-12-02 Barcelona-Atlético Madrid,19,Tue,2025-12-02,21:00,Barcelona,,,,Atlético Madrid,,Spotify Camp Nou,,,,
 ESP-La Liga,2526,2025-12-03 Athletic Club-Real Madrid,19,Wed,2025-12-03,19:00,Athletic Club,,,,Real Madrid,,San Mamés,,,,
 ESP-La Liga,2526,2025-12-05 Oviedo-Mallorca,15,Fri,2025-12-05,21:00,Oviedo,,,,Mallorca,,Estadio Nuevo Carlos Tartiere,,,,
@@ -171,16 +171,16 @@ ESP-La Liga,2526,2025-12-21 Elche-Rayo Vallecano,17,Sun,2025-12-21,18:30,Elche,,
 ESP-La Liga,2526,2025-12-21 Girona-Atlético Madrid,17,Sun,2025-12-21,14:00,Girona,,,,Atlético Madrid,,Estadi Municipal de Montilivi,,,,
 ESP-La Liga,2526,2025-12-21 Villarreal-Barcelona,17,Sun,2025-12-21,16:15,Villarreal,,,,Barcelona,,Estadio de la Cerámica,,,,
 ESP-La Liga,2526,2025-12-22 Athletic Club-Espanyol,17,Mon,2025-12-22,21:00,Athletic Club,,,,Espanyol,,San Mamés,,,,
-ESP-La Liga,2526,2026-01-04 Alavés-Oviedo,18,Sun,2026-01-04,,Alavés,,,,Oviedo,,Estadio de Mendizorroza,,,,
-ESP-La Liga,2526,2026-01-04 Celta Vigo-Valencia,18,Sun,2026-01-04,,Celta Vigo,,,,Valencia,,Estadio Abanca Balaídos,,,,
-ESP-La Liga,2526,2026-01-04 Elche-Villarreal,18,Sun,2026-01-04,,Elche,,,,Villarreal,,Estadio Manuel Martínez Valero,,,,
-ESP-La Liga,2526,2026-01-04 Espanyol-Barcelona,18,Sun,2026-01-04,,Espanyol,,,,Barcelona,,RCDE Stadium,,,,
-ESP-La Liga,2526,2026-01-04 Mallorca-Girona,18,Sun,2026-01-04,,Mallorca,,,,Girona,,Estadi Mallorca Son Moix,,,,
-ESP-La Liga,2526,2026-01-04 Osasuna-Athletic Club,18,Sun,2026-01-04,,Osasuna,,,,Athletic Club,,Estadio El Sadar,,,,
-ESP-La Liga,2526,2026-01-04 Rayo Vallecano-Getafe,18,Sun,2026-01-04,,Rayo Vallecano,,,,Getafe,,Campo de Fútbol de Vallecas,,,,
-ESP-La Liga,2526,2026-01-04 Real Madrid-Betis,18,Sun,2026-01-04,,Real Madrid,,,,Betis,,Estadio Santiago Bernabéu,,,,
-ESP-La Liga,2526,2026-01-04 Real Sociedad-Atlético Madrid,18,Sun,2026-01-04,,Real Sociedad,,,,Atlético Madrid,,Reale Arena,,,,
-ESP-La Liga,2526,2026-01-04 Sevilla-Levante,18,Sun,2026-01-04,,Sevilla,,,,Levante,,Estadio Ramón Sánchez Pizjuán,,,,
+ESP-La Liga,2526,2026-01-02 Rayo Vallecano-Getafe,18,Fri,2026-01-02,21:00,Rayo Vallecano,,,,Getafe,,Campo de Fútbol de Vallecas,,,,
+ESP-La Liga,2526,2026-01-03 Celta Vigo-Valencia,18,Sat,2026-01-03,14:00,Celta Vigo,,,,Valencia,,Estadio Abanca Balaídos,,,,
+ESP-La Liga,2526,2026-01-03 Elche-Villarreal,18,Sat,2026-01-03,18:30,Elche,,,,Villarreal,,Estadio Manuel Martínez Valero,,,,
+ESP-La Liga,2526,2026-01-03 Espanyol-Barcelona,18,Sat,2026-01-03,21:00,Espanyol,,,,Barcelona,,RCDE Stadium,,,,
+ESP-La Liga,2526,2026-01-03 Osasuna-Athletic Club,18,Sat,2026-01-03,16:15,Osasuna,,,,Athletic Club,,Estadio El Sadar,,,,
+ESP-La Liga,2526,2026-01-04 Alavés-Oviedo,18,Sun,2026-01-04,18:30,Alavés,,,,Oviedo,,Estadio de Mendizorroza,,,,
+ESP-La Liga,2526,2026-01-04 Mallorca-Girona,18,Sun,2026-01-04,18:30,Mallorca,,,,Girona,,Estadi Mallorca Son Moix,,,,
+ESP-La Liga,2526,2026-01-04 Real Madrid-Betis,18,Sun,2026-01-04,16:15,Real Madrid,,,,Betis,,Estadio Santiago Bernabéu,,,,
+ESP-La Liga,2526,2026-01-04 Real Sociedad-Atlético Madrid,18,Sun,2026-01-04,21:00,Real Sociedad,,,,Atlético Madrid,,Reale Arena,,,,
+ESP-La Liga,2526,2026-01-04 Sevilla-Levante,18,Sun,2026-01-04,14:00,Sevilla,,,,Levante,,Estadio Ramón Sánchez Pizjuán,,,,
 ESP-La Liga,2526,2026-01-11 Getafe-Real Sociedad,19,Sun,2026-01-11,,Getafe,,,,Real Sociedad,,Coliseum Alfonso Pérez,,,,
 ESP-La Liga,2526,2026-01-11 Girona-Osasuna,19,Sun,2026-01-11,,Girona,,,,Osasuna,,Estadi Municipal de Montilivi,,,,
 ESP-La Liga,2526,2026-01-11 Levante-Espanyol,19,Sun,2026-01-11,,Levante,,,,Espanyol,,Estadio Ciudad de Valencia,,,,
