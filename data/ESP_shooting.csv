@@ -1,10 +1,10 @@
 league,season,team,players_used_,90s_,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,url_
-ESP-La Liga,2526,Alavés,23,15,12,166,47,28.3,11.07,3.13,0.05,0.17,18.7,2,4,4,15.9,12.9,0.08,-3.9,-4.9,/en/squads/8d6fd021/Alaves-Stats
-ESP-La Liga,2526,Athletic Club,25,16,14,204,60,29.4,12.75,3.75,0.05,0.18,17.2,1,3,3,21.1,18.7,0.09,-7.1,-7.7,/en/squads/2b390eca/Athletic-Club-Stats
+ESP-La Liga,2526,Alavés,23,16,13,172,49,28.5,10.75,3.06,0.05,0.18,18.7,2,4,4,17.3,14.3,0.08,-4.3,-5.3,/en/squads/8d6fd021/Alaves-Stats
+ESP-La Liga,2526,Athletic Club,25,17,14,217,61,28.1,12.76,3.59,0.05,0.18,17.3,1,3,4,22.7,19.5,0.09,-8.7,-8.5,/en/squads/2b390eca/Athletic-Club-Stats
 ESP-La Liga,2526,Atlético Madrid,23,17,27,217,93,42.9,12.76,5.47,0.12,0.27,16.5,5,2,3,28.2,26.1,0.12,-1.2,-1.1,/en/squads/db3b9613/Atletico-Madrid-Stats
-ESP-La Liga,2526,Barcelona,25,17,48,334,124,37.1,19.65,7.29,0.13,0.36,18.1,12,3,5,39.0,35.2,0.11,9.0,9.8,/en/squads/206d90db/Barcelona-Stats
+ESP-La Liga,2526,Barcelona,25,17,48,334,124,37.1,19.65,7.29,0.13,0.36,18.1,12,3,5,38.8,35.0,0.11,9.2,10.0,/en/squads/206d90db/Barcelona-Stats
 ESP-La Liga,2526,Betis,26,15,24,222,69,31.1,14.8,4.6,0.1,0.33,17.8,6,1,1,22.2,21.4,0.1,1.8,1.6,/en/squads/fc536746/Real-Betis-Stats
-ESP-La Liga,2526,Celta Vigo,25,15,18,162,56,34.6,10.8,3.73,0.1,0.29,18.7,3,2,2,18.1,16.6,0.1,-0.1,-0.6,/en/squads/f25da7fb/Celta-Vigo-Stats
+ESP-La Liga,2526,Celta Vigo,25,16,20,167,58,34.7,10.44,3.62,0.11,0.31,18.6,3,2,2,19.5,18.0,0.11,0.5,0.0,/en/squads/f25da7fb/Celta-Vigo-Stats
 ESP-La Liga,2526,Elche,27,16,18,175,61,34.9,10.94,3.81,0.1,0.3,16.8,3,0,1,17.4,16.7,0.1,0.6,1.3,/en/squads/6c8b07df/Elche-Stats
 ESP-La Liga,2526,Espanyol,22,16,20,200,65,32.5,12.5,4.06,0.09,0.26,17.6,7,3,4,23.9,20.7,0.11,-3.9,-3.7,/en/squads/a8661628/Espanyol-Stats
 ESP-La Liga,2526,Getafe,24,16,13,149,39,26.2,9.31,2.44,0.09,0.33,19.7,4,0,0,10.7,10.7,0.07,2.3,2.3,/en/squads/7848bd64/Getafe-Stats
@@ -12,10 +12,10 @@ ESP-La Liga,2526,Girona,29,16,15,151,56,37.1,9.44,3.5,0.08,0.21,18.2,4,3,3,17.5,
 ESP-La Liga,2526,Levante,25,15,16,153,49,32.0,10.2,3.27,0.1,0.31,17.7,5,1,2,19.2,17.8,0.12,-3.2,-2.8,/en/squads/9800b6a1/Levante-Stats
 ESP-La Liga,2526,Mallorca,25,16,18,171,60,35.1,10.69,3.75,0.09,0.27,18.0,4,2,2,17.0,15.4,0.09,1.0,0.6,/en/squads/2aa12281/Mallorca-Stats
 ESP-La Liga,2526,Osasuna,21,16,14,159,51,32.1,9.94,3.19,0.08,0.24,17.0,6,2,3,16.7,14.4,0.09,-2.7,-2.4,/en/squads/03c57e2b/Osasuna-Stats
-ESP-La Liga,2526,Oviedo,27,15,7,134,39,29.1,8.93,2.6,0.04,0.15,18.1,2,1,2,12.6,11.0,0.08,-5.6,-5.0,/en/squads/ab358912/Oviedo-Stats
+ESP-La Liga,2526,Oviedo,27,16,7,138,40,29.0,8.62,2.5,0.04,0.15,17.9,2,1,2,13.2,11.7,0.09,-6.2,-5.7,/en/squads/ab358912/Oviedo-Stats
 ESP-La Liga,2526,Rayo Vallecano,24,15,13,188,57,30.3,12.53,3.8,0.06,0.21,19.4,6,1,2,20.4,18.8,0.1,-7.4,-6.8,/en/squads/98e8af82/Rayo-Vallecano-Stats
-ESP-La Liga,2526,Real Madrid,23,16,32,311,107,34.4,19.44,6.69,0.09,0.25,18.5,9,5,7,37.8,32.3,0.11,-5.8,-5.3,/en/squads/53a2f082/Real-Madrid-Stats
+ESP-La Liga,2526,Real Madrid,24,17,34,324,113,34.9,19.06,6.65,0.09,0.26,18.4,10,5,7,39.7,34.2,0.11,-5.7,-5.2,/en/squads/53a2f082/Real-Madrid-Stats
 ESP-La Liga,2526,Real Sociedad,27,16,20,211,71,33.6,13.19,4.44,0.08,0.24,17.6,7,3,3,21.2,18.9,0.09,-1.2,-1.9,/en/squads/e31d1cd9/Real-Sociedad-Stats
-ESP-La Liga,2526,Sevilla,31,15,17,158,44,27.8,10.53,2.93,0.09,0.34,17.7,3,2,2,13.6,12.3,0.08,3.4,2.7,/en/squads/ad2be733/Sevilla-Stats
+ESP-La Liga,2526,Sevilla,31,16,21,171,51,29.8,10.69,3.19,0.11,0.37,17.5,3,2,2,15.7,14.3,0.08,5.3,4.7,/en/squads/ad2be733/Sevilla-Stats
 ESP-La Liga,2526,Valencia,21,16,15,172,44,25.6,10.75,2.75,0.09,0.34,17.4,8,0,1,16.9,16.1,0.1,-1.9,-1.1,/en/squads/dcc91a7b/Valencia-Stats
 ESP-La Liga,2526,Villarreal,26,15,31,198,74,37.4,13.2,4.93,0.15,0.41,16.4,2,1,1,24.9,24.1,0.13,6.1,5.9,/en/squads/2a8183b3/Villarreal-Stats
