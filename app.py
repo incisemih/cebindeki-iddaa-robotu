@@ -258,21 +258,33 @@ class XGBoostEngine:
         return len(train_df)
         
     def predict(self, df):
-    # Tüm oynanmamış (sonucu belli olmayan) maçları al
-    unplayed = df[df['Result'].isnull()].copy()
-    
-    if unplayed.empty: return pd.DataFrame()
-    
-    # Tarih filtresini GEÇİCİ olarak kapattık. İlk 10 maçı göstersin:
-    target = unplayed.sort_values('Date').head(10) 
-    
-    X = target[self.features]
-    probs = self.model.predict_proba(X)
-    
-    target['p1'] = probs[:, 1] * 100
-    target['p0'] = probs[:, 0] * 100
-    target['p2'] = probs[:, 2] * 100
-    return target
+        now = datetime.now()
+        # Filter for upcoming matches (Result is NaN or Date >= Now)
+        # Actually, we want matches that haven't been played.
+        # In our CSV, unplayed matches usually have NaN Score or are in future.
+        
+        # Let's assume unplayed matches have NaN Result
+        unplayed = df[df['Result'].isnull()].copy()
+        
+        # Also filter by date to show only next 3-4 days
+        unplayed = unplayed[unplayed['Date'] >= now - timedelta(days=1)] # Include today
+        unplayed = unplayed.sort_values('Date')
+        
+        if unplayed.empty: return pd.DataFrame()
+        
+        # Limit to next 4 days
+        end_date = now + timedelta(days=4)
+        target = unplayed[unplayed['Date'] <= end_date]
+        
+        if target.empty: return pd.DataFrame()
+        
+        X = target[self.features]
+        probs = self.model.predict_proba(X)
+        
+        target['p1'] = probs[:, 1] * 100
+        target['p0'] = probs[:, 0] * 100
+        target['p2'] = probs[:, 2] * 100
+        return target
 
 # --- CACHED FUNCTIONS ---
 
